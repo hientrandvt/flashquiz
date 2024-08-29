@@ -47,12 +47,12 @@
   {
     "question": "違反（する）",
     "furigana": "い はん",
-    "meaning": ""
+    "meaning": "vi phạm"
   },
   {
     "question": "育成（する）",
     "furigana": "いくせい",
-    "meaning": "vi phạm"
+    "meaning": "nuôi dưỡng\n\n人材育成:nuôi dưỡng nhân tài"
   },
   {
     "question": "一時",
@@ -92,7 +92,7 @@
   {
     "question": "影響（する）",
     "furigana": "えいきょう",
-    "meaning": "ảnh hưởng\n影響を受ける: bị ảnh hưởng"
+    "meaning": "ảnh hưởng\n\n影響を受ける: bị ảnh hưởng"
   },
   {
     "question": "栄養",
@@ -137,7 +137,7 @@
   {
     "question": "解決（する）",
     "furigana": "かいけつ",
-    "meaning": "giải quyết\n =取り込む"
+    "meaning": "giải quyết\n\n =取り込む"
   },
   {
     "question": "解雇（する）",
@@ -192,7 +192,7 @@
   {
     "question": "確立（する）",
     "furigana": "かくりつ",
-    "meaning": "①xây dựng, thiết lập (kế hoạch, process)\n②thiết lập (vị trí cao, nổi tiếng)"
+    "meaning": "①xây dựng, thiết lập (kế hoạch, process)\n\n②thiết lập (vị trí cao, nổi tiếng)"
   },
   {
     "question": "覚悟（する）",
@@ -222,7 +222,7 @@
   {
     "question": "感心（する）",
     "furigana": "かんしん",
-    "meaning": "①ngưỡng mộ - admiration\n②cảm thấy ấn tượng"
+    "meaning": "①ngưỡng mộ - admiration\n\n②cảm thấy ấn tượng"
   },
   {
     "question": "環境",
@@ -237,7 +237,7 @@
   {
     "question": "簡易（な）",
     "furigana": "かん い",
-    "meaning": "nhẹ nhàng, đơn giản \n =手軽"
+    "meaning": "nhẹ nhàng, đơn giản \n\n =手軽"
   },
   {
     "question": "企画（する）",
@@ -257,16 +257,16 @@
   {
     "question": "基準",
     "furigana": "き じゅん",
-    "meaning": "tiêu chí\n基準点:tiêu chí chấm điểm"
+    "meaning": "tiêu chí\n\n基準点:tiêu chí chấm điểm"
   },
   {
     "question": "希望（する）",
     "furigana": "き ぼう",
-    "meaning": "hi vọng\n 希望にもえる:nung nấu hi vọng"
+    "meaning": "hi vọng\n\n 希望にもえる:nung nấu hi vọng"
   },
   {
     "question": "期末",
     "furigana": "きまつ",
-    "meaning": "cuối kì\n期末テスト:bài thi cuối kì"
+    "meaning": "cuối kì\n\n期末テスト:bài thi cuối kì"
   }
 ]
