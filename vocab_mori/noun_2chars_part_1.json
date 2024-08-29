@@ -2,17 +2,17 @@
   {
     "question": "悪化（する）",
     "furigana": "あっか",
-    "meaning": "Trở nên xấu đi"
+    "meaning": "trở nên xấu đi"
   },
   {
     "question": "依存（する）",
     "furigana": "いぞん",
-    "meaning": ""
+    "meaning": "phụ thuộc"
   },
   {
     "question": "意向",
     "furigana": "い こう",
-    "meaning": ""
+    "meaning": "ý muốn, nguyện vọng"
   },
   {
     "question": "意識（する）",
@@ -22,12 +22,12 @@
   {
     "question": "意図（する）",
     "furigana": "い と",
-    "meaning": ""
+    "meaning": "ý đồ"
   },
   {
     "question": "意欲",
     "furigana": "い よく",
-    "meaning": ""
+    "meaning": "tích cực, hết mình (trong công việc)"
   },
   {
     "question": "移行（する）",
@@ -37,12 +37,12 @@
   {
     "question": "維持（する）",
     "furigana": "い じ",
-    "meaning": ""
+    "meaning": "duy trì"
   },
   {
     "question": "衣装",
     "furigana": "い しょう",
-    "meaning": ""
+    "meaning": "trang phục biểu diễn, dạ hội"
   },
   {
     "question": "違反（する）",
@@ -52,7 +52,7 @@
   {
     "question": "育成（する）",
     "furigana": "いくせい",
-    "meaning": ""
+    "meaning": "vi phạm"
   },
   {
     "question": "一時",
@@ -61,28 +61,28 @@
   },
   {
     "question": "一体",
-    "furigana": "かいしょう",
+    "furigana": "いったい",
     "meaning": "rốt cuộc là"
   },
   {
     "question": "印象",
     "furigana": "いんしょう",
-    "meaning": ""
+    "meaning": "ấn tượng"
   },
   {
     "question": "引用（する）",
     "furigana": "いんよう",
-    "meaning": ""
+    "meaning": "trích dẫn"
   },
   {
     "question": "運営（する）",
     "furigana": "うんえい",
-    "meaning": ""
+    "meaning": "quản lý, điều hành"
   },
   {
     "question": "運行（する）",
     "furigana": "うんこう",
-    "meaning": "dùng trong giao thông"
+    "meaning": "vận hành, chạy theo một con đường , lộ tuyến đã có sẵn (hay dùng trong giao thông)"
   },
   {
     "question": "運用（する）",
@@ -92,22 +92,22 @@
   {
     "question": "影響（する）",
     "furigana": "えいきょう",
-    "meaning": ""
+    "meaning": "ảnh hưởng\n影響を受ける: bị ảnh hưởng"
   },
   {
     "question": "栄養",
     "furigana": "えいよう",
-    "meaning": ""
+    "meaning": "dinh dưỡng"
   },
   {
     "question": "遠慮（する）",
     "furigana": "えんりょ",
-    "meaning": ""
+    "meaning": "ngần ngại, khách sáo"
   },
   {
     "question": "横顔",
     "furigana": "よこがお",
-    "meaning": ""
+    "meaning": "góc nghiêng"
   },
   {
     "question": "家計",
@@ -117,17 +117,17 @@
   {
     "question": "家出（する）",
     "furigana": "いえ で",
-    "meaning": ""
+    "meaning": "bỏ nhà ra đi"
   },
   {
     "question": "課題",
     "furigana": "か だい",
-    "meaning": ""
+    "meaning": "vấn đề cần giải quyết"
   },
   {
     "question": "過程",
     "furigana": "か てい",
-    "meaning": ""
+    "meaning": "quá trình"
   },
   {
     "question": "過労",
@@ -137,12 +137,12 @@
   {
     "question": "解決（する）",
     "furigana": "かいけつ",
-    "meaning": ""
+    "meaning": "giải quyết\n =取り込む"
   },
   {
     "question": "解雇（する）",
     "furigana": "かい こ",
-    "meaning": ""
+    "meaning": "＝クビ"
   },
   {
     "question": "解除（する）",
@@ -162,27 +162,27 @@
   {
     "question": "回収（する）",
     "furigana": "かいしゅう",
-    "meaning": ""
+    "meaning": "thu hồi(rác...)"
   },
   {
     "question": "回復（する）",
     "furigana": "かいふく",
-    "meaning": ""
+    "meaning": "phục hồi"
   },
   {
     "question": "改善（する）",
     "furigana": "かいぜん",
-    "meaning": ""
+    "meaning": "cải tiến"
   },
   {
     "question": "拡大（する）",
     "furigana": "かくだい",
-    "meaning": ""
+    "meaning": "phóng to (bản đồ)"
   },
   {
     "question": "獲得（する）",
     "furigana": "かくとく",
-    "meaning": ""
+    "meaning": "thu nhận được,gặt hái được, đạt được"
   },
   {
     "question": "確率",
@@ -192,52 +192,52 @@
   {
     "question": "確立（する）",
     "furigana": "かくりつ",
-    "meaning": ""
+    "meaning": "①xây dựng, thiết lập (kế hoạch, process)\n②thiết lập (vị trí cao, nổi tiếng)"
   },
   {
     "question": "覚悟（する）",
     "furigana": "かく ご",
-    "meaning": "Chuẩn bị tinh thần"
+    "meaning": "chuẩn bị tinh thần"
   },
   {
     "question": "学習（する）",
     "furigana": "がくしゅう",
-    "meaning": ""
+    "meaning": "học tập"
   },
   {
     "question": "学歴",
     "furigana": "がくれき",
-    "meaning": ""
+    "meaning": "quá trình học hành, bằng cấp"
   },
   {
     "question": "楽器",
     "furigana": "がっ き",
-    "meaning": ""
+    "meaning": "nhạc cụ"
   },
   {
     "question": "感謝（する）",
     "furigana": "かんしゃ",
-    "meaning": ""
+    "meaning": "sự biết ơn"
   },
   {
     "question": "感心（する）",
     "furigana": "かんしん",
-    "meaning": ""
+    "meaning": "①ngưỡng mộ - admiration\n②cảm thấy ấn tượng"
   },
   {
     "question": "環境",
     "furigana": "かんきょう",
-    "meaning": ""
+    "meaning": "môi trường"
   },
   {
     "question": "管理（する）",
     "furigana": "かんり",
-    "meaning": ""
+    "meaning": "quản lí"
   },
   {
     "question": "簡易（な）",
     "furigana": "かん い",
-    "meaning": ""
+    "meaning": "nhẹ nhàng, đơn giản \n =手軽"
   },
   {
     "question": "企画（する）",
@@ -247,26 +247,26 @@
   {
     "question": "企業",
     "furigana": "き ぎょう",
-    "meaning": ""
+    "meaning": "kế hoạch tốt"
   },
   {
     "question": "危機",
     "furigana": "き き",
-    "meaning": ""
+    "meaning": "khủng hoảng, nguy cơ"
   },
   {
     "question": "基準",
     "furigana": "き じゅん",
-    "meaning": ""
+    "meaning": "tiêu chí\n基準点:tiêu chí chấm điểm"
   },
   {
     "question": "希望（する）",
     "furigana": "き ぼう",
-    "meaning": ""
+    "meaning": "hi vọng\n 希望にもえる:nung nấu hi vọng"
   },
   {
     "question": "期末",
     "furigana": "きまつ",
-    "meaning": ""
+    "meaning": "cuối kì\n期末テスト:bài thi cuối kì"
   }
 ]
