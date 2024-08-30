@@ -7,6 +7,18 @@
                 {
                     "fileName": "名詞(2文字)①",
                     "fileId": "vocab_mori/noun_2chars_part_1.json"
+                },
+                {
+                    "fileName": "名詞(2文字)②",
+                    "fileId": "vocab_mori/noun_2chars_part_2.json"
+                },
+                {
+                    "fileName": "名詞(2文字)③",
+                    "fileId": "vocab_mori/noun_2chars_part_3.json"
+                },
+                {
+                    "fileName": "名詞(2文字)④",
+                    "fileId": "vocab_mori/noun_2chars_part_4.json"
                 }
             ]
         }

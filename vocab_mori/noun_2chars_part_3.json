@@ -1,0 +1,332 @@
+[
+    {
+        "question": "高原",
+        "furigara": "こうげん",
+        "meaning": "cao nguyên"
+    },
+    {
+        "question": "合意（する）",
+        "furigara": "ごう い",
+        "meaning": "thống nhất ý kiến (sau khi bàn bạc, lấy ý kiến từng phía)\n\n何度も交渉した末にようやく両社ば合意して､契約が成立した。"
+    },
+    {
+        "question": "合成（する）",
+        "furigara": "ごうせい",
+        "meaning": "tổng hợp\n(chất,hình ảnh, âm thanh)"
+    },
+    {
+        "question": "告白（する）",
+        "furigara": "こくはく",
+        "meaning": "tỏ tình"
+    },
+    {
+        "question": "国有",
+        "furigara": "こくゆう",
+        "meaning": "quốc hữu"
+    },
+    {
+        "question": "困難（な）",
+        "furigara": "こんなん",
+        "meaning": "khó khăn\n\n困難を乗り越える:vượt qua khó khăn"
+    },
+    {
+        "question": "混同（する）",
+        "furigara": "こんどう",
+        "meaning": "nhầm lẫn, lẫn lộn"
+    },
+    {
+        "question": "再建（する）",
+        "furigara": "さいけん",
+        "meaning": "phẫu thuật ngực, tái thiết"
+    },
+    {
+        "question": "再現（する）",
+        "furigara": "さいげん",
+        "meaning": "tái hiện"
+    },
+    {
+        "question": "才能",
+        "furigara": "さいのう",
+        "meaning": "tài năng"
+    },
+    {
+        "question": "採用（する）",
+        "furigara": "さいよう",
+        "meaning": "tuyển dụng, áp dụng\n\n=取り入れる"
+    },
+    {
+        "question": "在庫",
+        "furigara": "ざい こ",
+        "meaning": "hàng tồn kho"
+    },
+    {
+        "question": "財政",
+        "furigara": "ざいせい",
+        "meaning": "tài chính\n\n財政危機:khủng hoảng tài chính"
+    },
+    {
+        "question": "作戦",
+        "furigara": "さくせん",
+        "meaning": "tác chiến"
+    },
+    {
+        "question": "作用（する）",
+        "furigara": "さ よう",
+        "meaning": "tác động\n\nこの薬は神経に作用して痛みを和らげる。"
+    },
+    {
+        "question": "殺人",
+        "furigara": "さつじん",
+        "meaning": "sát nhân\n\n=人殺し( ひとごろし)\n\n連続殺人事件: vụ án giết người hàng loạt"
+    },
+    {
+        "question": "参考（する）",
+        "furigara": "さんこう",
+        "meaning": "tham khảo\n\n参考人 :nhân chứng\n\n参考例: ví dụ tham khảo"
+    },
+    {
+        "question": "残業（する）",
+        "furigara": "ざんぎょう",
+        "meaning": "tăng ca\n\nサービス残業 : làm thêm không lương"
+    },
+    {
+        "question": "志望（する）",
+        "furigara": "し ぼう",
+        "meaning": "khát vọng, nguyện vọng\n\n志望動機: lí do xin việc ( ứng tuyển)"
+    },
+    {
+        "question": "思考（する）",
+        "furigara": "し こう",
+        "meaning": "tư duy"
+    },
+    {
+        "question": "指示（する）",
+        "furigara": "し じ",
+        "meaning": "chỉ thị\n\n指示を仰ぐ : xin chỉ thị"
+    },
+    {
+        "question": "支持（する）",
+        "furigara": "し じ",
+        "meaning": "ủng hộ"
+    },
+    {
+        "question": "支店",
+        "furigara": "し てん",
+        "meaning": "chi nhánh"
+    },
+    {
+        "question": "脂肪",
+        "furigara": "し ぼう",
+        "meaning": "mỡ"
+    },
+    {
+        "question": "視線",
+        "furigara": "し せん",
+        "meaning": "視線が合う: ánh nhìn chạm nhau\n\n視線を合わせる: nhìn vào mắt nhau\n\n新線をそらす: lảng đi chỗ khác\n\n視線をはずす: né tránh\n\n視線を浴びる: thu hút ánh nhìn"
+    },
+    {
+        "question": "視点",
+        "furigara": "し てん",
+        "meaning": "quan điểm"
+    },
+    {
+        "question": "視野",
+        "furigara": "し や",
+        "meaning": "tầm nhìn\n\n視野から消えて行け！đi cho khuất mắt tao đi"
+    },
+    {
+        "question": "視力",
+        "furigara": "し りょく",
+        "meaning": "thị lực"
+    },
+    {
+        "question": "資源",
+        "furigara": "し げん",
+        "meaning": "tài nguyên"
+    },
+    {
+        "question": "事項",
+        "furigara": "じ こう",
+        "meaning": "đầu mục"
+    },
+    {
+        "question": "事前",
+        "furigara": "じ ぜん",
+        "meaning": "trước\n\n=前もって\n=あらかじめ"
+    },
+    {
+        "question": "事例",
+        "furigara": "じ れい",
+        "meaning": "ví dụ thực tế"
+    },
+    {
+        "question": "持参（する）",
+        "furigara": "じ さん",
+        "meaning": "mang theo\n\n=持ってくる"
+    },
+    {
+        "question": "時期",
+        "furigara": "じ き",
+        "meaning": "thời điểm"
+    },
+    {
+        "question": "次第",
+        "furigara": "し だい",
+        "meaning": "1.V-る/V-た + 次第だ: Do đó, vì vậy \n2.Vます+次第: Ngay sau khi \n3.N + 次第: Tùy ở N"
+    },
+    {
+        "question": "治療（する）",
+        "furigara": "ち りょう",
+        "meaning": "điều trị\n\n延命治療 : điều trị để kéo dài sự sống"
+    },
+    {
+        "question": "自覚（する）",
+        "furigara": "じ かく",
+        "meaning": "tự hiểu tự biết, tự nhận ra"
+    },
+    {
+        "question": "自己",
+        "furigara": "じ こ",
+        "meaning": ""
+    },
+    {
+        "question": "失言（する）",
+        "furigara": "しつげん",
+        "meaning": "lỡ lời, nhỡ lời"
+    },
+    {
+        "question": "実家",
+        "furigara": "じっ か",
+        "meaning": "nhà(bố mẹ đẻ)"
+    },
+    {
+        "question": "実在（する）",
+        "furigara": "じつざい",
+        "meaning": "tồn tại trong thực tế"
+    },
+    {
+        "question": "実践（する）",
+        "furigara": "じっせん",
+        "meaning": "thực hành\n\n実践経験: kinh nghiệm thực tế"
+    },
+    {
+        "question": "車庫",
+        "furigara": "しゃ こ",
+        "meaning": "ガレージ garage"
+    },
+    {
+        "question": "車両",
+        "furigara": "しゃりょう",
+        "meaning": "toa tàu"
+    },
+    {
+        "question": "主張（する）",
+        "furigara": "しゅちょう",
+        "meaning": "lập luận"
+    },
+    {
+        "question": "取引（する）",
+        "furigara": "とりひき",
+        "meaning": "giao dịch"
+    },
+    {
+        "question": "取材（する）",
+        "furigara": "しゅざい",
+        "meaning": "phỏng vấn, thu thập tài liệu thông tin"
+    },
+    {
+        "question": "手段",
+        "furigara": "しゅだん",
+        "meaning": "biện pháp, phương pháp"
+    },
+    {
+        "question": "首相",
+        "furigara": "しゅしょう",
+        "meaning": "thủ tướng"
+    },
+    {
+        "question": "受賞（する）",
+        "furigara": "じゅしょう",
+        "meaning": "nhận giải thưởng"
+    },
+    {
+        "question": "需要",
+        "furigara": "じゅよう",
+        "meaning": "nhu cầu"
+    },
+    {
+        "question": "収益",
+        "furigara": "しゅうえき",
+        "meaning": "doanh thu"
+    },
+    {
+        "question": "収入",
+        "furigara": "しゅうにゅう",
+        "meaning": "thu nhập"
+    },
+    {
+        "question": "周囲",
+        "furigara": "しゅう い",
+        "meaning": "xung quanh, mọi người xung quanh"
+    },
+    {
+        "question": "就職（する）",
+        "furigara": "しゅうしょく",
+        "meaning": "việc làm"
+    },
+    {
+        "question": "修正（する）",
+        "furigara": "しゅうせい",
+        "meaning": "sửa lại cho đúng ( vì nó sai nên phải sửa)\n\n無修正: phim không che"
+    },
+    {
+        "question": "習慣",
+        "furigara": "しゅうかん",
+        "meaning": "tập quán"
+    },
+    {
+        "question": "従来",
+        "furigara": "じゅうらい",
+        "meaning": "từ trước đến nay"
+    },
+    {
+        "question": "重視（する）",
+        "furigara": "じゅう し",
+        "meaning": "chú trọng"
+    },
+    {
+        "question": "重点",
+        "furigara": "じゅうてん",
+        "meaning": "trọng điểm"
+    },
+    {
+        "question": "祝日",
+        "furigara": "しゅくじつ",
+        "meaning": "ngày lễ"
+    },
+    {
+        "question": "縮小（する）",
+        "furigara": "しゅくしょう",
+        "meaning": "thu nhỏ"
+    },
+    {
+        "question": "準備（する）",
+        "furigara": "じゅん び",
+        "meaning": "chuẩn bị"
+    },
+    {
+        "question": "初日",
+        "furigara": "しょにち",
+        "meaning": "ngày đầu đi làm,ngày đầu lễ hội"
+    },
+    {
+        "question": "所有（する）",
+        "furigara": "しょゆう",
+        "meaning": "sở hữu"
+    },
+    {
+        "question": "助言（する）",
+        "furigara": "じょげん",
+        "meaning": "tư vấn   \n\n= アドバイス"
+    }
+]

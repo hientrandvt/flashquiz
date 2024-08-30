@@ -1,0 +1,322 @@
+[
+  {
+    "question": "商店",
+    "furigara": "しょうてん",
+    "meaning": "cửa hàng"
+  },
+  {
+    "question": "消去（する）",
+    "furigara": "しょうきょ",
+    "meaning": "xóa hoàn toàn"
+  },
+  {
+    "question": "消費（する）",
+    "furigara": "しょう ひ",
+    "meaning": "tiêu dùng"
+  },
+  {
+    "question": "消滅（する）",
+    "furigara": "しょうめつ",
+    "meaning": "xoá sổ"
+  },
+  {
+    "question": "証言（する）",
+    "furigara": "しょうげん",
+    "meaning": "lời khai"
+  },
+  {
+    "question": "証人",
+    "furigara": "しょうにん",
+    "meaning": "nhân chứng"
+  },
+  {
+    "question": "証明（する）",
+    "furigara": "しょうめい",
+    "meaning": "chứng minh"
+  },
+  {
+    "question": "情報",
+    "furigara": "じょうほう",
+    "meaning": "thông tin"
+  },
+  {
+    "question": "条件",
+    "furigara": "じょうけん",
+    "meaning": "điều kiện"
+  },
+  {
+    "question": "状況",
+    "furigara": "じょうきょう",
+    "meaning": "tình huống"
+  },
+  {
+    "question": "状態",
+    "furigara": "じょうたい",
+    "meaning": "tình trạng, trạng thái"
+  },
+  {
+    "question": "職業",
+    "furigara": "しょくぎょう",
+    "meaning": "nghề"
+  },
+  {
+    "question": "職種",
+    "furigara": "しょくしゅ",
+    "meaning": "loại công việc"
+  },
+  {
+    "question": "職務",
+    "furigara": "しょく む",
+    "meaning": "vai trò \n\n=役目"
+  },
+  {
+    "question": "振込",
+    "furigara": "ふりこみ",
+    "meaning": "chuyển khoản"
+  },
+  {
+    "question": "新規",
+    "furigara": "しん き",
+    "meaning": "mới"
+  },
+  {
+    "question": "真心",
+    "furigara": "ま ごころ",
+    "meaning": "bằng cả tấm lòng\n\n新規商品"
+  },
+  {
+    "question": "神経",
+    "furigara": "しんけい",
+    "meaning": "thần kinh, tủy răng"
+  },
+  {
+    "question": "身内",
+    "furigara": "み うち",
+    "meaning": "1.họ hàng\n2.cùng tổ chức, cùng phe\n3.bên trong cơ thể"
+  },
+  {
+    "question": "進化（する）",
+    "furigara": "しん か",
+    "meaning": "tiến hóa"
+  },
+  {
+    "question": "進展（する）",
+    "furigara": "しんてん",
+    "meaning": "tiến triển"
+  },
+  {
+    "question": "進歩（する）",
+    "furigara": "しん ぽ",
+    "meaning": "tiến bộ"
+  },
+  {
+    "question": "進路",
+    "furigara": "しん ろ",
+    "meaning": "tiến trình, lộ trình"
+  },
+  {
+    "question": "人材",
+    "furigara": "じんざい",
+    "meaning": "nhân lực"
+  },
+  {
+    "question": "人手",
+    "furigara": "ひと で",
+    "meaning": "nhân lực"
+  },
+  {
+    "question": "人情",
+    "furigara": "にんじょう",
+    "meaning": "tình người"
+  },
+  {
+    "question": "人目",
+    "furigara": "ひと め",
+    "meaning": "ánh nhìn của người khác"
+  },
+  {
+    "question": "世帯",
+    "furigara": "せ たい",
+    "meaning": "hộ gia đình"
+  },
+  {
+    "question": "制服",
+    "furigara": "せいふく",
+    "meaning": "đồng phục"
+  },
+  {
+    "question": "性質",
+    "furigara": "せいしつ",
+    "meaning": "tính chất"
+  },
+  {
+    "question": "性別",
+    "furigara": "せいべつ",
+    "meaning": "giới tính"
+  },
+  {
+    "question": "政権",
+    "furigara": "せいけん",
+    "meaning": "chính quyền"
+  },
+  {
+    "question": "政策",
+    "furigara": "せいさく",
+    "meaning": "chính sách(thường dùng cho chính quyền, chính phủ, nhà nước, pháp luật)"
+  },
+  {
+    "question": "正義",
+    "furigara": "せい ぎ",
+    "meaning": "chính nghĩa"
+  },
+  {
+    "question": "正体",
+    "furigara": "しょうたい",
+    "meaning": "thân phận thật sự"
+  },
+  {
+    "question": "清掃（する）",
+    "furigara": "せいそう",
+    "meaning": "chính sách"
+  },
+  {
+    "question": "精神",
+    "furigara": "せいしん",
+    "meaning": "tinh thần"
+  },
+  {
+    "question": "責任",
+    "furigara": "せきにん",
+    "meaning": "trách nhiệm"
+  },
+  {
+    "question": "接近（する）",
+    "furigara": "せっきん",
+    "meaning": "tiếp cận"
+  },
+  {
+    "question": "設置（する）",
+    "furigara": "せっち",
+    "meaning": "lắp đặt"
+  },
+  {
+    "question": "設立（する）",
+    "furigara": "せつりつ",
+    "meaning": "thành lập"
+  },
+  {
+    "question": "先日",
+    "furigara": "せんじつ",
+    "meaning": "vài ngày trước"
+  },
+  {
+    "question": "専用",
+    "furigara": "せんよう",
+    "meaning": "chuyên dụng"
+  },
+  {
+    "question": "前例",
+    "furigara": "ぜんれい",
+    "meaning": "tiền lệ \n\n= かつて : Trước đây, trước kia"
+  },
+  {
+    "question": "想像（する）",
+    "furigara": "そうぞう",
+    "meaning": "tưởng tượng"
+  },
+  {
+    "question": "総合（する）",
+    "furigara": "そうごう",
+    "meaning": "tổng hợp"
+  },
+  {
+    "question": "即日",
+    "furigara": "そくじつ",
+    "meaning": "đúng ngày hôm đó, cùng ngày hôm đó"
+  },
+  {
+    "question": "存在（する）",
+    "furigara": "そんざい",
+    "meaning": "tồn tại"
+  },
+  {
+    "question": "存続（する）",
+    "furigara": "そんぞく",
+    "meaning": "tiếp tục tồn tại, tồn vong"
+  },
+  {
+    "question": "対応（する）",
+    "furigara": "たいおう",
+    "meaning": "đối ứng"
+  },
+  {
+    "question": "対象",
+    "furigara": "たいしょう",
+    "meaning": "tối tượng"
+  },
+  {
+    "question": "待遇",
+    "furigara": "たいぐう",
+    "meaning": "đãi ngộ"
+  },
+  {
+    "question": "態度",
+    "furigara": "たい ど",
+    "meaning": "thái độ"
+  },
+  {
+    "question": "台所",
+    "furigara": "だいどころ",
+    "meaning": "nhà bếp"
+  },
+  {
+    "question": "大衆",
+    "furigara": "たいしゅう",
+    "meaning": "quần chúng"
+  },
+  {
+    "question": "単一",
+    "furigara": "たんいつ",
+    "meaning": "đơn lẻ,duy nhất"
+  },
+  {
+    "question": "担任（する）",
+    "furigara": "たんにん",
+    "meaning": "chủ nhiệm"
+  },
+  {
+    "question": "短縮（する）",
+    "furigara": "たんしゅく",
+    "meaning": "thu nhỏ"
+  },
+  {
+    "question": "団結（する）",
+    "furigara": "だんけつ",
+    "meaning": "đoàn kết"
+  },
+  {
+    "question": "著書",
+    "furigara": "ちょしょ",
+    "meaning": "tác phẩm"
+  },
+  {
+    "question": "貯蓄（する）",
+    "furigara": "ちょちく",
+    "meaning": "tiết kiệm tài sản gồm cả tiền và đồ có giá trị"
+  },
+  {
+    "question": "挑戦（する）",
+    "furigara": "ちょうせん",
+    "meaning": "thử thách"
+  },
+  {
+    "question": "調和（する）",
+    "furigara": "ちょう わ",
+    "meaning": "hài hòa"
+  },
+  {
+    "question": "長所",
+    "furigara": "ちょうしょ",
+    "meaning": "sở trường"
+  }
+]
