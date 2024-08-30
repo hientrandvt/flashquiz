@@ -21,6 +21,16 @@
                     "fileId": "vocab_mori/noun_2chars_part_4.json"
                 }
             ]
+        },
+        {
+            "level": "N1",
+            "title": "Riki 1K",
+            "content": [
+                {
+                    "fileName": "1-60",
+                    "fileId": "vocab_riki_1k/1-60.json"
+                }
+            ]
         }
     ]
 }
