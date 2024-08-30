@@ -1,0 +1,252 @@
+[
+  {
+    "question": "ソフトな",
+    "meaning": "soft ① xốp mềm, hòa nhã (手触り てざわり, 色、声、口調 giọng điệu, 人柄、人当たり thái độ ứng xử)② phần mềm máy tính ソフトウェア",
+    "furigana": ""
+  },
+  {
+    "question": "ハードな",
+    "meaning": "hard ① khó khăn, vất vả (仕事、トレーニング、)② khó (スケジュール)③ cứng (箱、カバー vỏ bọc)④ phần cứng máy tính ハードウェア",
+    "furigana": ""
+  },
+  {
+    "question": "フォーマルな",
+    "meaning": "formal hình thức chuẩn mực đối với hoàn cảnh (ドレス cái đầm, 服装、格好、スタイル、デザイン、場、会話)",
+    "furigana": ""
+  },
+  {
+    "question": "カジュアルな",
+    "meaning": "casual suồng sã(格好、スタイル、デザイン、場、会話)",
+    "furigana": ""
+  },
+  {
+    "question": "シンプルな",
+    "meaning": "simple đơn giản (デザイン、化粧、料理、味、考え方、シンプルに暮らす)",
+    "furigana": ""
+  },
+  {
+    "question": "ドライ",
+    "meaning": "dry ① hợp lý, rõ ràng, đâu ra đó, không để tình cảm xen vào, mang hơi hướng lạnh nhạt (ドライな性格、ドライに考える、ドライに処理する)② khô (ドライフラワー dry flower, ドライクリーニング、ドライフルーツ、ドライヤー máy sấy)",
+    "furigana": ""
+  },
+  {
+    "question": "シビアな",
+    "meaning": "severe nghiêm khắc (評価、状況、)",
+    "furigana": ""
+  },
+  {
+    "question": "ピンチ",
+    "meaning": "pinch những lúc nguy cấp (お金がピンチ khó khăn về tiền bạc, ピンチに陥る rơi vào khó khăn, nguy hiểm )",
+    "furigana": ""
+  },
+  {
+    "question": "セーフ",
+    "meaning": "safe an toàn, không bị trễ, không bị thi rớt",
+    "furigana": ""
+  },
+  {
+    "question": "マンネリ",
+    "meaning": "mannerism lặp lại, lặp đi lặp lại",
+    "furigana": ""
+  },
+  {
+    "question": "バラエティー",
+    "meaning": "variety đa dạng, phong phú (バラエティーのある回答)",
+    "furigana": ""
+  },
+  {
+    "question": "パワー",
+    "meaning": "power sức mạnh",
+    "furigana": ""
+  },
+  {
+    "question": "バイタリティー",
+    "meaning": "vitality sức sống, hoạt lực",
+    "furigana": ""
+  },
+  {
+    "question": "ダイナミックな",
+    "meaning": "dynamic sự năng động (技、表現、動き、筆致 bút pháp nghệ thuật, 行動、性格)",
+    "furigana": ""
+  },
+  {
+    "question": "スタミナ",
+    "meaning": "stamina sức lực, thể lực, tinh lực",
+    "furigana": ""
+  },
+  {
+    "question": "ピーク",
+    "meaning": "peak đỉnh điểm (bao gồm cả cao và thấp) ８時頃、ラッシュはピークを迎えた",
+    "furigana": ""
+  },
+  {
+    "question": "クライマックス",
+    "meaning": "climax cao trào, cực điểm (ドラマ、人生、結婚式の)",
+    "furigana": ""
+  },
+  {
+    "question": "インパクト",
+    "meaning": "impact tác động, ảnh hưởng",
+    "furigana": ""
+  },
+  {
+    "question": "コントラスト",
+    "meaning": "contrast sự tương phản (パソコンの画面、)",
+    "furigana": ""
+  },
+  {
+    "question": "クリア",
+    "meaning": "clear ① trong, trạng thái tốt (画像、頭、)② trong, tinh khiết, không có gì ở trong (クリアな氷、クリアファイル)",
+    "furigana": ""
+  },
+  {
+    "question": "トーン",
+    "meaning": "tone ① nhịp điệu (声のトーン)② sắc thái (トーンの絵)",
+    "furigana": ""
+  },
+  {
+    "question": "ニュアンス",
+    "meaning": "nuance sắc thái (ニュアンスを伝える、言葉のニュアンス )",
+    "furigana": ""
+  },
+  {
+    "question": "フィーリング",
+    "meaning": "feeling cảm thụ",
+    "furigana": ""
+  },
+  {
+    "question": "ギャップ",
+    "meaning": "gap sự khác nhau, sự không hòa hợp nhau giữa 2 đối tượng(考え方に、理想と現実との)",
+    "furigana": ""
+  },
+  {
+    "question": "ステレオタイプな",
+    "meaning": "stereotype rập khuôn, sáo mòn (考え方、やり方)",
+    "furigana": ""
+  },
+  {
+    "question": "レッテル",
+    "meaning": "letter ① gắn nhãn, bị đánh giá người như thế(怠け者のレッテル nhãn người lười biếng)② giấy nhãn trên sản phẩm",
+    "furigana": ""
+  },
+  {
+    "question": "フィルター",
+    "meaning": "filter ① bộ lọc (カメラのレンズ)② bộ lọc nước, bụi, đầu lọc thuốc lá ③ sự sàng lọc",
+    "furigana": ""
+  },
+  {
+    "question": "ベース",
+    "meaning": "base căn cứ, căn bản, cốt lõi (小説のベース điều cốt lõi của cuốn tiểu thuyết, )",
+    "furigana": ""
+  },
+  {
+    "question": "インフラ",
+    "meaning": "infrastructure cơ sở hạ tầng",
+    "furigana": ""
+  },
+  {
+    "question": "ネットワーク",
+    "meaning": "network mạng lưới (いろいろなネットワークを持っている)",
+    "furigana": ""
+  },
+  {
+    "question": "テクノロジー",
+    "meaning": "technology công nghệ (バイオテクノロジー công nghệ sinh học, ナノテクノロジー công nghệ nano)",
+    "furigana": ""
+  },
+  {
+    "question": "テクニック",
+    "meaning": "technique kĩ thuật",
+    "furigana": ""
+  },
+  {
+    "question": "メカニズム",
+    "meaning": "mechanism ① cơ cấu, cấu tạo (機械の内部のメカニズム)② cơ chế (記憶のメカニズム、地球温暖化、地震、ガン発生)",
+    "furigana": ""
+  },
+  {
+    "question": "プロセス",
+    "meaning": "process quá trình",
+    "furigana": ""
+  },
+  {
+    "question": "をフィードバックする",
+    "meaning": "feedback đánh giá phản hồi",
+    "furigana": ""
+  },
+  {
+    "question": "コンセプト",
+    "meaning": "concept ý tưởng cơ sở để làm sản phẩm gì đó",
+    "furigana": ""
+  },
+  {
+    "question": "ポリシー",
+    "meaning": "policy chủ trương, phương châm hành động",
+    "furigana": ""
+  },
+  {
+    "question": "が/をアピールする",
+    "meaning": "appeal ① kêu gọi (核廃絶のアピール )② thu hút",
+    "furigana": ""
+  },
+  {
+    "question": "をシミュレーションする",
+    "meaning": "simulation mô phỏng",
+    "furigana": ""
+  },
+  {
+    "question": "アクセス",
+    "meaning": "access ① cách tiếp cận, đường vào (会場はアクセスが悪い)② truy cập (ホームページにアクセスする)",
+    "furigana": ""
+  },
+  {
+    "question": "がUターンする",
+    "meaning": "Uturn ① quay đầu, quay trở lại② trở về quê làm việc",
+    "furigana": ""
+  },
+  {
+    "question": "が/をシフトする",
+    "meaning": "shift ① làm việc theo ca (アルバイトのシフト)② chuyển đổi hình thức (生産拠点を国内から海外へシフトする)",
+    "furigana": ""
+  },
+  {
+    "question": "が/をチェンジする",
+    "meaning": "change thay đổi (イメージ、モデル、メンバー、席)",
+    "furigana": ""
+  },
+  {
+    "question": "フォーム",
+    "meaning": "form ① hình thể, tư thế ② kiểu mẫu, mẫu đơn, form",
+    "furigana": ""
+  },
+  {
+    "question": "ポーズ",
+    "meaning": "① [pose] tư thế chụp ảnh, vẽ tranh ② [pause] tạm dừng",
+    "furigana": ""
+  },
+  {
+    "question": "タイミング",
+    "meaning": "timing thời khắc, thời điểm (khi tiến hành một việc gì đó)",
+    "furigana": ""
+  },
+  {
+    "question": "ラスト",
+    "meaning": "last cuối cùng (thời gian, vị trí, thứ hạng)",
+    "furigana": ""
+  },
+  {
+    "question": "スムーズな",
+    "meaning": "smooth trôi chảy, thuận lợi khi làm một việc gì đó",
+    "furigana": ""
+  },
+  {
+    "question": "サイクル",
+    "meaning": "circle chu kì (自然のサイクル)",
+    "furigana": ""
+  },
+  {
+    "question": "ジェンダー",
+    "meaning": "gender giới tính",
+    "furigana": ""
+  }
+]

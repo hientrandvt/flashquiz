@@ -1,0 +1,242 @@
+[
+  {
+    "question": "が寄りかかる",
+    "meaning": "よりかかる dựa vào, tựa vào, dựa dẫm vào (壁に、木に、親に)",
+    "furigana": ""
+  },
+  {
+    "question": "（が）凭れかかる",
+    "meaning": "もたれかかる dựa vào, tựa vào, dựa dẫm vào (いすの背に、友人の肩に、親に)",
+    "furigana": ""
+  },
+  {
+    "question": "（が）つかみかかる",
+    "meaning": "tóm lấy, chụp lấy (相手に)",
+    "furigana": ""
+  },
+  {
+    "question": "が突っかかる",
+    "meaning": "つっかかる đâm vào, tấn công, gây hấn (闘牛士に võ sĩ đấu bò)",
+    "furigana": ""
+  },
+  {
+    "question": "が飛びかかる が跳びかかる",
+    "meaning": "とびかかる nhảy vồ lấy (犯人に、獲物に)",
+    "furigana": ""
+  },
+  {
+    "question": "が取りかかる",
+    "meaning": "とりかかる bắt đầu (論文に)",
+    "furigana": ""
+  },
+  {
+    "question": "が暮れかかる",
+    "meaning": "くれかかる sắp tối",
+    "furigana": ""
+  },
+  {
+    "question": "が落ちかかる",
+    "meaning": "おちかかる sắp rơi xuống",
+    "furigana": ""
+  },
+  {
+    "question": "が立てかける",
+    "meaning": "たてかける để tựa vào (壁に)",
+    "furigana": ""
+  },
+  {
+    "question": "が話しかける",
+    "meaning": "はなしかける bắt chuyện, nói chuyện (妹に)",
+    "furigana": ""
+  },
+  {
+    "question": "が働きかける",
+    "meaning": "はたらきかけるthực hiện hành động tác động đến người khác nhằm mục đích làm cho người khác chấp nhận đề án, nguyện vọng của bản thân （AをBに働きかける tác động lên B về vấn đề A）",
+    "furigana": ""
+  },
+  {
+    "question": "が押しかける",
+    "meaning": "おしかける đâm vào, lao vào (家に、空港に)",
+    "furigana": ""
+  },
+  {
+    "question": "が詰めかける",
+    "meaning": "つめかける tập trung đông ở một chỗ",
+    "furigana": ""
+  },
+  {
+    "question": "を見せかける",
+    "meaning": "みせかける ngụy tạo, ngụy trang (木の枝に ngụy trang vào cành cây)",
+    "furigana": ""
+  },
+  {
+    "question": "を言いかける",
+    "meaning": "いいかける bắt đầu nói (xong lại dừng lại)",
+    "furigana": ""
+  },
+  {
+    "question": "が溺れかける",
+    "meaning": "おぼれかける suýt chết đuối",
+    "furigana": ""
+  },
+  {
+    "question": "を言いつける",
+    "meaning": "いいつける ① ra lệnh, sai bảo ② mách lẻo, méc",
+    "furigana": ""
+  },
+  {
+    "question": "が駆けつける",
+    "meaning": "かけつける chạy lao vào (病院に)",
+    "furigana": ""
+  },
+  {
+    "question": "を決めつける",
+    "meaning": "きめつける khẳng định",
+    "furigana": ""
+  },
+  {
+    "question": "を送り付ける",
+    "meaning": "おくりつける gửi (một cách tự nguyện)",
+    "furigana": ""
+  },
+  {
+    "question": "を押し付ける",
+    "meaning": "おしつける ① ép buộc (人に責任を) ② ép vào, áp vào (壁に耳を)",
+    "furigana": ""
+  },
+  {
+    "question": "をにらみつける",
+    "meaning": "nhìn chằm chằm",
+    "furigana": ""
+  },
+  {
+    "question": "を叩きつける",
+    "meaning": "たたきつける đập vào (机に)",
+    "furigana": ""
+  },
+  {
+    "question": "を怒鳴りつける",
+    "meaning": "どなりつける quát mắng (コーチは選手を)",
+    "furigana": ""
+  },
+  {
+    "question": "を備え付ける",
+    "meaning": "そなえつける trang bị những đồ dùng thường xuyên",
+    "furigana": ""
+  },
+  {
+    "question": "を飾り付ける",
+    "meaning": "かざりつける trang trí",
+    "furigana": ""
+  },
+  {
+    "question": "をやりつける",
+    "meaning": "やりつける quen thuộc, thường làm （やりつけることをする）",
+    "furigana": ""
+  },
+  {
+    "question": "が行きつける",
+    "meaning": "いきつける thường đi đâu đó",
+    "furigana": ""
+  },
+  {
+    "question": "を勝ち取る",
+    "meaning": "かちとる chiến thắng",
+    "furigana": ""
+  },
+  {
+    "question": "をつかみ取る",
+    "meaning": "つかみとる nắm bắt (チャンスを、勝利を)",
+    "furigana": ""
+  },
+  {
+    "question": "を聞き取る",
+    "meaning": "ききとる nghe tiếp thu được, nghe được",
+    "furigana": ""
+  },
+  {
+    "question": "を書き取る",
+    "meaning": "かきとる ghi chú",
+    "furigana": ""
+  },
+  {
+    "question": "を読み取る",
+    "meaning": "よみとる đọc, nắm được nội dung (表情、気持ち、カード、)",
+    "furigana": ""
+  },
+  {
+    "question": "を乗っ取る",
+    "meaning": "のっとる chiếm quyền kiểm soát, chiếm đoạt (飛行機を、会社を)",
+    "furigana": ""
+  },
+  {
+    "question": "を抜き取る",
+    "meaning": "ぬきとる móc ra (財布から紙幣を)",
+    "furigana": ""
+  },
+  {
+    "question": "を言い返す",
+    "meaning": "いいかえす đáp trả, nói trả lại",
+    "furigana": ""
+  },
+  {
+    "question": "を読み返す",
+    "meaning": "よみかえす đọc lại",
+    "furigana": ""
+  },
+  {
+    "question": "を聞き返す",
+    "meaning": "ききかえす hỏi lại",
+    "furigana": ""
+  },
+  {
+    "question": "を思い返す",
+    "meaning": "おもいかえす ① suy nghĩ lại, thay đổi quyết định② nhớ lại",
+    "furigana": ""
+  },
+  {
+    "question": "を見返す",
+    "meaning": "みかえす ① đọc lại, xem lại (レポートを) ② nhìn lại (bị nhìn nên nhìn lại)",
+    "furigana": ""
+  },
+  {
+    "question": "を使い切る",
+    "meaning": "つかいきる sử dụng hết (力、財産、食材)",
+    "furigana": ""
+  },
+  {
+    "question": "を出し切る",
+    "meaning": "だしきる bộc lộ ra hết (全力を)",
+    "furigana": ""
+  },
+  {
+    "question": "が分かり切る",
+    "meaning": "わかりきる rõ ràng, hiển nhiên",
+    "furigana": ""
+  },
+  {
+    "question": "が困り切る",
+    "meaning": "こまりきる rất khốn đốn",
+    "furigana": ""
+  },
+  {
+    "question": "が澄み切る",
+    "meaning": "すみきる hoàn toàn trong sáng, trong xanh",
+    "furigana": ""
+  },
+  {
+    "question": "を押し切る",
+    "meaning": "おしきる nhất quyết、thường là nhất quyết phản đối （反対を押し切る）",
+    "furigana": ""
+  },
+  {
+    "question": "が言い切る",
+    "meaning": "いいきる khẳng định (本物だと)",
+    "furigana": ""
+  },
+  {
+    "question": "が踏み切る",
+    "meaning": "ふみきる hạ quyết tâm, quyết định làm",
+    "furigana": ""
+  }
+]

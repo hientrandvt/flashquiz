@@ -1,0 +1,252 @@
+[
+  {
+    "question": "見込みが立つ・ある・ない",
+    "meaning": "みこみ ① dự báo tốt (復旧の見込み dự báo về sự phục hồi )② được kì vọng, dự báo trong tương lai có khả năng (合格する見込み dự báo có khả năng đậu)",
+    "furigana": ""
+  },
+  {
+    "question": "見通し",
+    "meaning": "みとおし ① tầm nhìn② dự đoán, tầm nhìn đối với tương lai (将来の見通し)",
+    "furigana": ""
+  },
+  {
+    "question": "見積もり",
+    "meaning": "みつもりbáo giá, ước lượng giá",
+    "furigana": ""
+  },
+  {
+    "question": "が流通する",
+    "meaning": "りゅうつう phân phối hàng hóa (物資の流通 phân phối vật tư, hàng hóa, 紙幣が流通する lưu thông tiền giấy)",
+    "furigana": ""
+  },
+  {
+    "question": "が停滞する",
+    "meaning": "ていたい đình trệ (輸送が停滞する vận chuyển bị đình trệ, 景気の停滞 kinh tế đình trệ)",
+    "furigana": ""
+  },
+  {
+    "question": "不振",
+    "meaning": "ふしん không thuận lợi (売り上げが不振 doanh số không thuận lợi)",
+    "furigana": ""
+  },
+  {
+    "question": "を廃止する",
+    "meaning": "はいし bãi bỏ, đình chỉ (制度、システム、法律、習慣を)",
+    "furigana": ""
+  },
+  {
+    "question": "が繁栄する",
+    "meaning": "はんえい phồn vinh (国、町、会社、家、子孫...が)",
+    "furigana": ""
+  },
+  {
+    "question": "が成熟する",
+    "meaning": "せいじゅく ① chín (果物, ワイン)② trưởng thành, chín chắn (子供)③ già cỗi, có tuổi (車の成熟,成熟した市民社会)",
+    "furigana": ""
+  },
+  {
+    "question": "が飛躍する",
+    "meaning": "ひやく ① phát triển nhảy vọt② nhảy cóc, bỏ qua phần nào đó (結論の飛躍)",
+    "furigana": ""
+  },
+  {
+    "question": "が両立する",
+    "meaning": "りょうりつ cùng tồn tại, cùng đồng hành 2 thứ đối lập nhau (家庭と仕事を、趣味と実益、独裁と民主主義)",
+    "furigana": ""
+  },
+  {
+    "question": "統計",
+    "meaning": "とうけい sự thống kê",
+    "furigana": ""
+  },
+  {
+    "question": "が/を分散する",
+    "meaning": "ぶんさん phân tán (光、財産、リスク rủi ro, nguy cơ)",
+    "furigana": ""
+  },
+  {
+    "question": "均衡",
+    "meaning": "きんこう cân bằng (輸出と輸入の均衡を保つ、0-0の均衡が破られる)",
+    "furigana": ""
+  },
+  {
+    "question": "が/を蓄積する",
+    "meaning": "ちくせき tích trữ, dự trữ (資本の tiền vốn, 富 tài sản)",
+    "furigana": ""
+  },
+  {
+    "question": "延べ",
+    "meaning": "のべ tổng cộng (延べ２０万人, 家の延べ床面積 tổng diện tích sàn của ngôi nhà)",
+    "furigana": ""
+  },
+  {
+    "question": "人材",
+    "meaning": "じんざい nhân lực, nhân viên, người làm việc",
+    "furigana": ""
+  },
+  {
+    "question": "公衆",
+    "meaning": "こうしゅう công chúng, công cộng, người dân bình thường trong xã hội",
+    "furigana": ""
+  },
+  {
+    "question": "教養",
+    "meaning": "きょうよう giáo dưỡng, giáo dục",
+    "furigana": ""
+  },
+  {
+    "question": "視点",
+    "meaning": "してん ① ánh nhìn, ánh mắt(視点が定まらず ánh mắt không cố định, nhìn qua nhìn lại)② quan điểm cá nhân(新しい視点 quan điểm tiến bộ)",
+    "furigana": ""
+  },
+  {
+    "question": "観点",
+    "meaning": "かんてん quan điểm cá nhân",
+    "furigana": ""
+  },
+  {
+    "question": "を左右する",
+    "meaning": "さゆう ① bên trái bên phải(左右に注意する)② ảnh hưởng, biến động, dao động(天候に左右される bị dao động, bị ảnh hưởng tùy vào thời tiết)",
+    "furigana": ""
+  },
+  {
+    "question": "が直面する",
+    "meaning": "ちょくめん đối mặt (dùng trong những trường hợp xấu)",
+    "furigana": ""
+  },
+  {
+    "question": "を把握する",
+    "meaning": "はあく thấu hiểu, lĩnh hội",
+    "furigana": ""
+  },
+  {
+    "question": "を描写する",
+    "meaning": "びょうしゃ miêu tả",
+    "furigana": ""
+  },
+  {
+    "question": "仕掛け",
+    "meaning": "しかけ mánh khóe,những điều khác tiềm ẩn bên trong (仕掛け花火 pháo hoa mà khi nổ có nhiều hình thù đẹp mắt,)",
+    "furigana": ""
+  },
+  {
+    "question": "仕組み",
+    "meaning": "しくみ cơ cấu, tổ chức",
+    "furigana": ""
+  },
+  {
+    "question": "こつ",
+    "meaning": "bí quyết (ちょっとしたこつで bằng một chút bí quyết,...)",
+    "furigana": ""
+  },
+  {
+    "question": "技",
+    "meaning": "わざ kĩ năng, kĩ thuật, kĩ xảo",
+    "furigana": ""
+  },
+  {
+    "question": "先",
+    "meaning": "さき ① phần mép, đầu của đồ vật thon dài 鉛筆のさきがとがっている② vị trí đầu tiên, vị trí số 1 客はさきを争って店内に入った③ địa điểm mục tiêu hướng đến 行きさきを運転手に告げる④ tương lai, sự việc sau này さきのことを考えると気が重くなる⑤ quá khứ さきにお知らせした通りで変更なしです⑥ đối phương 時間はさき様にあわせよう⑦ theo thứ tự thì là thứ tự trước おさきにどうぞ⑧ phía trước このさきを左に曲がってください",
+    "furigana": ""
+  },
+  {
+    "question": "先端",
+    "meaning": "せんたん đầu mút, tiên phong",
+    "furigana": ""
+  },
+  {
+    "question": "過程",
+    "meaning": "かてい giai đoạn, quá trình đã xảy qua (実験の過程、成長の過程 )",
+    "furigana": ""
+  },
+  {
+    "question": "起源",
+    "meaning": "きげん khởi nguyên, nguồn gốc (人類の起源 nguồn gốc loài người)",
+    "furigana": ""
+  },
+  {
+    "question": "唯一",
+    "meaning": "ゆいいつ duy nhất",
+    "furigana": ""
+  },
+  {
+    "question": "恒例",
+    "meaning": "こうれい theo thông lệ (毎年恒例 thông lệ hằng năm、新春恒例 、年末恒例)",
+    "furigana": ""
+  },
+  {
+    "question": "目前",
+    "meaning": "もくぜん trước mắt (dùng cho cả thời gian và địa điểm)",
+    "furigana": ""
+  },
+  {
+    "question": "間際",
+    "meaning": "まぎわ ngay trước khi (試験開始の間際 ngay trước giờ bắt đầu thi)",
+    "furigana": ""
+  },
+  {
+    "question": "群れ",
+    "meaning": "むれ đàn (鳥の群れ, 群れをつくる)",
+    "furigana": ""
+  },
+  {
+    "question": "正体",
+    "meaning": "しょうたい danh tính, chân tướng, thân phận (犯人の正体)",
+    "furigana": ""
+  },
+  {
+    "question": "罠",
+    "meaning": "わな ① cái bẫy thú② bẫy, lừa đảo",
+    "furigana": ""
+  },
+  {
+    "question": "枠",
+    "meaning": "わく ① khung (文章の重要な部分を枠で囲む đóng khung phần quan trọng của đoạn văn)② khuôn khổ (枠にはまる vướng mắc vào khuôn khổ cứng nhắc)③ phạm vi, khuôn khổ (予算の枠 khoảng giới hạn của dự toán)",
+    "furigana": ""
+  },
+  {
+    "question": "艶",
+    "meaning": "つや sự nhẵn, mịn màng, nhẵn bóng (艶のある紙, 艶のある紙、肌、声)",
+    "furigana": ""
+  },
+  {
+    "question": "陰",
+    "meaning": "かげ ① bóng râm, bóng tối② nằm trong vỏ bọc, sự che khuất (ドアの陰 sự che khuất của cánh cửa)③ nói xấu sau lưng (陰で人の悪口を言う), làm cái bóng để cổ vũ từ phía sau (陰ながら応援する)",
+    "furigana": ""
+  },
+  {
+    "question": "影",
+    "meaning": "かげ ① cái bóng, hình dáng (人の影、山の影)② hình dáng, bóng dáng ③ ánh sáng (月の影、星影)",
+    "furigana": ""
+  },
+  {
+    "question": "柄",
+    "meaning": "がら ① họa tiết, hoa văn (派手な柄の服 trang phục có họa tiết sặc sỡ)② tầm vóc, dáng vóc ③ tính cách (柄の悪い人 người xấu tính)",
+    "furigana": ""
+  },
+  {
+    "question": "つじつま",
+    "meaning": "chặt chẽ, gắn kết (nội dung)",
+    "furigana": ""
+  },
+  {
+    "question": "差支え",
+    "meaning": "さしつかえ gây cản trở; gây chướng ngại",
+    "furigana": ""
+  },
+  {
+    "question": "しわ寄せ",
+    "meaning": "しわよせ trạng thái không thuận lợi, không tốt (しわ nếp nhăn)",
+    "furigana": ""
+  },
+  {
+    "question": "何らか",
+    "meaning": "なんらか cái gì đó (何らかの対策 đối sách gì đó, 何らかの形 kiểu gì đó)",
+    "furigana": ""
+  },
+  {
+    "question": "めいめい",
+    "meaning": "mỗi người, mỗi vật, mỗi thứ (チケットはめいめいで持ちください、出席者めいめい)",
+    "furigana": ""
+  }
+]
