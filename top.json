@@ -37,8 +37,12 @@
             "title": "耳から覚える N1",
             "content": [
                 {
-                    "fileName": "1-100",
-                    "fileId": "vocab_mimikara_n1/1-100.json"
+                    "fileName": "Unit 1: Goi 1 (1-50)",
+                    "fileId": "vocab_mimikara_n1/unit_1_goi_1.json"
+                },
+                {
+                    "fileName": "Unit 1: Goi 2 (51-100)",
+                    "fileId": "vocab_mimikara_n1/unit_1_goi_2.json"
                 }
             ]
         }
