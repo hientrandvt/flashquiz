@@ -1,0 +1,502 @@
+[
+  {
+    "question": "青春",
+    "meaning": "せいしゅんthanh xuân",
+    "furigana": ""
+  },
+  {
+    "question": "晩年",
+    "meaning": "ばんねんcuối đời, tuổi xế bóng",
+    "furigana": ""
+  },
+  {
+    "question": "葬式",
+    "meaning": "そうしきtang lễ, đám tang",
+    "furigana": ""
+  },
+  {
+    "question": "世帯",
+    "meaning": "せたいhộ gia đình",
+    "furigana": ""
+  },
+  {
+    "question": "世間",
+    "meaning": "せけんthế gian, xã hội",
+    "furigana": ""
+  },
+  {
+    "question": "庶民",
+    "meaning": "しょみんdân đen, dân thường",
+    "furigana": ""
+  },
+  {
+    "question": "おんぶする",
+    "meaning": "① địu, cõng trên lưng ② phụ thuộc, sống nhờ (実家に)",
+    "furigana": ""
+  },
+  {
+    "question": "片言",
+    "meaning": "かたこと① nói bập bõm, nói đứt đoạn, nói không trôi chảy② tám chuyện",
+    "furigana": ""
+  },
+  {
+    "question": "夜更かし",
+    "meaning": "よふかしthức khuya",
+    "furigana": ""
+  },
+  {
+    "question": "家出",
+    "meaning": "いえで① bỏ nhà ra đi② đi ra khỏi nhà",
+    "furigana": ""
+  },
+  {
+    "question": "戸締り(を)する",
+    "meaning": "とじまりkhóa cửa",
+    "furigana": ""
+  },
+  {
+    "question": "ずぶ濡れ",
+    "meaning": "ずぶぬれướt sũng",
+    "furigana": ""
+  },
+  {
+    "question": "顔つき",
+    "meaning": "かおつきvẻ mặt, nét mặt",
+    "furigana": ""
+  },
+  {
+    "question": "身なり",
+    "meaning": "みなりdiện mạo",
+    "furigana": ""
+  },
+  {
+    "question": "身の回り",
+    "meaning": "みのまわりnhững thứ xung quanh bản thân",
+    "furigana": ""
+  },
+  {
+    "question": "身振り",
+    "meaning": "みぶりĐiệu bộ, cử chỉ",
+    "furigana": ""
+  },
+  {
+    "question": "良心",
+    "meaning": "りょうしんlương tâm",
+    "furigana": ""
+  },
+  {
+    "question": "素質",
+    "meaning": "そしつtố chất, năng khiếu （素質+努力＝才能）",
+    "furigana": ""
+  },
+  {
+    "question": "好意",
+    "meaning": "こういhảo ý, lòng tốt",
+    "furigana": ""
+  },
+  {
+    "question": "ため息",
+    "meaning": "ためいきtiếng thở dài",
+    "furigana": ""
+  },
+  {
+    "question": "ど忘れ",
+    "meaning": "どわすれsự đãng trí",
+    "furigana": ""
+  },
+  {
+    "question": "用心",
+    "meaning": "ようじんcẩn thận đối với nguy hiểm",
+    "furigana": ""
+  },
+  {
+    "question": "予感する",
+    "meaning": "よかんdự cảm, linh tính",
+    "furigana": ""
+  },
+  {
+    "question": "視線",
+    "meaning": "しせんánh mắt, ánh nhìn",
+    "furigana": ""
+  },
+  {
+    "question": "迷信",
+    "meaning": "めいしんmê tín",
+    "furigana": ""
+  },
+  {
+    "question": "縁",
+    "meaning": "えんduyên＊縁起（えんぎ）が良い・悪い",
+    "furigana": ""
+  },
+  {
+    "question": "使い捨て",
+    "meaning": "つかいすてsử dụng 1 lần rồi bỏ",
+    "furigana": ""
+  },
+  {
+    "question": "下取り",
+    "meaning": "したどりđổi cũ lấy mới, có bù thêm tiền",
+    "furigana": ""
+  },
+  {
+    "question": "倹約",
+    "meaning": "けんやくtiết kiệm (không dùng với tài nguyên thiên nhiên, thời gian)",
+    "furigana": ""
+  },
+  {
+    "question": "出費する",
+    "meaning": "しゅっぴchi tiêu、nói về mức độ (が多い、が少ない、がかさむ tăng, を切り詰める cắt giảm)",
+    "furigana": ""
+  },
+  {
+    "question": "会計",
+    "meaning": "かいけいkế toán, tính tiền",
+    "furigana": ""
+  },
+  {
+    "question": "所得",
+    "meaning": "しょとくsau khi đã khấu trừ, thường dùng trong sổ sách, giấy tờ, tính chính xác",
+    "furigana": ""
+  },
+  {
+    "question": "採用する",
+    "meaning": "さいよう① thuê, mướn, tuyển dụng ② sử dụng, thừa nhận",
+    "furigana": ""
+  },
+  {
+    "question": "雇用する",
+    "meaning": "こようthuê, mướn, tuyển dụng (từ này chỉ dùng cho con người )",
+    "furigana": ""
+  },
+  {
+    "question": "所属する",
+    "meaning": "しょぞくthường nói về tổ chức của con người, nhìn thấy được （営業部に、区のボランティア会に）",
+    "furigana": ""
+  },
+  {
+    "question": "待遇",
+    "meaning": "たいぐう① chế độ đãi ngộ ② tiếp đón (không dùng với đãi món ăn, dùng 接待)",
+    "furigana": ""
+  },
+  {
+    "question": "派遣する",
+    "meaning": "はけんsự sai bảo, sự phái đi",
+    "furigana": ""
+  },
+  {
+    "question": "赴任する",
+    "meaning": "ふにんchuyển công tác (những người có trách nhiệm, vai trò cao như tổ trưởng, trưởng phòng,... nhận nhiệm vụ xây dựng một chi nhanh mới hoặc một trách nhiệm mới cao hơn, khó khăn hơn)",
+    "furigana": ""
+  },
+  {
+    "question": "地元",
+    "meaning": "じもとđịa phương của mình, quê nhà",
+    "furigana": ""
+  },
+  {
+    "question": "現役",
+    "meaning": "げんえき① đang hoạt động, đang đảm nhiệm② học sinh lớp 12 thi một lần đỗ đại học",
+    "furigana": ""
+  },
+  {
+    "question": "指図する",
+    "meaning": "さしずchỉ thị, hướng dẫn",
+    "furigana": ""
+  },
+  {
+    "question": "操縦する",
+    "meaning": "そうじゅう① điều khiển, vận hành (máy bay, tàu thuyền) ② điều khiển con người",
+    "furigana": ""
+  },
+  {
+    "question": "主食",
+    "meaning": "しゅしょくlương thực chính, thức ăn chính trong bữa ăn (gạo, cơm, v.v)",
+    "furigana": ""
+  },
+  {
+    "question": "食物",
+    "meaning": "しょくもつthực phẩm",
+    "furigana": ""
+  },
+  {
+    "question": "穀物",
+    "meaning": "こくもつngũ cốc, bột mì, đậu, v.v ngoại trừ gạo",
+    "furigana": ""
+  },
+  {
+    "question": "豊作",
+    "meaning": "ほうさくtrúng mùa, mùa màng bội thu",
+    "furigana": ""
+  },
+  {
+    "question": "例年",
+    "meaning": "れいねんđịnh kì hàng năm",
+    "furigana": ""
+  },
+  {
+    "question": "種",
+    "meaning": "たね①hạt, hạt giống②「話の種」 cốt lõi, trọng tâm (vấn đề, câu chuyện) ③ 「手品の種」mánh lới, thủ thuật (thủ thuật của những trò biểu diễn bằng tay (gần với ảo thuật))",
+    "furigana": ""
+  },
+  {
+    "question": "とげ",
+    "meaning": "cái gai, cái dằm (gỗ, tre,v.v)",
+    "furigana": ""
+  },
+  {
+    "question": "毒",
+    "meaning": "どく① độc, chất độc② độc hại ③ từ ngữ có chứa chất độc, từ ngữ cay nghiệt",
+    "furigana": ""
+  },
+  {
+    "question": "（を）意図する",
+    "meaning": "いと ý đồ, mục đích",
+    "furigana": ""
+  },
+  {
+    "question": "（が）向上する",
+    "meaning": "こうじょう cải thiện, vươn lên",
+    "furigana": ""
+  },
+  {
+    "question": "活気",
+    "meaning": "かっき náo nhiệt",
+    "furigana": ""
+  },
+  {
+    "question": "迫力",
+    "meaning": "はくりょく mãnh liệt, sức lôi cuốn, thúc đẩy",
+    "furigana": ""
+  },
+  {
+    "question": "（が）勝利する",
+    "meaning": "しょうり thắng lợi",
+    "furigana": ""
+  },
+  {
+    "question": "（が）適応する",
+    "meaning": "てきおう thích ứng",
+    "furigana": ""
+  },
+  {
+    "question": "（が）調和する",
+    "meaning": "ちょうわ điều hòa, hòa hợp",
+    "furigana": ""
+  },
+  {
+    "question": "権力",
+    "meaning": "けんりょく quyền lực",
+    "furigana": ""
+  },
+  {
+    "question": "権威",
+    "meaning": "けんい quyền uy, người có ảnh hưởng lớn trong lĩnh vực gì(Nhà khoa học, chính trị gia)",
+    "furigana": ""
+  },
+  {
+    "question": "（を）圧迫する",
+    "meaning": "あっぱく ① dùng tay hoặc cái gì đó ép mạnh vào② sức mạnh của cái này gây tác động xấu lên cái khác③ phô trương sức mạnh để áp đảo đối thủ",
+    "furigana": ""
+  },
+  {
+    "question": "（を）強制する",
+    "meaning": "きょうせい cưỡng chế, bắt người khác làm những cái mình muốn, người làm thường không muốn",
+    "furigana": ""
+  },
+  {
+    "question": "（を）規制する",
+    "meaning": "きせい quy chế, đưa ra luật lệ, quy chế để ép người khác tuân thủ theo (giao thông, xây dựng, cạnh tranh kinh doanh)",
+    "furigana": ""
+  },
+  {
+    "question": "（を）拒否する",
+    "meaning": "きょひ cự phủ, cự tuyệt, thiên về không thèm quan tâm (yêu cầu, chính sách)",
+    "furigana": ""
+  },
+  {
+    "question": "（が）対抗する",
+    "meaning": "たいこう đối kháng, cạnh tranh với nhau, chống đối lẫn nhau",
+    "furigana": ""
+  },
+  {
+    "question": "（が）抗議する",
+    "meaning": "こうぎ kháng nghị, phản đối (phản đối phán quyết của toà án, phản đối tăng thuế)",
+    "furigana": ""
+  },
+  {
+    "question": "（を）革新する",
+    "meaning": "かくしん cách tân, cải cách, đổi mới, bỏ cái cũ, làm cái mới tốt hơn (không dùng với hiến pháp, pháp luật mà dùng 改正), chính trị, đảng, bộ máy nhà nước dùng được",
+    "furigana": ""
+  },
+  {
+    "question": "原則",
+    "meaning": "げんそく nguyên tắc",
+    "furigana": ""
+  },
+  {
+    "question": "（が）経過する",
+    "meaning": "けいか ① trải qua, trôi qua② (名） quá trình",
+    "furigana": ""
+  },
+  {
+    "question": "（を）中継する",
+    "meaning": "ちゅうけい phát thanh, phát hình, phát sóng (từ đài truyền hình)",
+    "furigana": ""
+  },
+  {
+    "question": "規模",
+    "meaning": "きぼ quy mô",
+    "furigana": ""
+  },
+  {
+    "question": "くじ",
+    "meaning": "lá thăm",
+    "furigana": ""
+  },
+  {
+    "question": "桁",
+    "meaning": "けた chữ số",
+    "furigana": ""
+  },
+  {
+    "question": "単位",
+    "meaning": "たんい đơn vị",
+    "furigana": ""
+  },
+  {
+    "question": "（を）一括する",
+    "meaning": "いっかつ gom lại thành 1 rồi xử lý",
+    "furigana": ""
+  },
+  {
+    "question": "塊/固まり",
+    "meaning": "かたまり vón cục, tảng, miếng",
+    "furigana": ""
+  },
+  {
+    "question": "丈",
+    "meaning": "たけ vạt (áo), chiều dài",
+    "furigana": ""
+  },
+  {
+    "question": "欄",
+    "meaning": "らん cột, bảng",
+    "furigana": ""
+  },
+  {
+    "question": "隅",
+    "meaning": "すみ góc",
+    "furigana": ""
+  },
+  {
+    "question": "縁",
+    "meaning": "ふち viền, mép",
+    "furigana": ""
+  },
+  {
+    "question": "ひび",
+    "meaning": "nứt",
+    "furigana": ""
+  },
+  {
+    "question": "（が）分裂する",
+    "meaning": "ぶんれつ rạn nứt, chia rẽ, phân chia",
+    "furigana": ""
+  },
+  {
+    "question": "（が）振動する",
+    "meaning": "しんどう sự chấn động, chấn động",
+    "furigana": ""
+  },
+  {
+    "question": "（が）沸騰する",
+    "meaning": "ふっとう ① sôi sục② nóng bỏng, sôi sục (話題、世論、株価 かぶか giá cổ phiếu)",
+    "furigana": ""
+  },
+  {
+    "question": "（が）循環する",
+    "meaning": "じゅんかん tuần hoàn, hoạt động một vòng khép kín",
+    "furigana": ""
+  },
+  {
+    "question": "（を）回収する",
+    "meaning": "かいしゅう thu hồi sau khi đã phát ra",
+    "furigana": ""
+  },
+  {
+    "question": "（を）獲得する",
+    "meaning": "かくとく thu được thành quả sau những nổ lực",
+    "furigana": ""
+  },
+  {
+    "question": "区間",
+    "meaning": "くかん khu vực, đoạn",
+    "furigana": ""
+  },
+  {
+    "question": "施設",
+    "meaning": "しせつ cơ sở vật chất",
+    "furigana": ""
+  },
+  {
+    "question": "（を）運営する",
+    "meaning": "うんえい quản lý, điều hành (学園祭、組織、学校、会議、...）",
+    "furigana": ""
+  },
+  {
+    "question": "（が）面会する",
+    "meaning": "めんかい gặp gỡ",
+    "furigana": ""
+  },
+  {
+    "question": "（を）返却する",
+    "meaning": "へんきゃく trả lại, hoàn trả",
+    "furigana": ""
+  },
+  {
+    "question": "（が）投書する",
+    "meaning": "とうしょ thư gửi đến các cơ quan tổ chức bày tỏ nguyện vọng, ý kiến...Hoặc thư của người đọc gửi đến báo chí để bày tỏ quan điểm bản thân về các vấn đề",
+    "furigana": ""
+  },
+  {
+    "question": "（を）検索する",
+    "meaning": "けんさくtìm kiếm, tra",
+    "furigana": ""
+  },
+  {
+    "question": "（を）負傷する",
+    "meaning": "ふしょう bị thương",
+    "furigana": ""
+  },
+  {
+    "question": "（が）感染する",
+    "meaning": "かんせん lây nhiễm, truyền nhiễm",
+    "furigana": ""
+  },
+  {
+    "question": "（が）作用する",
+    "meaning": "さよう tác dụng",
+    "furigana": ""
+  },
+  {
+    "question": "（が）依存する",
+    "meaning": "いぞん/いそん phụ thuộc, lệ thuộc, nghiện",
+    "furigana": ""
+  },
+  {
+    "question": "（が/を）解消する",
+    "meaning": "かいしょう hủy, xóa bỏ, giải tỏa",
+    "furigana": ""
+  },
+  {
+    "question": "（を）促進する",
+    "meaning": "そくしん xúc tiến, thúc đẩy, thường là nhà nước, chính quyền thực thi biện pháp để thúc đẩy những vấn đề mang tính quốc gia (buôn bán, thương mại, sử dụng năng lượng tự nhiên)",
+    "furigana": ""
+  },
+  {
+    "question": "意向",
+    "meaning": "いこう chí hướng; dự định; ý muốn",
+    "furigana": ""
+  }
+]

@@ -31,6 +31,16 @@
                     "fileId": "vocab_riki_1k/1-60.json"
                 }
             ]
+        },
+        {
+            "level": "N1",
+            "title": "耳から覚える N1",
+            "content": [
+                {
+                    "fileName": "1-100",
+                    "fileId": "vocab_mimikara_n1/1-100.json"
+                }
+            ]
         }
     ]
 }
