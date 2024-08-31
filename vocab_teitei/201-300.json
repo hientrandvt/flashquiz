@@ -1,501 +1,501 @@
 [
   {
-    "question": "201 . 区画(する)",
+    "question": "区画(する)",
     "meaning": "Hán Việt: KHU HỌA ....... Hiragana: くかく ....... Nghĩa: Phân lô",
     "furigana": ""
   },
   {
-    "question": "202 . 護衛(する)",
+    "question": "護衛(する)",
     "meaning": "Hán Việt: HỘ VỆ ....... Hiragana: ごえい ....... Nghĩa: Bảo vệ, hộ tống",
     "furigana": ""
   },
   {
-    "question": "203 . 死刑(する)",
+    "question": "死刑(する)",
     "meaning": "Hán Việt: TỬ HÌNH ....... Hiragana: しけい ....... Nghĩa: Tử hình",
     "furigana": ""
   },
   {
-    "question": "204 . 辞職(する)",
+    "question": "辞職(する)",
     "meaning": "Hán Việt: TỪ CHỨC ....... Hiragana: じしょく ....... Nghĩa: Từ chức",
     "furigana": ""
   },
   {
-    "question": "205 . 持続(する)",
+    "question": "持続(する)",
     "meaning": "Hán Việt: TRÌ TỤC ....... Hiragana: じぞく ....... Nghĩa: Tiếp tục, kéo dài",
     "furigana": ""
   },
   {
-    "question": "206 . 志望(する)",
+    "question": "志望(する)",
     "meaning": "Hán Việt: CHÍ VỌNG ....... Hiragana: しぼう ....... Nghĩa: Mong muốn, khát vọng",
     "furigana": ""
   },
   {
-    "question": "207 . 始末(する)",
+    "question": "始末(する)",
     "meaning": "Hán Việt: THỦY MẠT ....... Hiragana: しまつ ....... Nghĩa: Đầu đến cuối; kết cục; thu xếp, xử lý; tiết kiệm",
     "furigana": ""
   },
   {
-    "question": "208 . 主催(する)",
+    "question": "主催(する)",
     "meaning": "Hán Việt: CHỦ THÔI ....... Hiragana: しゅさい ....... Nghĩa: Đăng cai, tổ chức",
     "furigana": ""
   },
   {
-    "question": "209 . 取材(する)",
+    "question": "取材(する)",
     "meaning": "Hán Việt: THỦ TÀI ....... Hiragana: しゅざい ....... Nghĩa: Thu thập, phỏng vấn",
     "furigana": ""
   },
   {
-    "question": "210 . 所属(する)",
+    "question": "所属(する)",
     "meaning": "Hán Việt: SỞ CHÚC ....... Hiragana: しょぞく ....... Nghĩa: Thuộc về",
     "furigana": ""
   },
   {
-    "question": "211 . 除外(する)",
+    "question": "除外(する)",
     "meaning": "Hán Việt: TRỪ NGOẠI ....... Hiragana: じょがい ....... Nghĩa: Ngoại trừ",
     "furigana": ""
   },
   {
-    "question": "212 . 徐行(する)",
+    "question": "徐行(する)",
     "meaning": "Hán Việt: TỪ HÀNH ....... Hiragana: じょこう ....... Nghĩa: Giảm tốc độ",
     "furigana": ""
   },
   {
-    "question": "213 . 処分(する)",
+    "question": "処分(する)",
     "meaning": "Hán Việt: XỬ PHÂN ....... Hiragana: しょぶん ....... Nghĩa: Xử lý, xử phạt",
     "furigana": ""
   },
   {
-    "question": "214 . 自立(する)",
+    "question": "自立(する)",
     "meaning": "Hán Việt: TỰ LẬP ....... Hiragana: じりつ ....... Nghĩa: Tự lập",
     "furigana": ""
   },
   {
-    "question": "215 . 指令(する)",
+    "question": "指令(する)",
     "meaning": "Hán Việt: CHỈ LỆNH ....... Hiragana: しれい ....... Nghĩa: Chỉ thị, ra lệnh",
     "furigana": ""
   },
   {
-    "question": "216 . 妥結(する)",
+    "question": "妥結(する)",
     "meaning": "Hán Việt: THỎA KẾT ....... Hiragana: だけつ ....... Nghĩa: Thỏa thuận",
     "furigana": ""
   },
   {
-    "question": "217 . 貯蓄(する)",
+    "question": "貯蓄(する)",
     "meaning": "Hán Việt: TRỮ SÚC ....... Hiragana: ちょちく ....... Nghĩa: Tiết kiệm (tiền)",
     "furigana": ""
   },
   {
-    "question": "218 . 治療(する)",
+    "question": "治療(する)",
     "meaning": "Hán Việt: TRỊ LIỆU ....... Hiragana: ちりょう ....... Nghĩa: Điều trị",
     "furigana": ""
   },
   {
-    "question": "219 . 破壊(する)",
+    "question": "破壊(する)",
     "meaning": "Hán Việt: PHÁ HOẠI ....... Hiragana: はかい ....... Nghĩa: Phá hoại",
     "furigana": ""
   },
   {
-    "question": "220 . 破損(する)",
+    "question": "破損(する)",
     "meaning": "Hán Việt: PHÁ TỔN ....... Hiragana: はそん ....... Nghĩa: Hư tổn",
     "furigana": ""
   },
   {
-    "question": "221 . 破裂(する)",
+    "question": "破裂(する)",
     "meaning": "Hán Việt: PHÁ LIỆT ....... Hiragana: はれつ ....... Nghĩa: Vỡ, nổ",
     "furigana": ""
   },
   {
-    "question": "222 . 悲観(する)",
+    "question": "悲観(する)",
     "meaning": "Hán Việt: BI QUAN ....... Hiragana: ひかん ....... Nghĩa: Bi quan",
     "furigana": ""
   },
   {
-    "question": "223 . 否決(する)",
+    "question": "否決(する)",
     "meaning": "Hán Việt: PHỦ QUYẾT ....... Hiragana: ひけつ ....... Nghĩa: Bác bỏ, ko thông qua",
     "furigana": ""
   },
   {
-    "question": "224 . 微笑(する)",
+    "question": "微笑(する)",
     "meaning": "Hán Việt: VI TIẾU ....... Hiragana: びしょう ....... Nghĩa: Cười mỉm",
     "furigana": ""
   },
   {
-    "question": "225 . 比例(する)",
+    "question": "比例(する)",
     "meaning": "Hán Việt: TỈ LỆ ....... Hiragana: ひれい ....... Nghĩa: Tỉ lệ",
     "furigana": ""
   },
   {
-    "question": "226 . 布告(する)",
+    "question": "布告(する)",
     "meaning": "Hán Việt: BỐ CÁO ....... Hiragana: ふこく ....... Nghĩa: Tuyên bố, thông báo",
     "furigana": ""
   },
   {
-    "question": "227 . 武装(する)",
+    "question": "武装(する)",
     "meaning": "Hán Việt: VŨ TRANG ....... Hiragana: ぶそう ....... Nghĩa: Vũ trang",
     "furigana": ""
   },
   {
-    "question": "228 . 捕獲(する)",
+    "question": "捕獲(する)",
     "meaning": "Hán Việt: BỘ HOẠCH ....... Hiragana: ほかく ....... Nghĩa: Bắt giữ, giữ chân",
     "furigana": ""
   },
   {
-    "question": "229 . 補給(する)",
+    "question": "補給(する)",
     "meaning": "Hán Việt: BỔ CẤP ....... Hiragana: ほきゅう ....... Nghĩa: Cung cấp thêm",
     "furigana": ""
   },
   {
-    "question": "230 . 募金(する)",
+    "question": "募金(する)",
     "meaning": "Hán Việt: MỘ KIM ....... Hiragana: ぼきん ....... Nghĩa: Quyên tiền",
     "furigana": ""
   },
   {
-    "question": "231 . 舗装(する)",
+    "question": "舗装(する)",
     "meaning": "Hán Việt: PHỐ TRANG ....... Hiragana: ほそう ....... Nghĩa: Lát đường",
     "furigana": ""
   },
   {
-    "question": "232 . 補足(する)",
+    "question": "補足(する)",
     "meaning": "Hán Việt: BỔ TÚC ....... Hiragana: ほそく ....... Nghĩa: Bổ sung",
     "furigana": ""
   },
   {
-    "question": "233 . 保養(する)",
+    "question": "保養(する)",
     "meaning": "Hán Việt: BẢO DƯỠNG ....... Hiragana: ほよう ....... Nghĩa: Bổ dưỡng, bảo dưỡng",
     "furigana": ""
   },
   {
-    "question": "234 . 模倣(する)",
+    "question": "模倣(する)",
     "meaning": "Hán Việt: MÔ PHỎNG ....... Hiragana: もほう ....... Nghĩa: Bắt chước",
     "furigana": ""
   },
   {
-    "question": "235 . 預金(する)",
+    "question": "預金(する)",
     "meaning": "Hán Việt: DỰ KIM ....... Hiragana: よきん ....... Nghĩa: Gửi tiền",
     "furigana": ""
   },
   {
-    "question": "236 . 予言(する)",
+    "question": "予言(する)",
     "meaning": "Hán Việt: DỰ NGÔN ....... Hiragana: よげん ....... Nghĩa: Tiên đoán",
     "furigana": ""
   },
   {
-    "question": "237 . 移植(する)",
+    "question": "移植(する)",
     "meaning": "Hán Việt: DI THỰC ....... Hiragana: いしょく ....... Nghĩa: Cấy ghép",
     "furigana": ""
   },
   {
-    "question": "238 . 遺伝(する)",
+    "question": "遺伝(する)",
     "meaning": "Hán Việt: DI TRUYỀN ....... Hiragana: いでん ....... Nghĩa: Di truyền",
     "furigana": ""
   },
   {
-    "question": "239 . 会釈(する)",
+    "question": "会釈(する)",
     "meaning": "Hán Việt: HỘI THÍCH ....... Hiragana: えしゃく ....... Nghĩa: Cúi chào",
     "furigana": ""
   },
   {
-    "question": "240 . 祈願(する)",
+    "question": "祈願(する)",
     "meaning": "Hán Việt: KÌ NGUYỆN ....... Hiragana: きがん ....... Nghĩa: Cầu nguyện",
     "furigana": ""
   },
   {
-    "question": "241 . 棄却(する)",
+    "question": "棄却(する)",
     "meaning": "Hán Việt: KHÍ KHƯỚC ....... Hiragana: ききゃく ....... Nghĩa: Bác bỏ",
     "furigana": ""
   },
   {
-    "question": "242 . 偽装(する)",
+    "question": "偽装(する)",
     "meaning": "Hán Việt: NGỤY TRANG ....... Hiragana: ぎそう ....... Nghĩa: Ngụy trang",
     "furigana": ""
   },
   {
-    "question": "243 . 解毒(する)",
+    "question": "解毒(する)",
     "meaning": "Hán Việt: GIẢI ĐỘC ....... Hiragana: げどく ....... Nghĩa: Giải độc",
     "furigana": ""
   },
   {
-    "question": "244 . 懸念(する)",
+    "question": "懸念(する)",
     "meaning": "Hán Việt: HUYỀN NIỆM ....... Hiragana: けねん ....... Nghĩa: Lo lắng, quan ngại",
     "furigana": ""
   },
   {
-    "question": "245 . 下落(する)",
+    "question": "下落(する)",
     "meaning": "Hán Việt: HẠ LẠC ....... Hiragana: げらく ....... Nghĩa: Sụt giảm",
     "furigana": ""
   },
   {
-    "question": "246 . 固執(する)",
+    "question": "固執(する)",
     "meaning": "Hán Việt: CỐ CHẤP ....... Hiragana: こしつ ....... Nghĩa: Cố chấp, bảo thủ",
     "furigana": ""
   },
   {
-    "question": "247 . 挫折(する)",
+    "question": "挫折(する)",
     "meaning": "Hán Việt: TỎA CHIẾT ....... Hiragana: ざせつ ....... Nghĩa: Thất bại, bỏ giữa chừng",
     "furigana": ""
   },
   {
-    "question": "248 . 左遷(する)",
+    "question": "左遷(する)",
     "meaning": "Hán Việt: TẢ THIÊN ....... Hiragana: させん ....... Nghĩa: Giáng chức, hạ bậc",
     "furigana": ""
   },
   {
-    "question": "249 . 作動(する)",
+    "question": "作動(する)",
     "meaning": "Hán Việt: TÁC ĐỘNG ....... Hiragana: さどう ....... Nghĩa: Hoạt động",
     "furigana": ""
   },
   {
-    "question": "250 . 自炊(する)",
+    "question": "自炊(する)",
     "meaning": "Hán Việt: TỰ XUY ....... Hiragana: じすい ....... Nghĩa: Tự nấu ăn",
     "furigana": ""
   },
   {
-    "question": "251 . 自重(する)",
+    "question": "自重(する)",
     "meaning": "Hán Việt: TỰ TRỌNG ....... Hiragana: じちょう/じじゅう ....... Nghĩa: Tự trọng/Trọng lượng cơ thể",
     "furigana": ""
   },
   {
-    "question": "252 . 遮断(する)",
+    "question": "遮断(する)",
     "meaning": "Hán Việt: GIÀ ĐOẠN ....... Hiragana: しゃだん ....... Nghĩa: Ngắt, làm gián đoạn",
     "furigana": ""
   },
   {
-    "question": "253 . 授与(する)",
+    "question": "授与(する)",
     "meaning": "Hán Việt: THỤ DỮ ....... Hiragana: じゅよ ....... Nghĩa: Trao cho",
     "furigana": ""
   },
   {
-    "question": "254 . 受領(する)",
+    "question": "受領(する)",
     "meaning": "Hán Việt: THỤ LĨNH ....... Hiragana: じゅりょう ....... Nghĩa: Tiếp nhận",
     "furigana": ""
   },
   {
-    "question": "255 . 是認(する)",
+    "question": "是認(する)",
     "meaning": "Hán Việt: THỊ NHẬN ....... Hiragana: ぜにん ....... Nghĩa: Công nhận",
     "furigana": ""
   },
   {
-    "question": "256 . 疎外(する)",
+    "question": "疎外(する)",
     "meaning": "Hán Việt: SƠ NGOẠI ....... Hiragana: そがい ....... Nghĩa: Xa lánh",
     "furigana": ""
   },
   {
-    "question": "257 . 阻害(する)",
+    "question": "阻害(する)",
     "meaning": "Hán Việt: TRỞ HẠI ....... Hiragana: そがい ....... Nghĩa: Cản trở, trở ngại",
     "furigana": ""
   },
   {
-    "question": "258 . 遅延(する)",
+    "question": "遅延(する)",
     "meaning": "Hán Việt: TRÌ DUYÊN ....... Hiragana: ちえん ....... Nghĩa: Trì hoãn",
     "furigana": ""
   },
   {
-    "question": "259 . 波及(する)",
+    "question": "波及(する)",
     "meaning": "Hán Việt: BA CẬP ....... Hiragana: はきゅう ....... Nghĩa: Lan rộng, lan truyền",
     "furigana": ""
   },
   {
-    "question": "260 . 破綻(する)",
+    "question": "破綻(する)",
     "meaning": "Hán Việt: PHÁ TRÁN ....... Hiragana: はたん ....... Nghĩa: Sụp đổ , phá sản, bế tắc",
     "furigana": ""
   },
   {
-    "question": "261 . 破滅(する)",
+    "question": "破滅(する)",
     "meaning": "Hán Việt: PHÁ DIỆT ....... Hiragana: はめつ ....... Nghĩa: Bị hủy hoại, bị diệt vong",
     "furigana": ""
   },
   {
-    "question": "262 . 批准(する)",
+    "question": "批准(する)",
     "meaning": "Hán Việt: PHÊ CHUẨN ....... Hiragana: ひじゅん ....... Nghĩa: Phê chuẩn",
     "furigana": ""
   },
   {
-    "question": "263 . 浮上(する)",
+    "question": "浮上(する)",
     "meaning": "Hán Việt: PHÙ THƯỢNG ....... Hiragana: ふじょう ....... Nghĩa: Nổi lên",
     "furigana": ""
   },
   {
-    "question": "264 . 魅惑(する)",
+    "question": "魅惑(する)",
     "meaning": "Hán Việt: MỊ HOẶC ....... Hiragana: みわく ....... Nghĩa: Quyến rũ, mê hoặc",
     "furigana": ""
   },
   {
-    "question": "265 . 癒着(する)",
+    "question": "癒着(する)",
     "meaning": "Hán Việt: DŨ TRỨ ....... Hiragana: ゆちゃく ....... Nghĩa: Dính chặt; kết hợp",
     "furigana": ""
   },
   {
-    "question": "266 . 由来(する)",
+    "question": "由来(する)",
     "meaning": "Hán Việt: DO LAI ....... Hiragana: ゆらい ....... Nghĩa: Bắt nguồn từ",
     "furigana": ""
   },
   {
-    "question": "267 . 意向",
+    "question": "意向",
     "meaning": "Hán Việt: Ý HƯỚNG ....... Hiragana: いこう ....... Nghĩa: Ý muốn, ý định",
     "furigana": ""
   },
   {
-    "question": "268 . 衣装",
+    "question": "衣装",
     "meaning": "Hán Việt: Y TRANG ....... Hiragana: いしょう ....... Nghĩa: Trang phục",
     "furigana": ""
   },
   {
-    "question": "269 . 遺跡",
+    "question": "遺跡",
     "meaning": "Hán Việt: DI TÍCH ....... Hiragana: いせき ....... Nghĩa: Di tích",
     "furigana": ""
   },
   {
-    "question": "270 . 意欲",
+    "question": "意欲",
     "meaning": "Hán Việt: Ý DỤC ....... Hiragana: いよく ....... Nghĩa: Ý muốn, tinh thần hăng hái",
     "furigana": ""
   },
   {
-    "question": "271 . 威力",
+    "question": "威力",
     "meaning": "Hán Việt: UY LỰC ....... Hiragana: いりょく ....... Nghĩa: Sức mạnh",
     "furigana": ""
   },
   {
-    "question": "272 . 架空",
+    "question": "架空",
     "meaning": "Hán Việt: GIÁ KHÔNG ....... Hiragana: かくう ....... Nghĩa: Hư cấu, tưởng tượng",
     "furigana": ""
   },
   {
-    "question": "273 . 仮説",
+    "question": "仮説",
     "meaning": "Hán Việt: GIẢ THUYẾT ....... Hiragana: かせつ ....... Nghĩa: Giả thuyết",
     "furigana": ""
   },
   {
-    "question": "274 . 化繊",
+    "question": "化繊",
     "meaning": "Hán Việt: HÓA TIÊM ....... Hiragana: かせん ....... Nghĩa: Sợi tổng hợp",
     "furigana": ""
   },
   {
-    "question": "275 . 河川",
+    "question": "河川",
     "meaning": "Hán Việt: HÀ XUYÊN ....... Hiragana: かせん ....... Nghĩa: Sông ngòi",
     "furigana": ""
   },
   {
-    "question": "276 . 課題",
+    "question": "課題",
     "meaning": "Hán Việt: KHÓA ĐỀ ....... Hiragana: かだい ....... Nghĩa: Chủ đề, đề tài, nhiệm vụ",
     "furigana": ""
   },
   {
-    "question": "277 . 花壇",
+    "question": "花壇",
     "meaning": "Hán Việt: HOA ĐÀN ....... Hiragana: かだん ....... Nghĩa: Vườn hoa",
     "furigana": ""
   },
   {
-    "question": "278 . 過労",
+    "question": "過労",
     "meaning": "Hán Việt: QUÁ LAO ....... Hiragana: かろう ....... Nghĩa: Làm việc quá sức",
     "furigana": ""
   },
   {
-    "question": "279 . 危害",
+    "question": "危害",
     "meaning": "Hán Việt: NGUY HẠI ....... Hiragana: きがい ....... Nghĩa: Sự nguy hại, nguy hiểm",
     "furigana": ""
   },
   {
-    "question": "280 . 規格",
+    "question": "規格",
     "meaning": "Hán Việt: QUY CÁCH ....... Hiragana: きかく ....... Nghĩa: Quy cách/tiêu chuẩn",
     "furigana": ""
   },
   {
-    "question": "281 . 企業",
+    "question": "企業",
     "meaning": "Hán Việt: XÍ NGHIỆP ....... Hiragana: きぎょう ....... Nghĩa: Xí nghiệp",
     "furigana": ""
   },
   {
-    "question": "282 . 戯曲",
+    "question": "戯曲",
     "meaning": "Hán Việt: HÍ KHÚC ....... Hiragana: ぎきょく ....... Nghĩa: Kịch bản, lời thoại",
     "furigana": ""
   },
   {
-    "question": "283 . 起源",
+    "question": "起源",
     "meaning": "Hán Việt: KHỞI NGUYÊN ....... Hiragana: きげん ....... Nghĩa: Khởi nguồn",
     "furigana": ""
   },
   {
-    "question": "284 . 既婚",
+    "question": "既婚",
     "meaning": "Hán Việt: KÍ HÔN ....... Hiragana: きこん ....... Nghĩa: Đã kết hôn",
     "furigana": ""
   },
   {
-    "question": "285 . 儀式",
+    "question": "儀式",
     "meaning": "Hán Việt: NGHI THỨC ....... Hiragana: ぎしき ....... Nghĩa: Nghi thức",
     "furigana": ""
   },
   {
-    "question": "286 . 気象",
+    "question": "気象",
     "meaning": "Hán Việt: KHÍ TƯỢNG ....... Hiragana: きしょう ....... Nghĩa: Khí tượng",
     "furigana": ""
   },
   {
-    "question": "287 . 軌道",
+    "question": "軌道",
     "meaning": "Hán Việt: QUỸ ĐẠO ....... Hiragana: きどう ....... Nghĩa: Quỹ đạo",
     "furigana": ""
   },
   {
-    "question": "288 . 規範",
+    "question": "規範",
     "meaning": "Hán Việt: QUY PHẠM ....... Hiragana: きはん ....... Nghĩa: Quy phạm, tiêu chuẩn",
     "furigana": ""
   },
   {
-    "question": "289 . 起伏",
+    "question": "起伏",
     "meaning": "Hán Việt: KHỞI PHỤC ....... Hiragana: きふく ....... Nghĩa: Nhấp nhô, thăng trầm",
     "furigana": ""
   },
   {
-    "question": "290 . 疑惑",
+    "question": "疑惑",
     "meaning": "Hán Việt: NGHI HOẶC ....... Hiragana: ぎわく ....... Nghĩa: Hoài nghi",
     "furigana": ""
   },
   {
-    "question": "291 . 固有",
+    "question": "固有",
     "meaning": "Hán Việt: CỐ HỮU ....... Hiragana: こゆう ....... Nghĩa: Cái vốn có",
     "furigana": ""
   },
   {
-    "question": "292 . 砂漠",
+    "question": "砂漠",
     "meaning": "Hán Việt: SA MẠC ....... Hiragana: さばく ....... Nghĩa: Sa mạc",
     "furigana": ""
   },
   {
-    "question": "293 . 事項",
+    "question": "事項",
     "meaning": "Hán Việt: SỰ HẠNG ....... Hiragana: じこう ....... Nghĩa: Điều khoản, mục",
     "furigana": ""
   },
   {
-    "question": "294 . 事情",
+    "question": "事情",
     "meaning": "Hán Việt: SỰ TÌNH ....... Hiragana: じじょう ....... Nghĩa: Sự tình , lý do",
     "furigana": ""
   },
   {
-    "question": "295 . 姿勢",
+    "question": "姿勢",
     "meaning": "Hán Việt: TƯ THẾ ....... Hiragana: しせい ....... Nghĩa: Tư thế",
     "furigana": ""
   },
   {
-    "question": "296 . 事態",
+    "question": "事態",
     "meaning": "Hán Việt: SỰ THÁI ....... Hiragana: じたい ....... Nghĩa: Tình hình",
     "furigana": ""
   },
   {
-    "question": "297 . 視点",
+    "question": "視点",
     "meaning": "Hán Việt: THỊ ĐIỂM ....... Hiragana: してん ....... Nghĩa: Quan điểm",
     "furigana": ""
   },
   {
-    "question": "298 . 紙幣",
+    "question": "紙幣",
     "meaning": "Hán Việt: CHỈ TỆ ....... Hiragana: しへい ....... Nghĩa: Tiền giấy",
     "furigana": ""
   },
   {
-    "question": "299 . 脂肪",
+    "question": "脂肪",
     "meaning": "Hán Việt: CHI PHƯƠNG ....... Hiragana: しぼう ....... Nghĩa: Mỡ",
     "furigana": ""
   },
   {
-    "question": "300 . 使命",
+    "question": "使命",
     "meaning": "Hán Việt: SỨ MỆNH ....... Hiragana: しめい ....... Nghĩa: Sứ mệnh",
     "furigana": ""
   }
