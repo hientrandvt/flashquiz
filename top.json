@@ -27,8 +27,88 @@
             "title": "Riki 1K",
             "content": [
                 {
-                    "fileName": "1-60",
-                    "fileId": "vocab_riki_1k/1-60.json"
+                    "fileName": "1-50",
+                    "fileId": "vocab_riki_1k/1-50.json"
+                },
+                {
+                    "fileName": "51-100",
+                    "fileId": "vocab_riki_1k/51-100.json"
+                },
+                {
+                    "fileName": "101-150",
+                    "fileId": "vocab_riki_1k/101-150.json"
+                },
+                {
+                    "fileName": "151-200",
+                    "fileId": "vocab_riki_1k/151-200.json"
+                },
+                {
+                    "fileName": "201-250",
+                    "fileId": "vocab_riki_1k/201-250.json"
+                },
+                {
+                    "fileName": "251-300",
+                    "fileId": "vocab_riki_1k/251-300.json"
+                },
+                {
+                    "fileName": "351-400",
+                    "fileId": "vocab_riki_1k/351-400.json"
+                },
+                {
+                    "fileName": "401-450",
+                    "fileId": "vocab_riki_1k/401-450.json"
+                },
+                {
+                    "fileName": "451-500",
+                    "fileId": "vocab_riki_1k/451-500.json"
+                },
+                {
+                    "fileName": "501-550",
+                    "fileId": "vocab_riki_1k/501-550.json"
+                },
+                {
+                    "fileName": "551-600",
+                    "fileId": "vocab_riki_1k/551-600.json"
+                },
+                {
+                    "fileName": "601-650",
+                    "fileId": "vocab_riki_1k/601-650.json"
+                },
+                {
+                    "fileName": "651-700",
+                    "fileId": "vocab_riki_1k/651-700.json"
+                },
+                {
+                    "fileName": "651-700",
+                    "fileId": "vocab_riki_1k/651-700.json"
+                },
+                {
+                    "fileName": "651-700",
+                    "fileId": "vocab_riki_1k/651-700.json"
+                },
+                {
+                    "fileName": "701-750",
+                    "fileId": "vocab_riki_1k/701-750.json"
+                },
+                {
+                    "fileName": "751-800",
+                    "fileId": "vocab_riki_1k/751-800.json"
+                },
+                {
+                    "fileName": "801-850",
+                    "fileId": "vocab_riki_1k/801-850.json"
+                },
+                {
+                    "fileName": "851-900",
+                    "fileId": "vocab_riki_1k/851-900.json"
+                },
+                {
+                    "fileName": "901-950",
+                    "fileId": "vocab_riki_1k/901-950.json"
+                },
+                {
+                    "fileName": "951-1000",
+                    "fileId": "vocab_riki_1k/951-1000.json"
                 }
             ]
         },

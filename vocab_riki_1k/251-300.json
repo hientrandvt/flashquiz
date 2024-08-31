@@ -1,0 +1,252 @@
+[
+  {
+    "question": "残留",
+    "meaning": "ざんりゅう Đọng lại, còn sót lại, tàn dư",
+    "furigana": ""
+  },
+  {
+    "question": "所持",
+    "meaning": "しょじ Sở hữu",
+    "furigana": ""
+  },
+  {
+    "question": "拒絶",
+    "meaning": "きょぜつ Cự tuyệt, từ chối",
+    "furigana": ""
+  },
+  {
+    "question": "隔離",
+    "meaning": "かくり Cách ly, cách biệt",
+    "furigana": ""
+  },
+  {
+    "question": "充実",
+    "meaning": "じゅうじつ 1. Trọn vẹn, ý nghĩa 2. Đầy đủ, sung túc",
+    "furigana": ""
+  },
+  {
+    "question": "解禁",
+    "meaning": "かいきん Huỷ bỏ lệnh chấm",
+    "furigana": ""
+  },
+  {
+    "question": "採択",
+    "meaning": "さいたく Chọn lọc, lựa chọn",
+    "furigana": ""
+  },
+  {
+    "question": "在籍",
+    "meaning": "ざいせき Đang theo học, tham gia, việc làm",
+    "furigana": ""
+  },
+  {
+    "question": "就労",
+    "meaning": "しゅうろう Làm việc lao động",
+    "furigana": ""
+  },
+  {
+    "question": "偏見",
+    "meaning": "へんけん Thành kiến, phiến diện",
+    "furigana": ""
+  },
+  {
+    "question": "継続",
+    "meaning": "けいぞく Tiếp tục ( những việc vẫn đang làm từ trước",
+    "furigana": ""
+  },
+  {
+    "question": "実行",
+    "meaning": "じっこう Thi hành, thực hiện (kế hoạch)",
+    "furigana": ""
+  },
+  {
+    "question": "証言",
+    "meaning": "しょうげん Lời khai",
+    "furigana": ""
+  },
+  {
+    "question": "開示",
+    "meaning": "かいじ Tiết lộ",
+    "furigana": ""
+  },
+  {
+    "question": "手つかず",
+    "meaning": "てつかず Còn nguyên, chưa động tay vào",
+    "furigana": ""
+  },
+  {
+    "question": "変容",
+    "meaning": "へんよう Thay đổi",
+    "furigana": ""
+  },
+  {
+    "question": "軌跡",
+    "meaning": "きせき 1. Vết bánh xe2. Quỹ đạo, lối mòn, lối đi cũ",
+    "furigana": ""
+  },
+  {
+    "question": "消除",
+    "meaning": "しょうじょ Xoá bỏ ( xoá bỏ hoàn toàn)",
+    "furigana": ""
+  },
+  {
+    "question": "除去",
+    "meaning": "じょきょ Loại bỏ ( Xăm mình, ô nhiễm, chướng ngại vật)",
+    "furigana": ""
+  },
+  {
+    "question": "全盛",
+    "meaning": "ぜんせい Thịnh vượng, đỉnh cao, cực thịnh",
+    "furigana": ""
+  },
+  {
+    "question": "盛況",
+    "meaning": "せいきょう Thành công ( sự kiện, dự án)",
+    "furigana": ""
+  },
+  {
+    "question": "投影",
+    "meaning": "とうえい 1. Phản chiếu, chiếu ( ảnh, hình ảnh) 2. Phản chiếu ( nghĩa bóng)",
+    "furigana": ""
+  },
+  {
+    "question": "感染",
+    "meaning": "かんせん Sự nhiễm, bị nhiễm",
+    "furigana": ""
+  },
+  {
+    "question": "背後",
+    "meaning": "はいご Đằng sau, phía sau",
+    "furigana": ""
+  },
+  {
+    "question": "うろちょろ",
+    "meaning": "Loanh quanh, lảng vảng",
+    "furigana": ""
+  },
+  {
+    "question": "運搬",
+    "meaning": "うんぱん Vận tải, chuyên chở, vận chuyển",
+    "furigana": ""
+  },
+  {
+    "question": "遠慮",
+    "meaning": "えんりょ 1. Ngần ngại, khách sáo 2. Hạn chế 3. Từ chối",
+    "furigana": ""
+  },
+  {
+    "question": "防止",
+    "meaning": "ぼうし Ngăn chặn",
+    "furigana": ""
+  },
+  {
+    "question": "劣化",
+    "meaning": "れっか Xuống cấp , hư hỏng",
+    "furigana": ""
+  },
+  {
+    "question": "逮捕",
+    "meaning": "たいほ Bắt giữ",
+    "furigana": ""
+  },
+  {
+    "question": "目撃",
+    "meaning": "もくげき Chứng kiến",
+    "furigana": ""
+  },
+  {
+    "question": "金融",
+    "meaning": "きんゆう Tài chính",
+    "furigana": ""
+  },
+  {
+    "question": "連載",
+    "meaning": "れんさい Đăng tải liên tục, xuất bản theo kì",
+    "furigana": ""
+  },
+  {
+    "question": "裁判",
+    "meaning": "さいばん xét xử, kết án",
+    "furigana": ""
+  },
+  {
+    "question": "被告",
+    "meaning": "ひこく Bị cáo",
+    "furigana": ""
+  },
+  {
+    "question": "弁護",
+    "meaning": "べんご Biện hộ",
+    "furigana": ""
+  },
+  {
+    "question": "討論",
+    "meaning": "とうろん Thảo luận",
+    "furigana": ""
+  },
+  {
+    "question": "伐採",
+    "meaning": "ばっさい Chặt cây",
+    "furigana": ""
+  },
+  {
+    "question": "顧客",
+    "meaning": "こきゃく Khách hàng ( khách quen)",
+    "furigana": ""
+  },
+  {
+    "question": "すみ",
+    "meaning": "Góc, xó",
+    "furigana": ""
+  },
+  {
+    "question": "譲歩",
+    "meaning": "じょうほ Nhượng bộ",
+    "furigana": ""
+  },
+  {
+    "question": "滞納",
+    "meaning": "たいのう Nộp muộn",
+    "furigana": ""
+  },
+  {
+    "question": "口癖",
+    "meaning": "くちぐせ Câu cửa miệng",
+    "furigana": ""
+  },
+  {
+    "question": "記述",
+    "meaning": "きじゅつ Ghi chép",
+    "furigana": ""
+  },
+  {
+    "question": "捜査",
+    "meaning": "そうさ Điều tra ( tìm kiếm, tìm hiểu)",
+    "furigana": ""
+  },
+  {
+    "question": "平行線",
+    "meaning": "へいこうせん 1. Đường thẳng song song 2. Không thể đạt được thoả thuận",
+    "furigana": ""
+  },
+  {
+    "question": "終盤",
+    "meaning": "しゅうばん 1. Giai đoạn cuối 2. Giao đoạn cuối, cuối trận",
+    "furigana": ""
+  },
+  {
+    "question": "収益",
+    "meaning": "しゅうえき Doanh thu",
+    "furigana": ""
+  },
+  {
+    "question": "街頭",
+    "meaning": "がいとう Đường phố",
+    "furigana": ""
+  },
+  {
+    "question": "条例",
+    "meaning": "じょうれい Điều lệ, quy định, sách lệnh (Pháp luật của quận, thành phố chứ ko phải quốc gia)",
+    "furigana": ""
+  }
+]

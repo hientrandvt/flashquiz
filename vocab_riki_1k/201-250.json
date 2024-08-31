@@ -1,0 +1,252 @@
+[
+  {
+    "question": "釈明",
+    "meaning": "しゃくめい Giải thích, thanh minh",
+    "furigana": ""
+  },
+  {
+    "question": "察知",
+    "meaning": "さっち Cảm thấy, nhận ra",
+    "furigana": ""
+  },
+  {
+    "question": "探知",
+    "meaning": "たんち Tìm kiếm, phát hiện",
+    "furigana": ""
+  },
+  {
+    "question": "変換",
+    "meaning": "へんかん Chuyển đổi, giao hoán",
+    "furigana": ""
+  },
+  {
+    "question": "興奮",
+    "meaning": "こうふん Hưng phấn, phấn khích, kích động",
+    "furigana": ""
+  },
+  {
+    "question": "和解",
+    "meaning": "わかい Giải hoà",
+    "furigana": ""
+  },
+  {
+    "question": "融合",
+    "meaning": "ゆうごう Dung hoà, pha trộn, mix",
+    "furigana": ""
+  },
+  {
+    "question": "供与",
+    "meaning": "きょうよ Cung cấp, cấp pháp",
+    "furigana": ""
+  },
+  {
+    "question": "波及",
+    "meaning": "はきゅう Lan truyền, lan rộng",
+    "furigana": ""
+  },
+  {
+    "question": "人波",
+    "meaning": "ひとなみ Biển người, dòng người",
+    "furigana": ""
+  },
+  {
+    "question": "人通り",
+    "meaning": "ひとどおり Người qua lại trên đường",
+    "furigana": ""
+  },
+  {
+    "question": "従属",
+    "meaning": "じゅうぞく Phụ thuộc, tuân theo, phục tùng",
+    "furigana": ""
+  },
+  {
+    "question": "見通し",
+    "meaning": "みとおし 1. Tầm nhìn ( xa)2. Dự đoán",
+    "furigana": ""
+  },
+  {
+    "question": "本心",
+    "meaning": "ほんしん Thật tâm, thật lòng",
+    "furigana": ""
+  },
+  {
+    "question": "内心",
+    "meaning": "ないしん Nội tâm, trong lòng",
+    "furigana": ""
+  },
+  {
+    "question": "素振り",
+    "meaning": "そぶり Dáng vẻ, trông có vẻ",
+    "furigana": ""
+  },
+  {
+    "question": "暗闇",
+    "meaning": "くらやみ Bóng tối, tối tăm",
+    "furigana": ""
+  },
+  {
+    "question": "確信",
+    "meaning": "かくしん Tin chắc rằng, vững tin",
+    "furigana": ""
+  },
+  {
+    "question": "判別",
+    "meaning": "はんべつ Phân biệt",
+    "furigana": ""
+  },
+  {
+    "question": "苦境",
+    "meaning": "くきょう Tình cảnh khó khăn, nghịch cảnh",
+    "furigana": ""
+  },
+  {
+    "question": "変形",
+    "meaning": "へんけい Biến hình, biến dạng",
+    "furigana": ""
+  },
+  {
+    "question": "充当",
+    "meaning": "じゅうとう Để dành riêng ( cho việc gì đó)",
+    "furigana": ""
+  },
+  {
+    "question": "摂取",
+    "meaning": "せっしゅ Hấp thụ",
+    "furigana": ""
+  },
+  {
+    "question": "運行",
+    "meaning": "うんこう Vận hành ( phương tiện giao thông, đường sắt), chuyển động",
+    "furigana": ""
+  },
+  {
+    "question": "隣接",
+    "meaning": "りんせつ Tiếp giáp, giáp ranh, liền kề, kế bên",
+    "furigana": ""
+  },
+  {
+    "question": "近接",
+    "meaning": "きんせつ Tiếp cận, tới gần",
+    "furigana": ""
+  },
+  {
+    "question": "対面",
+    "meaning": "たいめん 1. Đối diện, gặp mặt trực tiếp2. Đối diện, đối mặt",
+    "furigana": ""
+  },
+  {
+    "question": "適応",
+    "meaning": "てきおう Thích ứng",
+    "furigana": ""
+  },
+  {
+    "question": "適用",
+    "meaning": "てきよう Ứng dụng, áp dụng",
+    "furigana": ""
+  },
+  {
+    "question": "圧迫",
+    "meaning": "あっぱく 1. Sức ép, áp lực ( nghĩa bóng)2. Đàn áp, áp bức ( bằng vũ lực, sức mạnh)",
+    "furigana": ""
+  },
+  {
+    "question": "束縛",
+    "meaning": "そくばく Kiềm chế, trói buộc, ràng buộc( bị thời gian, công việc, người khác ràng buộc)",
+    "furigana": ""
+  },
+  {
+    "question": "固執",
+    "meaning": "こしつ Cố chấp, bảo thủ",
+    "furigana": ""
+  },
+  {
+    "question": "出没",
+    "meaning": "しゅつぼつ Xuất hiện ( bất ngờ, ngoài dự đoán)",
+    "furigana": ""
+  },
+  {
+    "question": "反論",
+    "meaning": "はんろん Phản bác, cãi lại",
+    "furigana": ""
+  },
+  {
+    "question": "啓発",
+    "meaning": "けいはつ Mở mang, khai phá, phát triển ( kiến thức, hiểu biết)",
+    "furigana": ""
+  },
+  {
+    "question": "教養",
+    "meaning": "きょうよう Sự nuôi dưỡng, giáo dục",
+    "furigana": ""
+  },
+  {
+    "question": "根拠",
+    "meaning": "こんきょ Căn cứ, căn nguyên",
+    "furigana": ""
+  },
+  {
+    "question": "基地",
+    "meaning": "きち Căn cứ địa ( 70% sử dụng trong quân đội)",
+    "furigana": ""
+  },
+  {
+    "question": "追放",
+    "meaning": "ついほう Xua đuổi, loại bỏ",
+    "furigana": ""
+  },
+  {
+    "question": "排出",
+    "meaning": "はいしゅつ 1. Xả thải ra2. Bài tiết, thải ra",
+    "furigana": ""
+  },
+  {
+    "question": "心情",
+    "meaning": "しんじょう Tâm tư, tình cảm",
+    "furigana": ""
+  },
+  {
+    "question": "部門",
+    "meaning": "ぶもん Phòng ban",
+    "furigana": ""
+  },
+  {
+    "question": "欲求",
+    "meaning": "よっきゅう Khao khát, ham muốn, mong muốn, nhu cầu",
+    "furigana": ""
+  },
+  {
+    "question": "自問",
+    "meaning": "じもん Tự hỏi",
+    "furigana": ""
+  },
+  {
+    "question": "試行",
+    "meaning": "しこう Làm thử, thí điểm",
+    "furigana": ""
+  },
+  {
+    "question": "探索",
+    "meaning": "たんさく 1. Khám phá, tìm kiếm ( vũ trụ, đáy đại dương)2. Điều tra, truy tìm",
+    "furigana": ""
+  },
+  {
+    "question": "由来",
+    "meaning": "ゆらい Nguồn gốc, khởi nguồn",
+    "furigana": ""
+  },
+  {
+    "question": "脱退",
+    "meaning": "だったい Rút khỏi, rời khỏi",
+    "furigana": ""
+  },
+  {
+    "question": "拡散",
+    "meaning": "かくさん 1. Sự lan rộng, phát tán2. Lan truyền, phát tán",
+    "furigana": ""
+  },
+  {
+    "question": "知恵",
+    "meaning": "ちえ Trí tuệ",
+    "furigana": ""
+  }
+]
