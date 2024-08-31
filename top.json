@@ -24,6 +24,16 @@
         },
         {
             "level": "N1",
+            "title": "Động từ Thảo Lê JP",
+            "content": [
+                {
+                    "fileName": "Động từ Thảo Lê JP",
+                    "fileId": "vocab_thaole_jp/vocab_verb_thaolejp.json"
+                }
+            ]
+        },
+        {
+            "level": "N1",
             "title": "Riki 1K",
             "content": [
                 {
