@@ -24,16 +24,6 @@
         },
         {
             "level": "N1",
-            "title": "Động từ Thảo Lê JP",
-            "content": [
-                {
-                    "fileName": "Động từ Thảo Lê JP",
-                    "fileId": "vocab_thaole_jp/vocab_verb_thaolejp.json"
-                }
-            ]
-        },
-        {
-            "level": "N1",
             "title": "Riki 1K",
             "content": [
                 {
@@ -209,6 +199,54 @@
                 {
                     "fileName": "Unit 13: Goi 1 (1021 - 1067)",
                     "fileId": "vocab_mimikara_n1/unit_13_goi.json"
+                }
+            ]
+        },
+        {
+            "level": "N1",
+            "title": "Teitei N1",
+            "content": [
+                {
+                    "fileName": "1-100",
+                    "fileId": "vocab_teitei/1-100.json"
+                },
+                {
+                    "fileName": "101-200",
+                    "fileId": "vocab_teitei/101-200.json"
+                },
+                {
+                    "fileName": "201-300",
+                    "fileId": "vocab_teitei/201-300.json"
+                },
+                {
+                    "fileName": "301-400",
+                    "fileId": "vocab_teitei/301-400.json"
+                },
+                {
+                    "fileName": "401-500",
+                    "fileId": "vocab_teitei/401-500.json"
+                },
+                {
+                    "fileName": "501-600",
+                    "fileId": "vocab_teitei/501-600.json"
+                },
+                {
+                    "fileName": "601-700",
+                    "fileId": "vocab_teitei/601-700.json"
+                },
+                {
+                    "fileName": "701-800",
+                    "fileId": "vocab_teitei/701-800.json"
+                }
+            ]
+        },
+        {
+            "level": "N1",
+            "title": "Động từ Thảo Lê JP",
+            "content": [
+                {
+                    "fileName": "Động từ Thảo Lê JP",
+                    "fileId": "vocab_thaole_jp/vocab_verb_thaolejp.json"
                 }
             ]
         }

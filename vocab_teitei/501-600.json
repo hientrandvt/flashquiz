@@ -1,0 +1,502 @@
+[
+  {
+    "question": "501 . 伝達(する)",
+    "meaning": "(TRUYỀN ĐẠT) (でんたつ) ... Nghĩa: Truyền đạt",
+    "furigana": ""
+  },
+  {
+    "question": "502 . 展望(する)",
+    "meaning": "(TRIỂN VỌNG) (てんぼう) ... Nghĩa: Triển vọng; Ngắm nhìn",
+    "furigana": ""
+  },
+  {
+    "question": "503 . 念願(する)",
+    "meaning": "(NIỆM NGUYỆN) (ねんがん) ... Nghĩa: Mơ ước, tâm niệm",
+    "furigana": ""
+  },
+  {
+    "question": "504 . 反響(する)",
+    "meaning": "(PHẢN HƯỞNG) (はんきょう) ... Nghĩa: Tiếng vang, đc chú ý",
+    "furigana": ""
+  },
+  {
+    "question": "505 . 反撃(する)",
+    "meaning": "(PHẢN KÍCH) (はんげき) ... Nghĩa: Phản công",
+    "furigana": ""
+  },
+  {
+    "question": "506 . 判定(する)",
+    "meaning": "(PHÁN ĐỊNH) (はんてい) ... Nghĩa: Phán quyết , phán xét",
+    "furigana": ""
+  },
+  {
+    "question": "507 . 氾濫(する)",
+    "meaning": "(PHIẾM LẠM) (はんらん) ... Nghĩa: Tràn lan",
+    "furigana": ""
+  },
+  {
+    "question": "508 . 紛失(する)",
+    "meaning": "(PHÂN THẤT) (ふんしつ) ... Nghĩa: Mất, làm mất, bỏ trốn",
+    "furigana": ""
+  },
+  {
+    "question": "509 . 噴出(する)",
+    "meaning": "(PHÚN XUẤT) (ふんしゅつ) ... Nghĩa: Phun trào, bùng nổ",
+    "furigana": ""
+  },
+  {
+    "question": "510 . 分担(する)",
+    "meaning": "(PHÂN ĐAM) (ぶんたん) ... Nghĩa: Phân công nhiệm vụ",
+    "furigana": ""
+  },
+  {
+    "question": "511 . 奮闘(する)",
+    "meaning": "(PHẤN ĐẤU) (ふんとう) ... Nghĩa: Phấn đấu, nỗ lực",
+    "furigana": ""
+  },
+  {
+    "question": "512 . 分配(する)",
+    "meaning": "(PHÂN PHỐI) (ぶんぱい) ... Nghĩa: Chia ra và phân phát",
+    "furigana": ""
+  },
+  {
+    "question": "513 . 分裂(する)",
+    "meaning": "(PHÂN LIỆT) (ぶんれつ) ... Nghĩa: Tách ra, phân ra",
+    "furigana": ""
+  },
+  {
+    "question": "514 . 変革(する)",
+    "meaning": "(BIẾN CÁCH) (へんかく) ... Nghĩa: Làm mới, cải cách, thay đổi",
+    "furigana": ""
+  },
+  {
+    "question": "515 . 弁護(する)",
+    "meaning": "(BIỆN HỘ) (べんご) ... Nghĩa: Biện hộ,bào chữa",
+    "furigana": ""
+  },
+  {
+    "question": "516 . 弁償(する)",
+    "meaning": "(BIỆN THƯỜNG) (べんしょう) ... Nghĩa: Bồi thường",
+    "furigana": ""
+  },
+  {
+    "question": "517 . 免除(する)",
+    "meaning": "(MIỄN TRỪ) (めんじょ) ... Nghĩa: Miễn (trách nhiệm, thi cử..)",
+    "furigana": ""
+  },
+  {
+    "question": "518 . 論議(する)",
+    "meaning": "(LUẬN NGHỊ) (ろんぎ) ... Nghĩa: Tranh luận",
+    "furigana": ""
+  },
+  {
+    "question": "519 . 引率(する)",
+    "meaning": "(DẪN XUẤT) (いんそつ) ... Nghĩa: Dẫn dắt",
+    "furigana": ""
+  },
+  {
+    "question": "520 . 隠蔽(する)",
+    "meaning": "(ẨN TẾ) (いんぺい) ... Nghĩa: Giấu giếm, che đậy",
+    "furigana": ""
+  },
+  {
+    "question": "521 . 延滞(する)",
+    "meaning": "(DUYÊN TRỆ) (えんたい) ... Nghĩa: Trì hoãn, nộp muộn",
+    "furigana": ""
+  },
+  {
+    "question": "522 . 管轄(する)",
+    "meaning": "(QUẢN HẠT) (かんかつ) ... Nghĩa: Thẩm quyền, phạm vi thẩm quyền",
+    "furigana": ""
+  },
+  {
+    "question": "523 . 緊迫(する)",
+    "meaning": "(KHẨN BÁCH) (きんぱく) ... Nghĩa: Khẩn trương, cấp bách",
+    "furigana": ""
+  },
+  {
+    "question": "524 . 牽引(する)",
+    "meaning": "(KHIÊN DẪN) (けんいん) ... Nghĩa: Kéo mạnh, dẫn dắt",
+    "furigana": ""
+  },
+  {
+    "question": "525 . 嫌悪(する)",
+    "meaning": "(HIỀM ÁC) (けんお) ... Nghĩa: Ghét, ghê tởm",
+    "furigana": ""
+  },
+  {
+    "question": "526 . 検索(する)",
+    "meaning": "(KIỂM TÁC) (けんさく) ... Nghĩa: Tìm kiếm",
+    "furigana": ""
+  },
+  {
+    "question": "527 . 梱包(する)",
+    "meaning": "(KHỐN BAO) (こんぽう) ... Nghĩa: Đóng gói, đóng thùng",
+    "furigana": ""
+  },
+  {
+    "question": "528 . 山積(する)",
+    "meaning": "(SAN TÍCH) (さんせき) ... Nghĩa: Chất đống như núi",
+    "furigana": ""
+  },
+  {
+    "question": "529 . 順応(する)",
+    "meaning": "(THUẬN ỨNG) (じゅんのう) ... Nghĩa: Thích ứng",
+    "furigana": ""
+  },
+  {
+    "question": "530 . 尋問(する)",
+    "meaning": "(TẦM VẤN) (じんもん) ... Nghĩa: Thẩm vấn",
+    "furigana": ""
+  },
+  {
+    "question": "531 . 尽力(する)",
+    "meaning": "(TẪN LỰC) (じんりょく) ... Nghĩa: Dốc sức, tận lực",
+    "furigana": ""
+  },
+  {
+    "question": "532 . 占拠(する)",
+    "meaning": "(CHIẾM CỨ) (せんきょ) ... Nghĩa: Lấn chiếm, chiếm cứ",
+    "furigana": ""
+  },
+  {
+    "question": "533 . 損傷(する)",
+    "meaning": "(TỔN THƯƠNG) (そんしょう) ... Nghĩa: Hư hỏng(đồ vật), bị thương(người)",
+    "furigana": ""
+  },
+  {
+    "question": "534 . 担保(する)",
+    "meaning": "(ĐAM BẢO) (たんぽ) ... Nghĩa: Đảm bảo /khoản thế chấp",
+    "furigana": ""
+  },
+  {
+    "question": "535 . 賃貸(する)",
+    "meaning": "(NHẪM THẢI) (ちんたい) ... Nghĩa: Cho thuê",
+    "furigana": ""
+  },
+  {
+    "question": "536 . 添削(する)",
+    "meaning": "(THIÊM TƯỚC) (てんさく) ... Nghĩa: Chỉnh sửa (đoạn văn)",
+    "furigana": ""
+  },
+  {
+    "question": "537 . 添付(する)",
+    "meaning": "(THIÊM PHÓ) (てんぷ) ... Nghĩa: Đính kèm",
+    "furigana": ""
+  },
+  {
+    "question": "538 . 転覆(する)",
+    "meaning": "(CHUYỂN PHÚC) (てんぷく) ... Nghĩa: Lật ngược, lật đổ",
+    "furigana": ""
+  },
+  {
+    "question": "539 . 難航(する)",
+    "meaning": "(NAN HÀNG) (なんこう) ... Nghĩa: Khó khăn (vận chuyển) , bế tắc ko suôn sẻ",
+    "furigana": ""
+  },
+  {
+    "question": "540 . 忍耐(する)",
+    "meaning": "(NHẪN NẠI) (にんたい) ... Nghĩa: Chịu đựng, nhẫn nại",
+    "furigana": ""
+  },
+  {
+    "question": "541 . 頒布(する)",
+    "meaning": "(BAN BỐ) (はんぷ) ... Nghĩa: Phân phát",
+    "furigana": ""
+  },
+  {
+    "question": "542 . 便乗(する)",
+    "meaning": "(TIỆN THỪA) (びんじょう) ... Nghĩa: Lợi dụng thời cơ, sự đi nhờ xe",
+    "furigana": ""
+  },
+  {
+    "question": "543 . 頻発(する)",
+    "meaning": "(TẦN PHÁT) (ひんぱつ) ... Nghĩa: Xảy ra thường xuyên",
+    "furigana": ""
+  },
+  {
+    "question": "544 . 分岐(する)",
+    "meaning": "(PHÂN KÌ) (ぶんき) ... Nghĩa: Phân nhánh",
+    "furigana": ""
+  },
+  {
+    "question": "545 . 紛糾(する)",
+    "meaning": "(PHÂN CỦ) (ふんきゅう) ... Nghĩa: Hỗn loạn, lộn xộn",
+    "furigana": ""
+  },
+  {
+    "question": "546 . 噴射(する)",
+    "meaning": "(PHÚN XẠ) (ふんしゃ) ... Nghĩa: Phun ra",
+    "furigana": ""
+  },
+  {
+    "question": "547 . 奮発(する)",
+    "meaning": "(PHẤN PHÁT) (ふんぱつ) ... Nghĩa: Có cảm hứng, hưng phấn",
+    "furigana": ""
+  },
+  {
+    "question": "548 . 乱発(する)",
+    "meaning": "(LOẠN PHÁT) (らんぱつ) ... Nghĩa: Bắn loạn xạ, phát hành tùy tiện",
+    "furigana": ""
+  },
+  {
+    "question": "549 . 連携(する)",
+    "meaning": "(LIÊN HUỀ) (れんけい) ... Nghĩa: Hợp tác",
+    "furigana": ""
+  },
+  {
+    "question": "550 . 連覇(する)",
+    "meaning": "(LIÊN BÁ) (れんぱ) ... Nghĩa: Thắng liên tục",
+    "furigana": ""
+  },
+  {
+    "question": "551 . 連敗(する)",
+    "meaning": "(LIÊN BẠI) (れんぱい) ... Nghĩa: Thua liên tục",
+    "furigana": ""
+  },
+  {
+    "question": "552 . 連発(する)",
+    "meaning": "(LIÊN PHÁT) (れんぱつ) ... Nghĩa: (Bắn, xảy ra sự cố, nói) liên tục, chứng cà lăm",
+    "furigana": ""
+  },
+  {
+    "question": "553 . 印鑑",
+    "meaning": "(ẤN GIÁM) (いんかん) ... Nghĩa: Con dấu",
+    "furigana": ""
+  },
+  {
+    "question": "554 . 印象",
+    "meaning": "(ẤN TƯỢNG) (いんしょう) ... Nghĩa: Ấn tượng",
+    "furigana": ""
+  },
+  {
+    "question": "555 . 観客",
+    "meaning": "(QUAN KHÁCH) (かんきゃく) ... Nghĩa: Quan khách, người xem",
+    "furigana": ""
+  },
+  {
+    "question": "556 . 歓声",
+    "meaning": "(HOAN THANH) (かんせい) ... Nghĩa: Hoan hô, cổ vũ",
+    "furigana": ""
+  },
+  {
+    "question": "557 . 関税",
+    "meaning": "(QUAN THUẾ) (かんぜい) ... Nghĩa: Thuế quan",
+    "furigana": ""
+  },
+  {
+    "question": "558 . 幹部",
+    "meaning": "(CÁN BỘ) (かんぶ) ... Nghĩa: Cán bộ",
+    "furigana": ""
+  },
+  {
+    "question": "559 . 元来",
+    "meaning": "(NGUYÊN LAI) (がんらい) ... Nghĩa: Trước đến nay , vốn dĩ",
+    "furigana": ""
+  },
+  {
+    "question": "560 . 慣例",
+    "meaning": "(QUÁN LỆ) (かんれい) ... Nghĩa: Tập quán, thói quen",
+    "furigana": ""
+  },
+  {
+    "question": "561 . 還暦",
+    "meaning": "(HOÀN LỊCH) (かんれき) ... Nghĩa: Tuổi 60",
+    "furigana": ""
+  },
+  {
+    "question": "562 . 緊急",
+    "meaning": "(KHẨN CẤP) (きんきゅう) ... Nghĩa: Khẩn cấp",
+    "furigana": ""
+  },
+  {
+    "question": "563 . 近郊",
+    "meaning": "(CẬN GIAO) (きんこう) ... Nghĩa: Vùng ngoại ô",
+    "furigana": ""
+  },
+  {
+    "question": "564 . 禁物",
+    "meaning": "(CẤM VẬT) (きんもつ) ... Nghĩa: Điều cấm kỵ",
+    "furigana": ""
+  },
+  {
+    "question": "565 . 権威",
+    "meaning": "(QUYỀN UY) (けんい) ... Nghĩa: Quyền lực (hành chính, cha mẹ), có tiếng nói(chuyên gia)",
+    "furigana": ""
+  },
+  {
+    "question": "566 . 言動",
+    "meaning": "(NGÔN ĐỘNG) (げんどう) ... Nghĩa: Lời nói và hành động",
+    "furigana": ""
+  },
+  {
+    "question": "567 . 権力",
+    "meaning": "(QUYỀN LỰC) (けんりょく) ... Nghĩa: Quyền lực",
+    "furigana": ""
+  },
+  {
+    "question": "568 . 根拠",
+    "meaning": "(CĂN CỨ) (こんきょ) ... Nghĩa: Căn cứ",
+    "furigana": ""
+  },
+  {
+    "question": "569 . 昆虫",
+    "meaning": "(CÔN TRÙNG) (こんちゅう) ... Nghĩa: Côn trùng",
+    "furigana": ""
+  },
+  {
+    "question": "570 . 根底",
+    "meaning": "(CĂN ĐỂ) (こんてい) ... Nghĩa: Căn nguyên, gốc rễ",
+    "furigana": ""
+  },
+  {
+    "question": "571 . 山岳",
+    "meaning": "(SAN NHẠC) (さんがく) ... Nghĩa: Vùng đồi núi",
+    "furigana": ""
+  },
+  {
+    "question": "572 . 山腹",
+    "meaning": "(SAN PHÚC) (さんぷく) ... Nghĩa: Sườn núi",
+    "furigana": ""
+  },
+  {
+    "question": "573 . 神経",
+    "meaning": "(THẦN KINH) (しんけい) ... Nghĩa: Thần kinh",
+    "furigana": ""
+  },
+  {
+    "question": "574 . 人材",
+    "meaning": "(NHÂN TÀI) (じんざい) ... Nghĩa: Nhân lực",
+    "furigana": ""
+  },
+  {
+    "question": "575 . 信者",
+    "meaning": "(TÍN GIẢ) (しんじゃ) ... Nghĩa: Tín đồ",
+    "furigana": ""
+  },
+  {
+    "question": "576 . 真珠",
+    "meaning": "(CHÂN CHÂU) (しんじゅ) ... Nghĩa: Trân châu",
+    "furigana": ""
+  },
+  {
+    "question": "577 . 親善",
+    "meaning": "(THÂN THIỆN) (しんぜん) ... Nghĩa: Thân thiện, hữu nghị",
+    "furigana": ""
+  },
+  {
+    "question": "578 . 真相",
+    "meaning": "(CHÂN TƯƠNG) (しんそう) ... Nghĩa: Chân tướng",
+    "furigana": ""
+  },
+  {
+    "question": "579 . 神秘",
+    "meaning": "(THẦN BÍ) (しんぴ) ... Nghĩa: Thần bí, mầu nhiệm",
+    "furigana": ""
+  },
+  {
+    "question": "580 . 繊維",
+    "meaning": "(TIÊM DUY) (せんい) ... Nghĩa: Sợi dệt, chất sơ",
+    "furigana": ""
+  },
+  {
+    "question": "581 . 全盛",
+    "meaning": "(TOÀN THỊNH) (ぜんせい) ... Nghĩa: Thời hoàng kim",
+    "furigana": ""
+  },
+  {
+    "question": "582 . 前途",
+    "meaning": "(TIỀN ĐỒ) (ぜんと) ... Nghĩa: Triển vọng tương lai; Quãng đường đi",
+    "furigana": ""
+  },
+  {
+    "question": "583 . 船舶",
+    "meaning": "(THUYỀN BẠC) (せんぱく) ... Nghĩa: Tàu thuyền",
+    "furigana": ""
+  },
+  {
+    "question": "584 . 単一(な)",
+    "meaning": "(ĐƠN NHẤT) (たんいつ) ... Nghĩa: Đơn nhất, duy nhất",
+    "furigana": ""
+  },
+  {
+    "question": "585 . 断面",
+    "meaning": "(ĐOẠN DIỆN) (だんめん) ... Nghĩa: Mặt cắt, mặt xã hội",
+    "furigana": ""
+  },
+  {
+    "question": "586 . 賃金",
+    "meaning": "(NHẪM KIM) (ちんぎん) ... Nghĩa: Tiền lương",
+    "furigana": ""
+  },
+  {
+    "question": "587 . 典型",
+    "meaning": "(ĐIỂN HÌNH) (てんけい) ... Nghĩa: Điển hình",
+    "furigana": ""
+  },
+  {
+    "question": "588 . 犯罪",
+    "meaning": "(PHẠM TỘI) (はんざい) ... Nghĩa: Tội phạm",
+    "furigana": ""
+  },
+  {
+    "question": "589 . 万人",
+    "meaning": "(VẠN NHÂN) (ばんにん) ... Nghĩa: Toàn thể mọi người",
+    "furigana": ""
+  },
+  {
+    "question": "590 . 万能",
+    "meaning": "(VẠN NĂNG) (ばんのう) ... Nghĩa: Toàn năng , giỏi toàn diện",
+    "furigana": ""
+  },
+  {
+    "question": "591 . 品種",
+    "meaning": "(PHẨM CHỦNG) (ひんしゅ) ... Nghĩa: Chủng loại (sản phẩm, sinh vật)",
+    "furigana": ""
+  },
+  {
+    "question": "592 . 貧乏(な)",
+    "meaning": "(BẦN PHẠP) (びんぼう) ... Nghĩa: Nghèo khổ",
+    "furigana": ""
+  },
+  {
+    "question": "593 . 便宜",
+    "meaning": "(TIỆN NGHI) (べんぎ) ... Nghĩa: Tiện lợi",
+    "furigana": ""
+  },
+  {
+    "question": "594 . 偏見",
+    "meaning": "(THIÊN KIẾN) (へんけん) ... Nghĩa: Thành kiến",
+    "furigana": ""
+  },
+  {
+    "question": "595 . 本名",
+    "meaning": "(BỔN DANH) (ほんみょう) ... Nghĩa: Tên thật",
+    "furigana": ""
+  },
+  {
+    "question": "596 . 慢性",
+    "meaning": "(MÃN TÍNH) (まんせい) ... Nghĩa: Mãn tính",
+    "furigana": ""
+  },
+  {
+    "question": "597 . 面目",
+    "meaning": "(DIỆN MỤC) (めんもく/めんぼく) ... Nghĩa: Thể diện, danh dự, nét mặt",
+    "furigana": ""
+  },
+  {
+    "question": "598 . 連日",
+    "meaning": "(LIÊN NHẬT) (れんじつ) ... Nghĩa: Nhiều ngày liên tiếp",
+    "furigana": ""
+  },
+  {
+    "question": "599 . 運輸",
+    "meaning": "(VẬN THÂU) (うんゆ) ... Nghĩa: Vận chuyển, vận tải",
+    "furigana": ""
+  },
+  {
+    "question": "600 . 沿岸",
+    "meaning": "(DUYÊN NGẠN) (えんがん) ... Nghĩa: Bờ biển",
+    "furigana": ""
+  }
+]

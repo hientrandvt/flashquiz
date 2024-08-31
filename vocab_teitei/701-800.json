@@ -1,0 +1,502 @@
+[
+  {
+    "question": "701 . 採択 (する)",
+    "meaning": "(THẢI TRẠCH) (さいたく) ... Nghĩa: Lựa chọn",
+    "furigana": ""
+  },
+  {
+    "question": "702 . 栽培(する)",
+    "meaning": "(TÀI BỒI) (さいばい) ... Nghĩa: Trồng trọt",
+    "furigana": ""
+  },
+  {
+    "question": "703 . 再発(する)",
+    "meaning": "(TÁI PHÁT) (さいはつ) ... Nghĩa: Tái phát (bệnh), Phát sinh lại (sự cố), bán ra lại",
+    "furigana": ""
+  },
+  {
+    "question": "704 . 推進(する)",
+    "meaning": "(THÔI TIẾN) (すいしん) ... Nghĩa: Thúc đẩy",
+    "furigana": ""
+  },
+  {
+    "question": "705 . 衰退(する)",
+    "meaning": "(SUY THỐI) (すいたい) ... Nghĩa: Suy thoái",
+    "furigana": ""
+  },
+  {
+    "question": "706 . 推理(する)",
+    "meaning": "(THÔI LÝ) (すいり) ... Nghĩa: Suy luận, lập luận",
+    "furigana": ""
+  },
+  {
+    "question": "707 . 制限(する)",
+    "meaning": "(CHẾ HẠN) (せいげん) ... Nghĩa: Hạn chế, ràng buộc",
+    "furigana": ""
+  },
+  {
+    "question": "708 . 精算 (する)",
+    "meaning": "(TINH TOÁN) (せいさん) ... Nghĩa: Tính toán, điều chỉnh",
+    "furigana": ""
+  },
+  {
+    "question": "709 . 盛装(する)",
+    "meaning": "(THỊNH TRANG) (せいそう) ... Nghĩa: Ăn diện ( quần áo,trang phục )",
+    "furigana": ""
+  },
+  {
+    "question": "710 . 対処(する)",
+    "meaning": "(ĐỐI XỨ) (たいしょ) ... Nghĩa: Đối phó, ứng phó",
+    "furigana": ""
+  },
+  {
+    "question": "711 . 追放(する)",
+    "meaning": "(TRUY PHÓNG) (ついほう) ... Nghĩa: Trục xuất, đuổi ra khỏi, khai trừ",
+    "furigana": ""
+  },
+  {
+    "question": "712 . 提案(する)",
+    "meaning": "(ĐỀ ÁN) (ていあん) ... Nghĩa: Đề xuất phương án",
+    "furigana": ""
+  },
+  {
+    "question": "713 . 定義(する)",
+    "meaning": "(ĐỊNH NGHĨA) (ていぎ) ... Nghĩa: Định nghĩa",
+    "furigana": ""
+  },
+  {
+    "question": "714 . 提供(する)",
+    "meaning": "(ĐỀ CUNG) (ていきょう) ... Nghĩa: Cung cấp, tài trợ",
+    "furigana": ""
+  },
+  {
+    "question": "715 . 提携(する)",
+    "meaning": "(ĐỀ HUỀ) (ていけい) ... Nghĩa: Hợp tác , liên kết",
+    "furigana": ""
+  },
+  {
+    "question": "716 . 抵抗(する)",
+    "meaning": "(ĐỀ KHÁNG) (ていこう) ... Nghĩa: Kháng cự, ngần ngại",
+    "furigana": ""
+  },
+  {
+    "question": "717 . 停滞(する)",
+    "meaning": "(ĐÌNH TRỆ) (ていたい) ... Nghĩa: Đình trệ",
+    "furigana": ""
+  },
+  {
+    "question": "718 . 廃棄(する)",
+    "meaning": "(PHẾ KHÍ) (はいき) ... Nghĩa: Phế thải, tiêu hủy",
+    "furigana": ""
+  },
+  {
+    "question": "719 . 配慮(する)",
+    "meaning": "(PHỐI LỰ) (はいりょ) ... Nghĩa: Quan tâm, để ý",
+    "furigana": ""
+  },
+  {
+    "question": "720 . 閉鎖(する)",
+    "meaning": "(BẾ TỎA) (へいさ) ... Nghĩa: Phong tỏa, đóng cửa",
+    "furigana": ""
+  },
+  {
+    "question": "721 . 類似(する)",
+    "meaning": "(LOẠI TỰ) (るいじ) ... Nghĩa: Tương tự",
+    "furigana": ""
+  },
+  {
+    "question": "722 . 類推(する)",
+    "meaning": "(LOẠI THÔI) (るいすい) ... Nghĩa: Suy đoán dựa vào tiền lệ",
+    "furigana": ""
+  },
+  {
+    "question": "723 . 改革(する)",
+    "meaning": "(CẢI CÁCH) (かいかく) ... Nghĩa: Cải cách",
+    "furigana": ""
+  },
+  {
+    "question": "724 . 開催(する)",
+    "meaning": "(KHAI THÔI) (かいさい) ... Nghĩa: Tổ chức, đăng cai",
+    "furigana": ""
+  },
+  {
+    "question": "725 . 解除(する)",
+    "meaning": "(GIẢI TRỪ) (かいじょ) ... Nghĩa: Hủy bỏ, miễn trừ,chấm dứt",
+    "furigana": ""
+  },
+  {
+    "question": "726 . 解剖(する)",
+    "meaning": "(GIẢI PHẨU) (かいぼう) ... Nghĩa: Giải phẫu, mổ xẻ phân tích vấn đề",
+    "furigana": ""
+  },
+  {
+    "question": "727 . 回覧(する)",
+    "meaning": "(HỒI LÃM) (かいらん) ... Nghĩa: Luân chuyển, truyền tay nhau xem (tài liệu, hồ sơ)",
+    "furigana": ""
+  },
+  {
+    "question": "728 . 経過(する)",
+    "meaning": "(KINH QUÁ) (けいか) ... Nghĩa: Trôi qua/ quá trình",
+    "furigana": ""
+  },
+  {
+    "question": "729 . 軽減(する)",
+    "meaning": "(KHINH GIẢM) (けいげん) ... Nghĩa: Giảm bớt",
+    "furigana": ""
+  },
+  {
+    "question": "730 . 傾斜(する)",
+    "meaning": "(KHUYNH TÀ) (けいしゃ) ... Nghĩa: Nghiêng",
+    "furigana": ""
+  },
+  {
+    "question": "731 . 軽蔑(する)",
+    "meaning": "(KHINH MIỆT) (けいべつ) ... Nghĩa: Coi thường",
+    "furigana": ""
+  },
+  {
+    "question": "732 . 採掘(する)",
+    "meaning": "(THẢI QUẬT) (さいくつ) ... Nghĩa: Khai thác mỏ",
+    "furigana": ""
+  },
+  {
+    "question": "733 . 採決(する)",
+    "meaning": "(THẢI QUYẾT) (さいけつ) ... Nghĩa: Bỏ phiếu, bầu chọn",
+    "furigana": ""
+  },
+  {
+    "question": "734 . 再建(する)",
+    "meaning": "(TÁI KIẾN) (さいけん) ... Nghĩa: Xây dựng lại",
+    "furigana": ""
+  },
+  {
+    "question": "735 . 吹奏(する)",
+    "meaning": "(XUY TẤU) (すいそう) ... Nghĩa: Thổi nhạc cụ",
+    "furigana": ""
+  },
+  {
+    "question": "736 . 推測(する)",
+    "meaning": "(THÔI TRẮC) (すいそく) ... Nghĩa: Phán đoán , phỏng đoán",
+    "furigana": ""
+  },
+  {
+    "question": "737 . 静止(する)",
+    "meaning": "(TĨNH CHỈ) (せいし) ... Nghĩa: Giữ nguyên trạng thái đứng im, im lặng",
+    "furigana": ""
+  },
+  {
+    "question": "738 . 成熟(する)",
+    "meaning": "(THÀNH THỤC) (せいじゅく) ... Nghĩa: Chín muồi (thời cơ); chín (trái cây), chín chắn",
+    "furigana": ""
+  },
+  {
+    "question": "739 . 制定(する)",
+    "meaning": "(CHẾ ĐỊNH) (せいてい) ... Nghĩa: Ban hành",
+    "furigana": ""
+  },
+  {
+    "question": "740 . 征服(する)",
+    "meaning": "(CHINH PHỤC) (せいふく) ... Nghĩa: Chinh phục",
+    "furigana": ""
+  },
+  {
+    "question": "741 . 整列(する)",
+    "meaning": "(CHỈNH LIỆT) (せいれつ) ... Nghĩa: Xếp thành hàng ,căn chỉnh (cột hàng)",
+    "furigana": ""
+  },
+  {
+    "question": "742 . 退化(する)",
+    "meaning": "(THOÁI HÓA) (たいか) ... Nghĩa: Thoái hóa",
+    "furigana": ""
+  },
+  {
+    "question": "743 . 体験(する)",
+    "meaning": "(THỂ NGHIỆM) (たいけん) ... Nghĩa: Trải nghiệm",
+    "furigana": ""
+  },
+  {
+    "question": "744 . 対抗(する)",
+    "meaning": "(ĐỐI KHÁNG) (たいこう) ... Nghĩa: Đối đầu, cạnh tranh",
+    "furigana": ""
+  },
+  {
+    "question": "745 . 退治(する)",
+    "meaning": "(THOÁI TRỊ) (たいじ) ... Nghĩa: Tiêu diệt, triệt tiêu",
+    "furigana": ""
+  },
+  {
+    "question": "746 . 退職(する)",
+    "meaning": "(THOÁI CHỨC) (たいしょく) ... Nghĩa: Nghỉ việc",
+    "furigana": ""
+  },
+  {
+    "question": "747 . 滞納(する)",
+    "meaning": "(TRỆ NẠP) (たいのう) ... Nghĩa: Nộp muộn",
+    "furigana": ""
+  },
+  {
+    "question": "748 . 対比(する)",
+    "meaning": "(ĐỐI BỈ) (たいひ) ... Nghĩa: Tương phản, đối xứng",
+    "furigana": ""
+  },
+  {
+    "question": "749 . 代弁(する)",
+    "meaning": "(ĐẠI BIỆN) (だいべん) ... Nghĩa: Thay mặt",
+    "furigana": ""
+  },
+  {
+    "question": "750 . 待望(する)",
+    "meaning": "(ĐÃI VỌNG) (たいぼう) ... Nghĩa: Mong đợi",
+    "furigana": ""
+  },
+  {
+    "question": "751 . 追求(する)",
+    "meaning": "(TRUY CẦU) (ついきゅう) ... Nghĩa: Theo đuổi , tìm kiếm",
+    "furigana": ""
+  },
+  {
+    "question": "752 . 追跡(する)",
+    "meaning": "(TRUY TÍCH) (ついせき) ... Nghĩa: Truy tìm, theo dấu vết tìm kiếm",
+    "furigana": ""
+  },
+  {
+    "question": "753 . 墜落(する)",
+    "meaning": "(TRỤY LẠC) (ついらく) ... Nghĩa: Rơi từ trên cao",
+    "furigana": ""
+  },
+  {
+    "question": "754 . 提示(する)",
+    "meaning": "(ĐỀ KỲ) (ていじ) ... Nghĩa: Xuất trình",
+    "furigana": ""
+  },
+  {
+    "question": "755 . 訂正(する)",
+    "meaning": "(ĐÍNH CHÍNH) (ていせい) ... Nghĩa: Sửa lại cho đúng (văn bản, phát ngôn..)",
+    "furigana": ""
+  },
+  {
+    "question": "756 . 配給(する)",
+    "meaning": "(PHỐI CẤP) (はいきゅう) ... Nghĩa: Phân phối, cung cấp",
+    "furigana": ""
+  },
+  {
+    "question": "757 . 廃止(する)",
+    "meaning": "(PHẾ CHỈ) (はいし) ... Nghĩa: Dừng lại, hủy bỏ",
+    "furigana": ""
+  },
+  {
+    "question": "758 . 拝借(する)",
+    "meaning": "(BÁI TÁ) (はいしゃく) ... Nghĩa: Vay mượn",
+    "furigana": ""
+  },
+  {
+    "question": "759 . 排除(する)",
+    "meaning": "(BÀI TRỪ) (はいじょ) ... Nghĩa: Loại trừ, bãi bỏ (rào cản...)",
+    "furigana": ""
+  },
+  {
+    "question": "760 . 賠償(する)",
+    "meaning": "(BỒI THƯỜNG) (ばいしょう) ... Nghĩa: Bồi thường",
+    "furigana": ""
+  },
+  {
+    "question": "761 . 排水(する)",
+    "meaning": "(BÀI THỦY) (はいすい) ... Nghĩa: Nước thải",
+    "furigana": ""
+  },
+  {
+    "question": "762 . 配置(する)",
+    "meaning": "(PHỐI TRÍ) (はいち) ... Nghĩa: Bố trí, sắp xếp",
+    "furigana": ""
+  },
+  {
+    "question": "763 . 配布(する)",
+    "meaning": "(PHỐI BỐ) (はいふ) ... Nghĩa: Phân phát",
+    "furigana": ""
+  },
+  {
+    "question": "764 . 敗北(する)",
+    "meaning": "(BẠI BẮC) (はいぼく) ... Nghĩa: Thua cuộc",
+    "furigana": ""
+  },
+  {
+    "question": "765 . 配列(する)",
+    "meaning": "(PHỐI LIỆT) (はいれつ) ... Nghĩa: Xếp hàng",
+    "furigana": ""
+  },
+  {
+    "question": "766 . 閉口(する)",
+    "meaning": "(BẾ KHẨU) (へいこう) ... Nghĩa: Khó khăn, im lặng, nín thinh",
+    "furigana": ""
+  },
+  {
+    "question": "767 . 並列(する)",
+    "meaning": "(TỊNH LIỆT) (へいれつ) ... Nghĩa: Song song",
+    "furigana": ""
+  },
+  {
+    "question": "768 . 埋蔵(する)",
+    "meaning": "(MAI TÀNG) (まいぞう) ... Nghĩa: Sự chôn lấp",
+    "furigana": ""
+  },
+  {
+    "question": "769 . 命中(する)",
+    "meaning": "(MỆNH TRUNG) (めいちゅう) ... Nghĩa: Trúng mục tiêu",
+    "furigana": ""
+  },
+  {
+    "question": "770 . 解雇(する)",
+    "meaning": "(GIẢI CỐ) (かいこ) ... Nghĩa: Sa thải, cho nghỉ việc",
+    "furigana": ""
+  },
+  {
+    "question": "771 . 回顧(する)",
+    "meaning": "(HỒI CỐ) (かいこ) ... Nghĩa: Hồi tưởng, nhớ lại",
+    "furigana": ""
+  },
+  {
+    "question": "772 . 概算(する)",
+    "meaning": "(KHÁI TOÁN) (がいさん) ... Nghĩa: Tính toán sơ bộ",
+    "furigana": ""
+  },
+  {
+    "question": "773 . 解消(する)",
+    "meaning": "(GIẢI TIÊU) (かいしょう) ... Nghĩa: Tan biến, triệt tiêu, xóa bỏ, hủy bỏ",
+    "furigana": ""
+  },
+  {
+    "question": "774 . 改築(する)",
+    "meaning": "(CẢI TRÚC) (かいちく) ... Nghĩa: Làm mới công trình kiến trúc",
+    "furigana": ""
+  },
+  {
+    "question": "775 . 回避(する)",
+    "meaning": "(HỒI TỊ) (かいひ) ... Nghĩa: Tránh né",
+    "furigana": ""
+  },
+  {
+    "question": "776 . 開封(する)",
+    "meaning": "(KHAI PHONG) (かいふう) ... Nghĩa: Mở phong thư, bưu kiện",
+    "furigana": ""
+  },
+  {
+    "question": "777 . 開幕(する)",
+    "meaning": "(KHAI MẠC) (かいまく) ... Nghĩa: Khai mạc",
+    "furigana": ""
+  },
+  {
+    "question": "778 . 迎合(する)",
+    "meaning": "(NGHÊNH HỢP) (げいごう) ... Nghĩa: Thuận theo, tâng bốc",
+    "furigana": ""
+  },
+  {
+    "question": "779 . 継承(する)",
+    "meaning": "(KẾ THỪA) (けいしょう) ... Nghĩa: Kế thừa",
+    "furigana": ""
+  },
+  {
+    "question": "780 . 傾倒(する)",
+    "meaning": "(KHUYNH ĐẢO) (けいとう) ... Nghĩa: Cống hiến, dốc sức",
+    "furigana": ""
+  },
+  {
+    "question": "781 . 掲揚(する)",
+    "meaning": "(YẾT DƯƠNG) (けいよう) ... Nghĩa: Dương cờ",
+    "furigana": ""
+  },
+  {
+    "question": "782 . 裁決(する)",
+    "meaning": "(TÀI QUYẾT) (さいけつ) ... Nghĩa: Phán xét, phán quyết",
+    "furigana": ""
+  },
+  {
+    "question": "783 . 採取(する)",
+    "meaning": "(THẢI THỦ) (さいしゅ) ... Nghĩa: Thu thập (điều tra, nghiên cứu), lấy mẫu",
+    "furigana": ""
+  },
+  {
+    "question": "784 . 采配(する)",
+    "meaning": "(THẢI PHỐI) (さいはい) ... Nghĩa: Chỉ huy, điều phối",
+    "furigana": ""
+  },
+  {
+    "question": "785 . 推敲(する)",
+    "meaning": "(THÔI XAO) (すいこう) ... Nghĩa: Chỉnh sửa trau chuốt (bài văn)",
+    "furigana": ""
+  },
+  {
+    "question": "786 . 遂行(する)",
+    "meaning": "(TOẠI HÀNH) (すいこう) ... Nghĩa: Hoàn thành",
+    "furigana": ""
+  },
+  {
+    "question": "787 . 衰弱(する)",
+    "meaning": "(SUY NHƯỢC) (すいじゃく) ... Nghĩa: Suy nhược",
+    "furigana": ""
+  },
+  {
+    "question": "788 . 推奨(する)",
+    "meaning": "(THÔI TƯỞNG) (すいしょう) ... Nghĩa: Đề xuất, khuyến nghị",
+    "furigana": ""
+  },
+  {
+    "question": "789 . 制御(する)",
+    "meaning": "(CHẾ NGỰ) (せいぎょ) ... Nghĩa: Chế ngự, kiểm soát",
+    "furigana": ""
+  },
+  {
+    "question": "790 . 整頓(する)",
+    "meaning": "(CHIỈNH ĐỐN) (せいとん) ... Nghĩa: Chỉnh đốn, sắp xếp",
+    "furigana": ""
+  },
+  {
+    "question": "791 . 制覇(する)",
+    "meaning": "(CHẾ BÁ) (せいは) ... Nghĩa: Thống trị, bá chủ",
+    "furigana": ""
+  },
+  {
+    "question": "792 . 誓約(する)",
+    "meaning": "(THỆ ƯỚC) (せいやく) ... Nghĩa: Thề ước",
+    "furigana": ""
+  },
+  {
+    "question": "793 . 待機(する)",
+    "meaning": "(ĐÃI KI) (たいき) ... Nghĩa: Chờ sẵn",
+    "furigana": ""
+  },
+  {
+    "question": "794 . 退却(する)",
+    "meaning": "(THOÁI KHƯỚC) (たいきゃく) ... Nghĩa: Rút lui, nghỉ việc",
+    "furigana": ""
+  },
+  {
+    "question": "795 . 対称(する)",
+    "meaning": "(ĐỐI XỨNG) (たいしょう) ... Nghĩa: Đối xứng",
+    "furigana": ""
+  },
+  {
+    "question": "796 . 堆積(する)",
+    "meaning": "(ĐÔI TÍCH) (たいせき) ... Nghĩa: Chồng chất",
+    "furigana": ""
+  },
+  {
+    "question": "797 . 退廃(する)",
+    "meaning": "(THOÁI PHẾ) (たいはい) ... Nghĩa: Suy thoái",
+    "furigana": ""
+  },
+  {
+    "question": "798 . 追憶(する)",
+    "meaning": "(TRUY ỨC) (ついおく) ... Nghĩa: Nhớ lại",
+    "furigana": ""
+  },
+  {
+    "question": "799 . 追突(する)",
+    "meaning": "(TRUY ĐỘT) (ついとつ) ... Nghĩa: Đâm vào từ phía sau",
+    "furigana": ""
+  },
+  {
+    "question": "800 . 締結(する)",
+    "meaning": "(ĐẾ KẾT) (ていけつ) ... Nghĩa: Ký kết (hợp đồng, hiệp ước)",
+    "furigana": ""
+  }
+]
