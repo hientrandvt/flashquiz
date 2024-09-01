@@ -1,0 +1,337 @@
+[
+  {
+    "question": "陥る",
+    "meaning": "（おちいる）rơi vào ( HÃM )",
+    "furigana": ""
+  },
+  {
+    "question": "破綻",
+    "meaning": "(はたん) phá sản ( sụp đổ ) ( PHÁ TRÁN )",
+    "furigana": ""
+  },
+  {
+    "question": "財政",
+    "meaning": "(ざいせい) tài chính ( TÀI CHÍNH )",
+    "furigana": ""
+  },
+  {
+    "question": "財政が破たんする",
+    "meaning": "（ざいせいがはたんする）kinh tế suy thoái",
+    "furigana": ""
+  },
+  {
+    "question": "赤字",
+    "meaning": "( あかじ ) lỗ (XÍCH TỰ )",
+    "furigana": ""
+  },
+  {
+    "question": "転落する",
+    "meaning": "（てんらくする）rơi xuống ( hạ bậc , rơi xuống ) ( CHUYỂN LẠC )",
+    "furigana": ""
+  },
+  {
+    "question": "低迷する",
+    "meaning": "（ていめいする） mờ mịt ( ĐÊ MÊ )",
+    "furigana": ""
+  },
+  {
+    "question": "動向",
+    "meaning": "（どうこう）xu hướng ( ĐỘNG HƯỚNG )",
+    "furigana": ""
+  },
+  {
+    "question": "介入する",
+    "meaning": "（かいにゅうする）can thiệp ( xen vào ) ( GIỚI NHẬP )",
+    "furigana": ""
+  },
+  {
+    "question": "税率",
+    "meaning": "（ぜいりつ）thuế ( THUẾ SUẤT )",
+    "furigana": ""
+  },
+  {
+    "question": "引き下げる",
+    "meaning": "( ひきさげる ) Giảm thấp (DẪN HẠ)",
+    "furigana": ""
+  },
+  {
+    "question": "徴収する",
+    "meaning": "（ちょうしゅうする）thu ( TRƯNG THU )",
+    "furigana": ""
+  },
+  {
+    "question": "納入する",
+    "meaning": "（のうにゅうする）thu ( NẠP NHẬP )",
+    "furigana": ""
+  },
+  {
+    "question": "資金",
+    "meaning": "( しきん ) vốn ( TƯ KIM )",
+    "furigana": ""
+  },
+  {
+    "question": "運用する",
+    "meaning": "（うんようする）sử dụng ( VẬN DỤNG )",
+    "furigana": ""
+  },
+  {
+    "question": "インフレ",
+    "meaning": "lạm phát",
+    "furigana": ""
+  },
+  {
+    "question": "引き起こす",
+    "meaning": "（ひきおこす）dẫn đến ( gây ra ) ( DẪN KHỞI )",
+    "furigana": ""
+  },
+  {
+    "question": "デフレ",
+    "meaning": "（デフレ）giảm phát",
+    "furigana": ""
+  },
+  {
+    "question": "採算",
+    "meaning": "( さいさん ) lợi nhuận",
+    "furigana": ""
+  },
+  {
+    "question": "均衡",
+    "meaning": "( きんこう ) cân bằng ( QUÂN HÀNH )",
+    "furigana": ""
+  },
+  {
+    "question": "収支",
+    "meaning": "（しゅうし）thu chi ( THU CHI )",
+    "furigana": ""
+  },
+  {
+    "question": "内訳",
+    "meaning": "（うちわけ）diễn giải , bảng kê chi tiết( NỘI DỊCH )",
+    "furigana": ""
+  },
+  {
+    "question": "多額",
+    "meaning": "( たがく ) số tiền lớn ( ĐA NGẠCH )",
+    "furigana": ""
+  },
+  {
+    "question": "負債",
+    "meaning": "（ふさい） khoản nợ ( PHỤ TRÁI )",
+    "furigana": ""
+  },
+  {
+    "question": "抱える",
+    "meaning": "( かかえる ) mắc phải ( bão )",
+    "furigana": ""
+  },
+  {
+    "question": "経営不振",
+    "meaning": "（けいえいふしん）tình hình kinh tế không tốt",
+    "furigana": ""
+  },
+  {
+    "question": "提携を結ぶ",
+    "meaning": "（ていけいをむすぶ）hợp tác ( ĐỀ HUỀ KẾT )",
+    "furigana": ""
+  },
+  {
+    "question": "提携する",
+    "meaning": "（ていけいする）hợp tác ( ĐỀ HUỀ )",
+    "furigana": ""
+  },
+  {
+    "question": "譲歩",
+    "meaning": "（じょうほ）nhượng bộ ( NHƯỢNG BỘ )",
+    "furigana": ""
+  },
+  {
+    "question": "交渉",
+    "meaning": "（こうしょう) đàm phán ( GIAO THIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "妥結する",
+    "meaning": "（だけつする）kết luận ( THỎA KẾT )",
+    "furigana": ""
+  },
+  {
+    "question": "還元する",
+    "meaning": "（かんげんする）hoàn trả ( HOÀN NGUYÊN )",
+    "furigana": ""
+  },
+  {
+    "question": "従事する",
+    "meaning": "（じゅうじする）theo đuổi ( TÙNG SỰ )",
+    "furigana": ""
+  },
+  {
+    "question": "漁船",
+    "meaning": "（ぎょせん）tàu đánh cá ( NGƯ THUYỀN )",
+    "furigana": ""
+  },
+  {
+    "question": "停泊する",
+    "meaning": "( ていはくする ) neo tàu ( ĐÌNH BẠC )",
+    "furigana": ""
+  },
+  {
+    "question": "港",
+    "meaning": "（みなと）cảng ( CẢNG )",
+    "furigana": ""
+  },
+  {
+    "question": "建設",
+    "meaning": "( けんせつ ) xây dựng ( KIẾN THIẾT )",
+    "furigana": ""
+  },
+  {
+    "question": "着工",
+    "meaning": "（ちゃっこう）khởi công ( TRỨ CÔNG )",
+    "furigana": ""
+  },
+  {
+    "question": "貨物船",
+    "meaning": "( かもつせん ) tàu chuyên chở ( HÓA VẬT THUYỀN )",
+    "furigana": ""
+  },
+  {
+    "question": "輸送する",
+    "meaning": "（ゆそうする）vận chuyển ( THÂU TỐNG )",
+    "furigana": ""
+  },
+  {
+    "question": "農業",
+    "meaning": "（のうぎょう）nông nghiệp ( NÔNG NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "工業地帯",
+    "meaning": "（こうぎょうちたい）khu công nghiệp ( CÔNG NGHIỆP ĐỊA ĐỚI )",
+    "furigana": ""
+  },
+  {
+    "question": "地域",
+    "meaning": "（ちいき）khu vực ( ĐỊA VỰC )",
+    "furigana": ""
+  },
+  {
+    "question": "林業",
+    "meaning": "（りんぎょう）lâm nghiệp ( LÂM NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "水産業",
+    "meaning": "（すいさんぎょう）thủy sản ( THỦY SẢN NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "鉱業",
+    "meaning": "（こうぎょう）khoáng sản ( KHOÁNG NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "建設業",
+    "meaning": "（けんせつぎょう）xây dựng ( KIẾN THIẾT NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "製造業",
+    "meaning": "（せいぞうぎょう）công nghiệp chế biến ( CHẾ TẠO NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "情報通信業",
+    "meaning": "（じょうほうつうしんぎょう） thông tin và truyền thông ( TÌNH BÁO THÔNG TÍN NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "運輸業",
+    "meaning": "（うんゆぎょう）vận tải ( VẬN THÂU NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "小売業",
+    "meaning": "（こうりぎょう）bán lẻ ( TIỂU MẠI NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "金融",
+    "meaning": "（きんゆう）tài chính ( tín dụng ) ( KIM DUNG )",
+    "furigana": ""
+  },
+  {
+    "question": "保険業",
+    "meaning": "（ほけんぎょう）bảo hiểm ( BẢO HIỂM NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "不動産業",
+    "meaning": "（ふどうさんぎょう）bất động sản ( BẤT ĐỘNG SẢN NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "医療",
+    "meaning": "（いりょう）y ( Y LIỆU )",
+    "furigana": ""
+  },
+  {
+    "question": "福祉",
+    "meaning": "（ふくし）phúc lợi ( PHÚC CHỈ )",
+    "furigana": ""
+  },
+  {
+    "question": "学習支援業",
+    "meaning": "（がくしゅうしえんぎょう）hỗ trợ học tập ( HỌC TẬP CHI VIỆN NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "サビース業",
+    "meaning": "（サビースぎょう）ngành dịch vụ",
+    "furigana": ""
+  },
+  {
+    "question": "工業",
+    "meaning": "（こうぎょう）công nghiệp ( CÔNG NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "重工業",
+    "meaning": "（じゅうこうぎょう）công nghiệp nặng ( TRỌNG CÔNG NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "鉄鋼業",
+    "meaning": "（てっこうぎょう）công nghiệp thép ( THIẾT CƯƠNG NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "機械工業",
+    "meaning": "（きかいこうぎょう）công nghiệp máy móc ( CƠ GIỚI CÔNG NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "造船業",
+    "meaning": "（ぞうせんぎょう）công nghiệp đóng tàu ( TẠO THUYỀN NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "軽工業",
+    "meaning": "（けいこうぎょう）công nghiệp nhẹ ( KHINH CÔNG NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "繊維工業",
+    "meaning": "（せんいこうぎょう）công nghiệp dệt ( TIÊM DUY CÔNG NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "食品工業",
+    "meaning": "（しょくひんこうぎょう）công nghiệp thực phẩm ( THỰC PHẨM CÔNG NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "印刷業",
+    "meaning": "（いんさつぎょう）công nghiệp in ( IN LOÁT NGHIỆP )",
+    "furigana": ""
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "question": "中等教育",
+    "meaning": "（ちゅうとうきょういく）giáo dục phổ thông ( TRUNG ĐẲNG GIÁO DỤC )",
+    "furigana": ""
+  },
+  {
+    "question": "男子校",
+    "meaning": "（だんしこう）trường nam sinh ( NAM TỬ HIỆU )",
+    "furigana": ""
+  },
+  {
+    "question": "女子校",
+    "meaning": "（じょしこう）trường nữ sinh ( NỮ TỬ HIỆU )",
+    "furigana": ""
+  },
+  {
+    "question": "男女共学",
+    "meaning": "（だんじょきょうがく）trường học chung ( NAM NỮ CỘNG HỌC )",
+    "furigana": ""
+  },
+  {
+    "question": "高等教育",
+    "meaning": "（こうとうきょういく）giáo dục đại học ( cấp cao ) ( CAO ĐẲNG GIÁO DỤC )",
+    "furigana": ""
+  },
+  {
+    "question": "四年制大学",
+    "meaning": "（よねんせいだいがく）đại học 4 năm",
+    "furigana": ""
+  },
+  {
+    "question": "短期大学",
+    "meaning": "（たんきだいがく）đại học ngắn hạn ( ĐOẢN KỲ ĐẠI HỌC )",
+    "furigana": ""
+  },
+  {
+    "question": "大学院",
+    "meaning": "（だいがくいん）cao học ( ĐẠI HỌC VIỆN )",
+    "furigana": ""
+  },
+  {
+    "question": "塾",
+    "meaning": "（じゅく）trường tư (THỤC )",
+    "furigana": ""
+  },
+  {
+    "question": "予備校",
+    "meaning": "（よびこう）trường dự bị ( DỰ BỊ HIỆU )",
+    "furigana": ""
+  },
+  {
+    "question": "専門学校",
+    "meaning": "（せんもんがっこう）trường chuyên môn ( CHUYÊN MÔN HỌC HIỆU )",
+    "furigana": ""
+  },
+  {
+    "question": "校風",
+    "meaning": "(こうふう) truyền thống của trường ( HIỆU PHONG )",
+    "furigana": ""
+  },
+  {
+    "question": "保守的な",
+    "meaning": "（ほしゅてきな） bảo thủ ( BẢO THỦ ĐÍCH )",
+    "furigana": ""
+  },
+  {
+    "question": "厳格な",
+    "meaning": "（げんかくな） Nghiêm khắc, khắt khe ( NGHIÊM CÁCH )",
+    "furigana": ""
+  },
+  {
+    "question": "リベラルな",
+    "meaning": "（リベラルな） tự do",
+    "furigana": ""
+  },
+  {
+    "question": "講義",
+    "meaning": "（こうぎ）bài giảng、 giờ học ( GIẢNG NGHĨA )",
+    "furigana": ""
+  },
+  {
+    "question": "受講する",
+    "meaning": "（じゅこうする）dự giảng ( THỤ GIẢNG )",
+    "furigana": ""
+  },
+  {
+    "question": "聴講する",
+    "meaning": "（ちょうこうする）nghe giảng ( THÍNH GIẢNG )",
+    "furigana": ""
+  },
+  {
+    "question": "必修科目",
+    "meaning": "（ひっしゅうかもく）môn học bắt buộc ( TẤT TU KHOA MỤC )",
+    "furigana": ""
+  },
+  {
+    "question": "選択科目",
+    "meaning": "（せんたくかもく） môn học tự chọn ( TUYỂN TRẠCH KHOA MỤC )",
+    "furigana": ""
+  },
+  {
+    "question": "購読する",
+    "meaning": "(こうどくする) đặt mua báo ( CẤU ĐỘC )",
+    "furigana": ""
+  },
+  {
+    "question": "文献",
+    "meaning": "(ぶんけん） văn kiện ( VĂN HIẾN )",
+    "furigana": ""
+  },
+  {
+    "question": "質疑応答",
+    "meaning": "（しつぎおうとう） giải đáp thắc mắc ( CHẤT NGHI ỨNG ĐÁP )",
+    "furigana": ""
+  },
+  {
+    "question": "学士課程",
+    "meaning": "（がくしかてい）hệ cử nhân ( HỌC SĨ KHÓA TRÌNH )",
+    "furigana": ""
+  },
+  {
+    "question": "修士課程",
+    "meaning": "（しゅうしかてい）hệ thạc sĩ ( TU SĨ KHÓA TRÌNH )",
+    "furigana": ""
+  },
+  {
+    "question": "博士課程",
+    "meaning": "（はくしかてい） hệ tiến sĩ ( BÁC SĨ KHÓA TRÌNH )",
+    "furigana": ""
+  },
+  {
+    "question": "筆記試験",
+    "meaning": "（ひっきしけん） thi viết ( BÚT KÍ THÍ NGHIỆM )",
+    "furigana": ""
+  },
+  {
+    "question": "口述試験",
+    "meaning": "（こうじゅつしけん） thi vấn đáp ( KHẨU THUẬT THÍ NGHIỆM )",
+    "furigana": ""
+  },
+  {
+    "question": "実技試験",
+    "meaning": "（じつぎしけん）thi thực hành ( THỰC KĨ THÍ NGHIỆM )",
+    "furigana": ""
+  },
+  {
+    "question": "学問を志す",
+    "meaning": "（がくもんをこころざす）tu chí học hành ( HỌC VẤN CHÍ )",
+    "furigana": ""
+  },
+  {
+    "question": "模範的な",
+    "meaning": "（もはんてきな） gương mẫu ( MÔ PHẠM ĐÍCH )",
+    "furigana": ""
+  },
+  {
+    "question": "奨学金",
+    "meaning": "（しょうがくきん） học bổng ( TƯỞNG HỌC KIM )",
+    "furigana": ""
+  },
+  {
+    "question": "授与",
+    "meaning": "(じゅよ) tặng ( THỤ DỰ )",
+    "furigana": ""
+  },
+  {
+    "question": "振り向く",
+    "meaning": "（ふりむく）không quan tâm ( làm ngơ ) ( CHẤN HƯỚNG )",
+    "furigana": ""
+  },
+  {
+    "question": "授業料",
+    "meaning": "（じゅぎょうりょう）học phí ( THỤ NGHIỆP LIỆU )",
+    "furigana": ""
+  },
+  {
+    "question": "休学する",
+    "meaning": "（きゅうがくする）nghỉ học ( HƯU HỌC )",
+    "furigana": ""
+  },
+  {
+    "question": "非行に走る",
+    "meaning": "（ひこうにはしる）vi phạm kỷ luật ( PHI HÀNH )",
+    "furigana": ""
+  },
+  {
+    "question": "先行研究",
+    "meaning": "（せんこうけんきゅう） nghiên cứu trước",
+    "furigana": ""
+  },
+  {
+    "question": "専門用語",
+    "meaning": "（せんもんようご）thuật ngữ chuyên ngành ( CHUYÊN MÔN DỤNG NGỮ )",
+    "furigana": ""
+  },
+  {
+    "question": "台無し",
+    "meaning": "（だいなし）bị phá hủy ( trở nên vô nghĩa ) ( THAI VÔ )",
+    "furigana": ""
+  },
+  {
+    "question": "実践的な",
+    "meaning": "（じっせんてきな）tính thực tiễn ( THỰC TIỄN ĐÍCH )",
+    "furigana": ""
+  },
+  {
+    "question": "類推する",
+    "meaning": "（るいすいする）tương tự ( giống nhau ) ( LOẠI SUY )",
+    "furigana": ""
+  },
+  {
+    "question": "箇条書き",
+    "meaning": "（かじょうかき）đầu mục ( CÁ ĐIỀU THƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "まごつく",
+    "meaning": "lúng túng",
+    "furigana": ""
+  },
+  {
+    "question": "指摘",
+    "meaning": "（してき） nhận xét ( chỉ trích ) ( CHỈ TRÍCH )",
+    "furigana": ""
+  },
+  {
+    "question": "同級生",
+    "meaning": "（どうきゅうせい） bạn cùng khóa ( ĐỒNG CẤP SINH )",
+    "furigana": ""
+  },
+  {
+    "question": "級友",
+    "meaning": "(きゅうゆう) bạn thân ( bạn cùng lớp ) ( CẤP HỮU )",
+    "furigana": ""
+  },
+  {
+    "question": "雑談する",
+    "meaning": "（ざつだんする）nói chuyện phiếm ( TẠP ĐÀM )",
+    "furigana": ""
+  },
+  {
+    "question": "同窓会",
+    "meaning": "（どうそうかい) họp lớp ( ĐỒNG SONG HỘI )",
+    "furigana": ""
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "question": "文芸",
+    "meaning": "（ぶんげい）văn nghệ ( VĂN VÂN )",
+    "furigana": ""
+  },
+  {
+    "question": "著書",
+    "meaning": "（ちょしょ）tác phẩm ( TRỨ THƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "独創的",
+    "meaning": "（どくそうてき）sáng tạo ( ĐỘC SANG ĐÍCH )",
+    "furigana": ""
+  },
+  {
+    "question": "ユニーク",
+    "meaning": "độc nhất",
+    "furigana": ""
+  },
+  {
+    "question": "原文",
+    "meaning": "(げんぶん) nguyên văn ( NGUYÊN VĂN )",
+    "furigana": ""
+  },
+  {
+    "question": "ニュアンス",
+    "meaning": "（ニュアンス）sắc thái",
+    "furigana": ""
+  },
+  {
+    "question": "訳",
+    "meaning": "（やく）lý do ( nguyên nhân ) ( DỊCH )",
+    "furigana": ""
+  },
+  {
+    "question": "詩を朗読する",
+    "meaning": "（しをろうどくする）ngâm thơ ( THI LÃNG ĐỘC )",
+    "furigana": ""
+  },
+  {
+    "question": "書評",
+    "meaning": "（しょひょう）bài phê bình ( THƯ BÌNH )",
+    "furigana": ""
+  },
+  {
+    "question": "刊行",
+    "meaning": "（かんこう）phát hành ( SAN HÀNH )",
+    "furigana": ""
+  },
+  {
+    "question": "長編小説",
+    "meaning": "（ちょうへんしょうせつ）tiểu thuyết ( TRƯỜNG BIÊN TIỂU THUYẾT )",
+    "furigana": ""
+  },
+  {
+    "question": "短編小説",
+    "meaning": "（たんへんしょうせつ）truyện ngắn ( ĐOẢN BIÊN TIỂU THUYẾT )",
+    "furigana": ""
+  },
+  {
+    "question": "戯曲",
+    "meaning": "（ぎきょく）kịch ( HÍ KHÚC )",
+    "furigana": ""
+  },
+  {
+    "question": "文庫本",
+    "meaning": "（ぶんこほん）sách đóng trên giấy mềm ( VĂN KHỐ BẢN )",
+    "furigana": ""
+  },
+  {
+    "question": "新書",
+    "meaning": "（しんしょ）sách mới ( TÂN THƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "初版",
+    "meaning": "（しょはん）xuất bản lần đầu ( SƠ BẢN )",
+    "furigana": ""
+  },
+  {
+    "question": "改定版",
+    "meaning": "（かいていばん）tái bản ( CẢI ĐỊNH BẢN )",
+    "furigana": ""
+  },
+  {
+    "question": "待望",
+    "meaning": "（たいぼう）kỳ vọng ( ĐÃI VỌNG )",
+    "furigana": ""
+  },
+  {
+    "question": "新刊",
+    "meaning": "（しんかん）ấn phẩm mới ( TÂN SAN )",
+    "furigana": ""
+  },
+  {
+    "question": "重厚な曲",
+    "meaning": "（じゅうこうなきょく）khúc nhạc trầm ( TRỌNG HẬU KHÚC )",
+    "furigana": ""
+  },
+  {
+    "question": "軽快な曲",
+    "meaning": "（けいかいなきょく）khúc nhạc vui ( KINH KHOÁI KHÚC )",
+    "furigana": ""
+  },
+  {
+    "question": "音楽一筋に打ち込む",
+    "meaning": "（おんがくひとすじにうちこむ）",
+    "furigana": ""
+  },
+  {
+    "question": "音色",
+    "meaning": "（ねいろ）thanh điệu ( ÂM SẮC )",
+    "furigana": ""
+  },
+  {
+    "question": "響く",
+    "meaning": "(ひびく) vang vọng ( HƯỞNG )",
+    "furigana": ""
+  },
+  {
+    "question": "音が反響する",
+    "meaning": "（おとがはんきょうする）âm thanh vọng lại",
+    "furigana": ""
+  },
+  {
+    "question": "楽譜",
+    "meaning": "(がくふ) bản nhạc ( LẠC PHỔ )",
+    "furigana": ""
+  },
+  {
+    "question": "楽譜をめくる",
+    "meaning": "（がくふをめくる）bản nhạc cất lên",
+    "furigana": ""
+  },
+  {
+    "question": "口ずさむ",
+    "meaning": "(くちずさむ) hát thầm",
+    "furigana": ""
+  },
+  {
+    "question": "盛大な拍手が沸き起こる",
+    "meaning": "（せいだいなはくしゅがわきおこる）1 tràng pháo tay được nổ ra ( THỊNH ĐẠI PHÁCH THỦ PHÍ KHỞI )",
+    "furigana": ""
+  },
+  {
+    "question": "作風",
+    "meaning": "（さくふう）tác phong ( phong cách sáng tác )",
+    "furigana": ""
+  },
+  {
+    "question": "繊細な",
+    "meaning": "（せんさいな）tinh tế ( TIÊM TẾ )",
+    "furigana": ""
+  },
+  {
+    "question": "大胆な",
+    "meaning": "（だいたんな）táo bạo ( liều lĩnh ) ( ĐẠI ĐẢM )",
+    "furigana": ""
+  },
+  {
+    "question": "描写",
+    "meaning": "（びょうしゃ）phác họa ( MIÊU TẢ )",
+    "furigana": ""
+  },
+  {
+    "question": "壮大な",
+    "meaning": "（そうだいな）nguy nga ( tráng lệ ) ( TRÁNG ĐẠI )",
+    "furigana": ""
+  },
+  {
+    "question": "建築物",
+    "meaning": "(けんちくぶつ) công trình ( KIẾN TRÚC VẬT )",
+    "furigana": ""
+  },
+  {
+    "question": "画廊",
+    "meaning": "(がろう) nhà triển lãm ( HỌA LANG )",
+    "furigana": ""
+  },
+  {
+    "question": "個展",
+    "meaning": "（こてん）triển lãm cá nhân ( CÁ TRIỂN )",
+    "furigana": ""
+  },
+  {
+    "question": "手芸",
+    "meaning": "（しゅげい）nghề thủ công ( THỦ VÂN )",
+    "furigana": ""
+  },
+  {
+    "question": "織物",
+    "meaning": "（おりもの）vải dệt ( CHỨC VẬT )",
+    "furigana": ""
+  },
+  {
+    "question": "刺しゅう",
+    "meaning": "（ししゅう）thêu ( THÍCH )",
+    "furigana": ""
+  },
+  {
+    "question": "陶芸",
+    "meaning": "（とうげい）nghệ thuật chế tác gốm ( ĐÀO VÂN )",
+    "furigana": ""
+  },
+  {
+    "question": "彫刻",
+    "meaning": "(ちょうこく) điêu khắc ( ĐIÊU KHẮC )",
+    "furigana": ""
+  },
+  {
+    "question": "精巧な",
+    "meaning": "（せいこうな） tinh xảo ( TINH XẢO )",
+    "furigana": ""
+  },
+  {
+    "question": "作者の意図を読み取る",
+    "meaning": "（さくしゃのいとをよみとる）nắm bắt ý đồ của tác giả",
+    "furigana": ""
+  },
+  {
+    "question": "茶道をたしなむ",
+    "meaning": "（さどうをたしなむ）hứng thú với trà đạo",
+    "furigana": ""
+  },
+  {
+    "question": "花を生ける",
+    "meaning": "（はなをいける）cắm hoa",
+    "furigana": ""
+  },
+  {
+    "question": "鑑賞",
+    "meaning": "（かんしょう）đánh giá ( GIÁM THƯỞNG )",
+    "furigana": ""
+  },
+  {
+    "question": "オペラ",
+    "meaning": "opera",
+    "furigana": ""
+  },
+  {
+    "question": "歌舞伎",
+    "meaning": "（かぶき）kịch kabuki ( CA VŨ KĨ )",
+    "furigana": ""
+  },
+  {
+    "question": "観戦する",
+    "meaning": "（かんせんする）xem ( QUAN CHIẾN )",
+    "furigana": ""
+  },
+  {
+    "question": "観客席",
+    "meaning": "(かんきゃくせき) khán đài ( QUAN KHÁCH TỊCH )",
+    "furigana": ""
+  },
+  {
+    "question": "声援を送る",
+    "meaning": "（せいえんをおくる）cổ vũ từ ( THANH VIỆN TỐNG )",
+    "furigana": ""
+  },
+  {
+    "question": "練習に励む",
+    "meaning": "（れんしゅうにはげむ）cố gắng luyện tập ( LUYỆN TẬP LỆ )",
+    "furigana": ""
+  },
+  {
+    "question": "規約を守る",
+    "meaning": "（きやくをまもる）giữ quy ước",
+    "furigana": ""
+  },
+  {
+    "question": "規定を守る",
+    "meaning": "（きていをまもる）giữ quy định",
+    "furigana": ""
+  },
+  {
+    "question": "戦術",
+    "meaning": "（せんじゅつ）chiến thuật ( CHIẾN THUẬT )",
+    "furigana": ""
+  },
+  {
+    "question": "巧みな",
+    "meaning": "（たくみな）khéo léo ( XẢO )",
+    "furigana": ""
+  },
+  {
+    "question": "巧妙な",
+    "meaning": "（こうみょうな） đa mưu ( XẢO DIỆU )",
+    "furigana": ""
+  },
+  {
+    "question": "作戦を練る",
+    "meaning": "（さくせんをねる）hoạch định chiến lược",
+    "furigana": ""
+  },
+  {
+    "question": "大会を制する",
+    "meaning": "（たいかいをせいする）thống trị giải đấu",
+    "furigana": ""
+  },
+  {
+    "question": "チームの結束が強い",
+    "meaning": "（チームのけっそくがつよい）đội đoàn kết ( KẾT THÚC CƯỜNG )",
+    "furigana": ""
+  },
+  {
+    "question": "チームの連帯が強い",
+    "meaning": "（チームのれんたいがつよい）đội đoàn kết",
+    "furigana": ""
+  },
+  {
+    "question": "不振",
+    "meaning": "（ふしん）không tốt ( BẤT CHẤN )",
+    "furigana": ""
+  },
+  {
+    "question": "有望な",
+    "meaning": "（ゆうぼうな）triển vọng ( HỮU VỌNG )",
+    "furigana": ""
+  },
+  {
+    "question": "人材を育成する",
+    "meaning": "（じんざいをいくせいする）đào tạo nhân tài",
+    "furigana": ""
+  },
+  {
+    "question": "人材を養成する",
+    "meaning": "（じんざいをようせいする）đào tạo nhân tài",
+    "furigana": ""
+  },
+  {
+    "question": "圧勝する",
+    "meaning": "（あっしょうする）thắng áp đảo ( ÁP THẮNG )",
+    "furigana": ""
+  },
+  {
+    "question": "完敗する",
+    "meaning": "（かんぱいする）thua toàn diện ( HOÀN BẠI )",
+    "furigana": ""
+  },
+  {
+    "question": "反撃する",
+    "meaning": "（はんげきする）phản công ( PHẢN KÍCH )",
+    "furigana": ""
+  },
+  {
+    "question": "強豪",
+    "meaning": "（きょうごう）nhà vô địch ( CƯỜNG HÀO )",
+    "furigana": ""
+  },
+  {
+    "question": "健闘する",
+    "meaning": "（けんとうする）thi đấu ( KIỆN ĐẤU )",
+    "furigana": ""
+  },
+  {
+    "question": "奮闘する",
+    "meaning": "（ふんとうする）phấn đấu ( PHẤN ĐẤU )",
+    "furigana": ""
+  },
+  {
+    "question": "敵を負かす",
+    "meaning": "（てきをまかす）đánh bại đối thủ",
+    "furigana": ""
+  },
+  {
+    "question": "敵を圧倒する",
+    "meaning": "（てきをあっとうする）áp đảo đối thủ",
+    "furigana": ""
+  }
+]

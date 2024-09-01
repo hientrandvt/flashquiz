@@ -1,0 +1,367 @@
+[
+  {
+    "question": "手がける",
+    "meaning": "（てがける）trực tiếp làm",
+    "furigana": ""
+  },
+  {
+    "question": "委託する",
+    "meaning": "（いたくする）ủy thác ( giao phó ) ( ỦY THÁC )",
+    "furigana": ""
+  },
+  {
+    "question": "疎かにする",
+    "meaning": "（おろそかにする）sao nhãng ( bỏ bê ) ( SƠ )",
+    "furigana": ""
+  },
+  {
+    "question": "はかどる",
+    "meaning": "（はかどる）tiến bộ",
+    "furigana": ""
+  },
+  {
+    "question": "取り掛かる",
+    "meaning": "（とりかかる）bắt tay vào ( THỦ QUẢI )",
+    "furigana": ""
+  },
+  {
+    "question": "打ち込む",
+    "meaning": "（うちこむ）tập trung ( cống hiến hết mình ) ( ĐẢ NHẬP )",
+    "furigana": ""
+  },
+  {
+    "question": "取り組む",
+    "meaning": "（とりくむ）nỗ lực ( chuyên tâm ) ( THỦ TỔ )",
+    "furigana": ""
+  },
+  {
+    "question": "役職",
+    "meaning": "（やくしょく）chức vụ ( vị trí ) ( DỊCH CHỨC )",
+    "furigana": ""
+  },
+  {
+    "question": "地位",
+    "meaning": "（ちい）chức vụ ( ĐỊA VỊ )",
+    "furigana": ""
+  },
+  {
+    "question": "ポスト",
+    "meaning": "chức vụ",
+    "furigana": ""
+  },
+  {
+    "question": "昇進する",
+    "meaning": "( しょうしんする ) thăng chức ( THĂNG TIẾN )",
+    "furigana": ""
+  },
+  {
+    "question": "主任",
+    "meaning": "（しゅにん） chủ nhiệm ( CHỦ NHIỆM )",
+    "furigana": ""
+  },
+  {
+    "question": "係長",
+    "meaning": "（かかりちょう）quản đốc ( HỆ TRƯỜNG )",
+    "furigana": ""
+  },
+  {
+    "question": "次長",
+    "meaning": "（じちょう）phó trưởng phòng ( THỨ TRƯỜNG )",
+    "furigana": ""
+  },
+  {
+    "question": "役員",
+    "meaning": "（やくいん）viên chức ( DỊCH VIÊN )",
+    "furigana": ""
+  },
+  {
+    "question": "重役",
+    "meaning": "（じゅうやく）giám đốc ( TRỌNG DỊCH )",
+    "furigana": ""
+  },
+  {
+    "question": "取締役",
+    "meaning": "（とりしまりやく）người quản lý ( THỦ ĐẾ DỊCH )",
+    "furigana": ""
+  },
+  {
+    "question": "職員",
+    "meaning": "(しょくいん) nhân viên ( CHỨC VIÊN )",
+    "furigana": ""
+  },
+  {
+    "question": "常勤",
+    "meaning": "（じょうきん）thường trực ( THƯỜNG CẦN )",
+    "furigana": ""
+  },
+  {
+    "question": "非常勤",
+    "meaning": "（ひじょうきん）không thường trực ( PHI THƯỜNG CẦN )",
+    "furigana": ""
+  },
+  {
+    "question": "正規",
+    "meaning": "（せいき）chính thức ( CHÍNH QUY )",
+    "furigana": ""
+  },
+  {
+    "question": "非正規",
+    "meaning": "（ひせいき）không chính thức ( PHI CHÍNH QUY )",
+    "furigana": ""
+  },
+  {
+    "question": "部署",
+    "meaning": "（ぶしょ）cương vị ( BỘ THỰ )",
+    "furigana": ""
+  },
+  {
+    "question": "セクション",
+    "meaning": "bộ phận",
+    "furigana": ""
+  },
+  {
+    "question": "企画（部・課）",
+    "meaning": "（きかく）quy hoạch ( XÍ HOẠCH )",
+    "furigana": ""
+  },
+  {
+    "question": "開発（部・課）",
+    "meaning": "（かいはつ）phát triển ( KHAI PHÁT )",
+    "furigana": ""
+  },
+  {
+    "question": "広報（部・課）",
+    "meaning": "（ほうほう）quảng cáo ( quan hệ công chúng , PR )( QUẢNG BÁO )",
+    "furigana": ""
+  },
+  {
+    "question": "経理（部・課）",
+    "meaning": "（けいり）kế toán ( KINH LÝ )",
+    "furigana": ""
+  },
+  {
+    "question": "営業（部・課）",
+    "meaning": "（えいぎょう）kinh doanh ( DOANH NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "赴任する",
+    "meaning": "（ふにんする）chuyển công tác ( PHÓ NHÂM )",
+    "furigana": ""
+  },
+  {
+    "question": "赴く",
+    "meaning": "（おもむく）chuyển công tác ( PHÓ )",
+    "furigana": ""
+  },
+  {
+    "question": "転任になる",
+    "meaning": "（てんにんになる）chuyển bộ phận làm việc ( CHUYỂN NHIỆM )",
+    "furigana": ""
+  },
+  {
+    "question": "報酬",
+    "meaning": "（ほうしゅう）tiền công ( tiền thù lao ) ( BÁO THÙ )",
+    "furigana": ""
+  },
+  {
+    "question": "多忙",
+    "meaning": "（たぼう） bận rộn ( ĐA MANG )",
+    "furigana": ""
+  },
+  {
+    "question": "商店",
+    "meaning": "（しょうてん）cửa hàng ( THƯƠNG ĐIẾM )",
+    "furigana": ""
+  },
+  {
+    "question": "営む",
+    "meaning": "（いとなむ）kinh doanh ( DOANH )",
+    "furigana": ""
+  },
+  {
+    "question": "勤続",
+    "meaning": "（きんぞく）làm việc liên tục ( CẦN TỤC )",
+    "furigana": ""
+  },
+  {
+    "question": "不景気",
+    "meaning": "（ふけいき）tình hình kinh tế không tốt ( tiêu điều ) ( BẤT CẢNH KHÍ )",
+    "furigana": ""
+  },
+  {
+    "question": "不況",
+    "meaning": "（ふきょう）tình hình kinh tế không tốt ( tiêu điều ) ( BẤT HUỐNG )",
+    "furigana": ""
+  },
+  {
+    "question": "職業",
+    "meaning": "（しょくぎょう）nghề nghiệp ( CHỨC NGHIỆP )",
+    "furigana": ""
+  },
+  {
+    "question": "検事",
+    "meaning": "（けんじ）công tố viên ( kiểm sát viên ) ( KIỂM SỰ )",
+    "furigana": ""
+  },
+  {
+    "question": "弁護士",
+    "meaning": "（べんごし）luật sư ( người biện hộ ) ( BIỆN HỘ SĨ )",
+    "furigana": ""
+  },
+  {
+    "question": "裁判官",
+    "meaning": "（さいばんかん）thẩm phán ( TÀI PHÁN QUAN )",
+    "furigana": ""
+  },
+  {
+    "question": "医師",
+    "meaning": "（いし）bác sĩ ( Y SƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "歯科医",
+    "meaning": "（しかい）bác sĩ nha khoa ( XỈ KHOA Y )",
+    "furigana": ""
+  },
+  {
+    "question": "助産師",
+    "meaning": "（じょさんし）hộ lý ( TRỢ SẢN SƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "介護福祉士 = 介護士",
+    "meaning": "（かいごふくしし = かいごし）điều dưỡng viên ( GIỚI HỘ PHÚC CHỈ SĨ )",
+    "furigana": ""
+  },
+  {
+    "question": "土木",
+    "meaning": "（どぼく）công trình công cộng ( THỔ MỘC )",
+    "furigana": ""
+  },
+  {
+    "question": "建築士",
+    "meaning": "（けんちくし）kiến trúc sư ( KIẾN TRÚC SĨ )",
+    "furigana": ""
+  },
+  {
+    "question": "技師",
+    "meaning": "（ぎし）kỹ sư ( KỸ SƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "宗教関係",
+    "meaning": "（しゅうきょうかんけい）quan hệ tôn giáo ( TÔNG GIÁO QUAN HỆ )",
+    "furigana": ""
+  },
+  {
+    "question": "僧",
+    "meaning": "（そう）nhà sư ( TĂNG )",
+    "furigana": ""
+  },
+  {
+    "question": "神主",
+    "meaning": "（かんぬし）trụ chì ( THẦN CHỦ )",
+    "furigana": ""
+  },
+  {
+    "question": "神父",
+    "meaning": "（しんぷ）cha xứ ( THẦN PHỤ )",
+    "furigana": ""
+  },
+  {
+    "question": "牧師",
+    "meaning": "（ぼくし）mục sư ( linh mục ) ( MỤC SƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "会計士",
+    "meaning": "（かいけいし）kế toán viên ( HỘI KẾ SĨ )",
+    "furigana": ""
+  },
+  {
+    "question": "税理士",
+    "meaning": "（ぜいりし）nhân viên thuế ( THUẾ LÝ SĨ )",
+    "furigana": ""
+  },
+  {
+    "question": "消防士",
+    "meaning": "（しょうぼうし）lính cứu hỏa ( TIÊU PHÒNG SĨ )",
+    "furigana": ""
+  },
+  {
+    "question": "実業家",
+    "meaning": "（じつぎょうか）doanh nhân / người thất nghiệp ( THỰC NGHIỆP GIA )",
+    "furigana": ""
+  },
+  {
+    "question": "コンサルタント",
+    "meaning": "cố vấn viên",
+    "furigana": ""
+  },
+  {
+    "question": "占い師",
+    "meaning": "（うらないし）thầy bói ( CHIÊM SƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "探偵",
+    "meaning": "（たんてい）thám tử ( trinh thám) ( THÁM TRINH )",
+    "furigana": ""
+  },
+  {
+    "question": "家政婦",
+    "meaning": "（かせいふ）quản gia ( người hầu gái ) ( GIA CHÁNH PHỤ )",
+    "furigana": ""
+  },
+  {
+    "question": "板前",
+    "meaning": "（いたまえ）đầu bếp ( BẢN TIỀN )",
+    "furigana": ""
+  },
+  {
+    "question": "公募する",
+    "meaning": "（こうぼうする）tuyển dụng ( CÔNG MỘ )",
+    "furigana": ""
+  },
+  {
+    "question": "求人広告",
+    "meaning": "（きゅうじんこうこく） quảng cáo tuyển dụng ( CẦU NHÂN QUẢNG CÁO )",
+    "furigana": ""
+  },
+  {
+    "question": "突破する",
+    "meaning": "（とっぱする）vượt qua ( đỗ , đột phá ) ( ĐỘT PHÁ )",
+    "furigana": ""
+  },
+  {
+    "question": "雇う",
+    "meaning": "（やとう）thuê người ( CỐ )",
+    "furigana": ""
+  },
+  {
+    "question": "雇用する",
+    "meaning": "（こようする）thuê người ( CỐ DỤNG )",
+    "furigana": ""
+  },
+  {
+    "question": "解雇する",
+    "meaning": "（かいこする）sa thải ( đuổi việc ) ( GIẢI CỐ )",
+    "furigana": ""
+  },
+  {
+    "question": "正社員",
+    "meaning": "（せいしゃいん）người làm fulltime ( CHÍNH XÃ VIÊN )",
+    "furigana": ""
+  },
+  {
+    "question": "派遣社員",
+    "meaning": "（はけんしゃいん）nhân viên tạm thời ( PHÁI KHIÊN XÃ VIÊN )",
+    "furigana": ""
+  },
+  {
+    "question": "契約社員",
+    "meaning": "（けいやくしゃいん）nhân viên hợp đồng ( KHẾ ƯỚC XÃ VIÊN )",
+    "furigana": ""
+  }
+]

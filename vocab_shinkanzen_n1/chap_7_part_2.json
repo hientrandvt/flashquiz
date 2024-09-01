@@ -1,0 +1,297 @@
+[
+  {
+    "question": "立法",
+    "meaning": "（りっぽう）lập pháp ( LẬP PHÁP )",
+    "furigana": ""
+  },
+  {
+    "question": "政策",
+    "meaning": "( せいさく ) chính sách ( CHÍNH SÁCH )",
+    "furigana": ""
+  },
+  {
+    "question": "促す",
+    "meaning": "（うながす）kêu gọi ( xúc tiến ) ( XÚC )",
+    "furigana": ""
+  },
+  {
+    "question": "質疑",
+    "meaning": "（しつぎ）chất vấn ( CHẤT NGHI )",
+    "furigana": ""
+  },
+  {
+    "question": "異論",
+    "meaning": "( いろん ) bất bình ( DỊ LUẬN )",
+    "furigana": ""
+  },
+  {
+    "question": "唱える",
+    "meaning": "（となえる）nêu lên ( đưa ra ) ( XƯỚNG )",
+    "furigana": ""
+  },
+  {
+    "question": "議論",
+    "meaning": "( ぎろん ) tranh luận ( thảo luận ) ( NGHỊ LUẬN )",
+    "furigana": ""
+  },
+  {
+    "question": "踏まえる",
+    "meaning": "（ふまえる）xem xét ( ĐẠP )",
+    "furigana": ""
+  },
+  {
+    "question": "議長",
+    "meaning": "( ぎちょう ) chủ tịch ( NGHỊ TRƯỜNG )",
+    "furigana": ""
+  },
+  {
+    "question": "裁決",
+    "meaning": "（さいけつ） phán quyết ( TÀI QUYẾT )",
+    "furigana": ""
+  },
+  {
+    "question": "法案",
+    "meaning": "( ほうあん ) dự luật ( PHÁP ÁN )",
+    "furigana": ""
+  },
+  {
+    "question": "審議",
+    "meaning": "（しんぎ）xem xét kỹ ( THẨM NGHỊ )",
+    "furigana": ""
+  },
+  {
+    "question": "採択する",
+    "meaning": "( さいりつする ) thông qua ( THẢI TRẠCH )",
+    "furigana": ""
+  },
+  {
+    "question": "議題",
+    "meaning": "（ぎだい）vấn đề thảo luận ( NGHỊ ĐỀ )",
+    "furigana": ""
+  },
+  {
+    "question": "制定する",
+    "meaning": "（せいていする）ban hành ( CHẾ ĐỊNH )",
+    "furigana": ""
+  },
+  {
+    "question": "整備する",
+    "meaning": "（せいびする）điều chỉnh ( CHỈNH BỊ )",
+    "furigana": ""
+  },
+  {
+    "question": "法整備",
+    "meaning": "（ほうせいび）điều chỉnh luật pháp ( PHÁP CHỈNH BỊ )",
+    "furigana": ""
+  },
+  {
+    "question": "法律を改定する",
+    "meaning": "（ほうりつをかいていする）cải cách ( sửa đổi ) luật pháp ( PHÁP LUẬT CẢI ĐỊNH )",
+    "furigana": ""
+  },
+  {
+    "question": "法律を施行する",
+    "meaning": "（ほうりつをしこうする）thi hành pháp luật ( PHÁP LUẬT THI HÀNH )",
+    "furigana": ""
+  },
+  {
+    "question": "行政",
+    "meaning": "（ぎょうせい）hành chính ( HÀNH CHÍNH )",
+    "furigana": ""
+  },
+  {
+    "question": "規制が緩和される",
+    "meaning": "（きせいがかんわされる）quy chế hòa hoãn ( QUY CHẾ HOÃN HÒA )",
+    "furigana": ""
+  },
+  {
+    "question": "声明",
+    "meaning": "（せいめい）tuyên bố ( THANH MINH )",
+    "furigana": ""
+  },
+  {
+    "question": "万全",
+    "meaning": "( ばんぜん ) chu đáo ( VẠN TOÀN )",
+    "furigana": ""
+  },
+  {
+    "question": "措置",
+    "meaning": "（そち）có biện pháp ( THỐ TRÍ )",
+    "furigana": ""
+  },
+  {
+    "question": "異例",
+    "meaning": "( いれい ) ngoại lệ ( DỊ LỆ )",
+    "furigana": ""
+  },
+  {
+    "question": "寛大",
+    "meaning": "（かんだい）phóng khoáng ( KHOAN ĐẠI )",
+    "furigana": ""
+  },
+  {
+    "question": "条約",
+    "meaning": "( じょうやく ) hiệp ước ( ĐIỀU ƯỚC )",
+    "furigana": ""
+  },
+  {
+    "question": "調印する",
+    "meaning": "（ちょういんする）ký kết ( ĐIỀU ẤN )",
+    "furigana": ""
+  },
+  {
+    "question": "閣僚",
+    "meaning": "( かくりょう ) nội các ( CÁC LIÊU )",
+    "furigana": ""
+  },
+  {
+    "question": "協議",
+    "meaning": "（きょうぎ）hội nghị ( họp ) ( HIỆP NGHỊ )",
+    "furigana": ""
+  },
+  {
+    "question": "腐敗する",
+    "meaning": "（ふはいする）mục nát ( thối rữa ) ( HỦ BẠI )",
+    "furigana": ""
+  },
+  {
+    "question": "ビザを申請する",
+    "meaning": "（ビザをしんせいする）xin visa ( THÂN THỈNH )",
+    "furigana": ""
+  },
+  {
+    "question": "ビザを発給する",
+    "meaning": "（ビザをはっきゅうする）cấp visa ( PHÁT CẤP )",
+    "furigana": ""
+  },
+  {
+    "question": "司法",
+    "meaning": "（しほう）tư pháp ( TƯ PHÁP )",
+    "furigana": ""
+  },
+  {
+    "question": "訴訟",
+    "meaning": "( そしょう ) kiện tụng ( tranh chấp ) ( TỐ TỤNG )",
+    "furigana": ""
+  },
+  {
+    "question": "賠償を求める",
+    "meaning": "（ばいしょうをもとめる）yêu cầu bồi thường ( BỒI THƯỜNG )",
+    "furigana": ""
+  },
+  {
+    "question": "検察",
+    "meaning": "( けんさつ ) kiểm sát ( KIỂM SÁT )",
+    "furigana": ""
+  },
+  {
+    "question": "告訴する",
+    "meaning": "（こくそする）kiện cáo ( tố cáo ) ( CÁO TỐ )",
+    "furigana": ""
+  },
+  {
+    "question": "保障する",
+    "meaning": "（ほしょうする）bảo đảm ( BẢO CHƯỚNG )",
+    "furigana": ""
+  },
+  {
+    "question": "基本的人権",
+    "meaning": "（きほんてきじんけん）quyền cơ bản của con người ( CƠ BẢN ĐÍCH NHÂN QUYỀN )",
+    "furigana": ""
+  },
+  {
+    "question": "死刑",
+    "meaning": "( しけい ) tử hình ( TỬ HÌNH )",
+    "furigana": ""
+  },
+  {
+    "question": "死刑の判決が下る",
+    "meaning": "（しけいのはんけつがくだる）lĩnh án tử hình ( TỬ HÌNH PHÁN QUYẾT )",
+    "furigana": ""
+  },
+  {
+    "question": "懲役",
+    "meaning": "( ちょうえき ) phạt tù cải tạo ( TRỪNG DỊCH )",
+    "furigana": ""
+  },
+  {
+    "question": "懲役の判決が下る",
+    "meaning": "（ちょうえきのはんけつがくだる）lĩnh án phạt tù cải tạo ( TRỪNG DỊCH PHÁN QUYẾT )",
+    "furigana": ""
+  },
+  {
+    "question": "国家を形成する",
+    "meaning": "（こっかをけいせいする）hình thành quốc gia ( QUỐC GIA HÌNH THÀNH )",
+    "furigana": ""
+  },
+  {
+    "question": "異民族",
+    "meaning": "( いみんぞく ) khác biệt chủng tộc ( DỊ DÂN TỘC )",
+    "furigana": ""
+  },
+  {
+    "question": "侵略する",
+    "meaning": "（しんりゃくする）xâm lược ( XÂM LƯỢC )",
+    "furigana": ""
+  },
+  {
+    "question": "復興する",
+    "meaning": "（ふっこうする）khôi phục ( PHỤC HƯNG )",
+    "furigana": ""
+  },
+  {
+    "question": "繁栄",
+    "meaning": "( はんえい ) phồn vinh ( PHỒN VINH )",
+    "furigana": ""
+  },
+  {
+    "question": "古代文明",
+    "meaning": "（こだいぶんめい）văn minh cổ đại ( CỔ ĐẠI VĂN MINH )",
+    "furigana": ""
+  },
+  {
+    "question": "衰退する",
+    "meaning": "（すいたいする）suy thoái ( SUY THOÁI )",
+    "furigana": ""
+  },
+  {
+    "question": "内線が起きる",
+    "meaning": "（ないせんがおきる）xảy ra nội chiến ( NỘI TUYẾN )",
+    "furigana": ""
+  },
+  {
+    "question": "紛争が起きる",
+    "meaning": "（ふんそうがおきる）xảy ra tranh chấp ( PHÂN TRANH )",
+    "furigana": ""
+  },
+  {
+    "question": "国が東西に分断される",
+    "meaning": "（くにがとうざいにぶんだんされる）đất nước bị chia cắt đông tây",
+    "furigana": ""
+  },
+  {
+    "question": "遺跡",
+    "meaning": "( いせき ) di tích ( DI TÍCH )",
+    "furigana": ""
+  },
+  {
+    "question": "発掘する",
+    "meaning": "（はっくつする）khai thác ( khai quật ) ( PHÁT QUẬT )",
+    "furigana": ""
+  },
+  {
+    "question": "住居跡",
+    "meaning": "（じゅうきょあと）dấu tích cư trú ( TRÚ CƯ TÍCH )",
+    "furigana": ""
+  },
+  {
+    "question": "軍事力",
+    "meaning": "( ぐんじりょく ) sức mạnh quân sự ( QUÂN SỰ LỰC )",
+    "furigana": ""
+  },
+  {
+    "question": "増強する",
+    "meaning": "（ぞうぎょうする）củng cố ( TĂNG CƯỜNG )",
+    "furigana": ""
+  }
+]

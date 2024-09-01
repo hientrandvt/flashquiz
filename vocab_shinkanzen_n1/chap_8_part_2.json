@@ -1,0 +1,157 @@
+[
+  {
+    "question": "偉大な発明をする",
+    "meaning": "（いだいなはつめいをする）phát mình vĩ đại",
+    "furigana": ""
+  },
+  {
+    "question": "画期的な発明をする",
+    "meaning": "（かっきてきなはつめいをする）phát minh mở ra kỷ nguyên mới",
+    "furigana": ""
+  },
+  {
+    "question": "太陽電池を開発・施策する",
+    "meaning": "（たいようでんちをかいはつ・しさくする）phát triển pin năng lượng mặt trời",
+    "furigana": ""
+  },
+  {
+    "question": "ソーラーパネルを開発・施策する",
+    "meaning": "（ソーラーパネルをかいはつ・しさくする）phát triển pin năng lượng mặt trời",
+    "furigana": ""
+  },
+  {
+    "question": "エネルギー源が多様化する",
+    "meaning": "（エネルギー源がたようかする）đa dạng hóa nguồn năng lượng",
+    "furigana": ""
+  },
+  {
+    "question": "原子力発電の仕組みを知る",
+    "meaning": "（でんしりょくはつでんのしくみをしる）hiểu biết về cơ cấu của năng lượng nguyên tử",
+    "furigana": ""
+  },
+  {
+    "question": "エネルギーを出力する",
+    "meaning": "（エネルギーをしゅつりょくする）phát ra năng lượng",
+    "furigana": ""
+  },
+  {
+    "question": "エネルギーを入力する",
+    "meaning": "（エネルギーをにゅうりょくする）thu năng lượng",
+    "furigana": ""
+  },
+  {
+    "question": "エネルギーを変換する",
+    "meaning": "（エネルギーを変換する）biến đổi năng lượng",
+    "furigana": ""
+  },
+  {
+    "question": "開発プロジェクトが発足する",
+    "meaning": "（かいはつプロジェクトがほっそくする）dự án bắt đầu đi vào hoạt động",
+    "furigana": ""
+  },
+  {
+    "question": "製品を精密に検査する",
+    "meaning": "（せいひんをせいみつにけんさする）kiểm tra sản phẩm 1 cách tỉ mỉ ( chi tiết )",
+    "furigana": ""
+  },
+  {
+    "question": "省エネに取り組む",
+    "meaning": "（しょうエネにとりくむ）tiết kiệm năng lượng",
+    "furigana": ""
+  },
+  {
+    "question": "電気製品が電力を消費する",
+    "meaning": "（でんきせいひんがでんりょくをしょうひする）sản phẩm điện tử tiêu tốn điện",
+    "furigana": ""
+  },
+  {
+    "question": "その製品は100ボルトの電圧に対応している",
+    "meaning": "（そのせいひんは100ボルトのでんあつにたいおうしている）sản phẩm sử dụng cho điện áp 100 vôn",
+    "furigana": ""
+  },
+  {
+    "question": "家電を購入する",
+    "meaning": "（かでんをこうにゅうする）mua đồ điện gia dụng",
+    "furigana": ""
+  },
+  {
+    "question": "家庭用電気製品を購入する",
+    "meaning": "（かていようでんきせいひんをこうにゅうする）mua đồ điện gia dụng",
+    "furigana": ""
+  },
+  {
+    "question": "省エネ家電を購入する",
+    "meaning": "（しょうエネかでんをこうにゅうする）mua thiết bị tiết kiệm điện",
+    "furigana": ""
+  },
+  {
+    "question": "飛行機が離陸する",
+    "meaning": "（ひこうきがりりくする）máy bay cất cánh",
+    "furigana": ""
+  },
+  {
+    "question": "飛行機が着陸する",
+    "meaning": "（ひこうきがちゃくりくする）máy bay hạ cánh",
+    "furigana": ""
+  },
+  {
+    "question": "金属を加工する",
+    "meaning": "（きんぞくがかこうする）gia công kim loại",
+    "furigana": ""
+  },
+  {
+    "question": "金属を塗装する",
+    "meaning": "（きんぞくをとそうする）sơn lăn kim loại",
+    "furigana": ""
+  },
+  {
+    "question": "鉄がさびる",
+    "meaning": "（てつがさびる）sắt , thép bị gỉ",
+    "furigana": ""
+  },
+  {
+    "question": "銅がさびる",
+    "meaning": "（どうがさびる）đồng bị gỉ",
+    "furigana": ""
+  },
+  {
+    "question": "人工衛星を打ち上げる",
+    "meaning": "（じんこうえいせいをうちあげる）phóng vệ tinh nhân tạo",
+    "furigana": ""
+  },
+  {
+    "question": "アナログ回路を設計する",
+    "meaning": "（アナログかいろをせっけいする）thiết kế mạch analog",
+    "furigana": ""
+  },
+  {
+    "question": "デジタル回路を設計する",
+    "meaning": "（デジタルかいろをせっけいする）thiết kế mạch điện tử",
+    "furigana": ""
+  },
+  {
+    "question": "開発に携わる",
+    "meaning": "（かいはつにたずさわる）tham gia phát triển",
+    "furigana": ""
+  },
+  {
+    "question": "製品の開発を手掛ける",
+    "meaning": "（せいひんのかいはつをてがける）trực tiếp phát triển",
+    "furigana": ""
+  },
+  {
+    "question": "特許を申請する",
+    "meaning": "（とっきょをしんせいする）yêu cầu bằng sáng chế",
+    "furigana": ""
+  },
+  {
+    "question": "特許を取得する",
+    "meaning": "（とっきょをしゅとくする）nhận được bằng sáng chế",
+    "furigana": ""
+  },
+  {
+    "question": "特許を登録する",
+    "meaning": "（とっきょをとうろくする）đăng ký bằng sáng chế",
+    "furigana": ""
+  }
+]

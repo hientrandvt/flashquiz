@@ -1,0 +1,212 @@
+[
+  {
+    "question": "病気に 立ち向かう",
+    "meaning": "たちむかう Chống lại bệnh tật",
+    "furigana": ""
+  },
+  {
+    "question": "病気の兆候に気づく",
+    "meaning": "ちょうこう Nhận ra triệu chứng bệnh",
+    "furigana": ""
+  },
+  {
+    "question": "病気の全快を祝う",
+    "meaning": "ぜんかい Chúc mừng phục hồi",
+    "furigana": ""
+  },
+  {
+    "question": "過労がもとで発病する",
+    "meaning": "はつびょう Phát bệnh do lao lực",
+    "furigana": ""
+  },
+  {
+    "question": "持病がある",
+    "meaning": "じびょう Có bệnh mãn tính",
+    "furigana": ""
+  },
+  {
+    "question": "体の不調を訴える",
+    "meaning": "うったえる Báo hiệu tình trạng sức khỏe xấu",
+    "furigana": ""
+  },
+  {
+    "question": "栄養失調になる",
+    "meaning": "えいようしっちょう Thiếu dinh dưỡng",
+    "furigana": ""
+  },
+  {
+    "question": "先天的な病気",
+    "meaning": "せんてんてき Bệnh bẩm sinh",
+    "furigana": ""
+  },
+  {
+    "question": "慢性",
+    "meaning": "まんせい mãn tính",
+    "furigana": ""
+  },
+  {
+    "question": "急性",
+    "meaning": "きゅうせい cấp tính",
+    "furigana": ""
+  },
+  {
+    "question": "肩が凝る",
+    "meaning": "かたがこる vai tê cứng",
+    "furigana": ""
+  },
+  {
+    "question": "関節が外れる",
+    "meaning": "かんせつがはずれるtrật khớp",
+    "furigana": ""
+  },
+  {
+    "question": "まぶたがはれる",
+    "meaning": "sưng mí mắt",
+    "furigana": ""
+  },
+  {
+    "question": "高熱・微熱が出る",
+    "meaning": "こうねつ・びねつ Sốt cao >< sốt nhẹ",
+    "furigana": ""
+  },
+  {
+    "question": "便秘気味になる",
+    "meaning": "べんぴぎみになるcó triệu chứng táo bón",
+    "furigana": ""
+  },
+  {
+    "question": "自覚症状がない",
+    "meaning": "じかくしょうじょうがない không tự phát hiện được bệnh",
+    "furigana": ""
+  },
+  {
+    "question": "腹痛",
+    "meaning": "ふくつう đau bụng",
+    "furigana": ""
+  },
+  {
+    "question": "けいれん",
+    "meaning": "chuột rút",
+    "furigana": ""
+  },
+  {
+    "question": "往診に来てもらう",
+    "meaning": "おうしんにきてもらうbác sĩ tới nhà khám bệnh cho mình",
+    "furigana": ""
+  },
+  {
+    "question": "聴診器",
+    "meaning": "ちょうしんき ống nghe",
+    "furigana": ""
+  },
+  {
+    "question": "点滴をする",
+    "meaning": "てんてき Tiêm, truyền",
+    "furigana": ""
+  },
+  {
+    "question": "応急処置をする",
+    "meaning": "おうきゅうしょち Sơ cứu",
+    "furigana": ""
+  },
+  {
+    "question": "病人を介抱 する",
+    "meaning": "びょうにんをかいほうする chăm sóc người bệnh",
+    "furigana": ""
+  },
+  {
+    "question": "さする",
+    "meaning": "xoa bóp",
+    "furigana": ""
+  },
+  {
+    "question": "面会謝絶",
+    "meaning": "めんかいしゃぜつ k được gặp người bệnh",
+    "furigana": ""
+  },
+  {
+    "question": "安静を保つ",
+    "meaning": "あんせいをたもつđảm bảo sự yên tĩnh, tĩnh dưỡng cho bệnh nhân",
+    "furigana": ""
+  },
+  {
+    "question": "胃腸薬を処方する",
+    "meaning": "いちょうやくをしょほうする kê đơn thuốc dạ dày",
+    "furigana": ""
+  },
+  {
+    "question": "患部に薬を塗る",
+    "meaning": "かんぶにくすりをぬるbôi thuốc vào chỗ đau",
+    "furigana": ""
+  },
+  {
+    "question": "効き目が切れる",
+    "meaning": "ききめがきれる hết tác dụng",
+    "furigana": ""
+  },
+  {
+    "question": "心がける",
+    "meaning": "こころがけるcố gắng",
+    "furigana": ""
+  },
+  {
+    "question": "早寝早起き",
+    "meaning": "はやねはやおき ngủ sớm dậy sớm",
+    "furigana": ""
+  },
+  {
+    "question": "水分を補給する",
+    "meaning": "すいぶんをほきゅうするbổ sung lượng nước",
+    "furigana": ""
+  },
+  {
+    "question": "健康を増進する",
+    "meaning": "けんこうをぞうしんするnâng cao sức khỏe",
+    "furigana": ""
+  },
+  {
+    "question": "不摂生な生活は禁物だ",
+    "meaning": "ふせっせいなせいかつはきんもつだ cấm kỵ nếp sống không lành mạnh",
+    "furigana": ""
+  },
+  {
+    "question": "体力が衰える",
+    "meaning": "たいりょくがおとろえるcơ thể suy nhược, sa sút thể lực",
+    "furigana": ""
+  },
+  {
+    "question": "細胞が老化する",
+    "meaning": "さいぼうがろうかするtế bào bị lão hóa",
+    "furigana": ""
+  },
+  {
+    "question": "切れ目",
+    "meaning": "きれめ mặt cắt, chỗ cắt",
+    "furigana": ""
+  },
+  {
+    "question": "傷がひりひり痛む",
+    "meaning": "vết thương đau tê tê rát tát",
+    "furigana": ""
+  },
+  {
+    "question": "頭がずきずき痛い",
+    "meaning": "đau nhức, nhức",
+    "furigana": ""
+  },
+  {
+    "question": "胃がきりきり痛む",
+    "meaning": "dạ dày đau nhói",
+    "furigana": ""
+  },
+  {
+    "question": "頭ががんがんする",
+    "meaning": "ong ong, buốt đầu",
+    "furigana": ""
+  },
+  {
+    "question": "胸がむかむかする",
+    "meaning": "bứt rứt, khó chịu, tức ngực",
+    "furigana": ""
+  }
+]

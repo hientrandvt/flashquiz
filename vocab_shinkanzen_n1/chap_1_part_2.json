@@ -1,0 +1,207 @@
+[
+  {
+    "question": "親族",
+    "meaning": "（しんぞく）họ hàng ( THÂN TỘC )",
+    "furigana": ""
+  },
+  {
+    "question": "肉親",
+    "meaning": "（にくしん）quan hệ máu mủ ( NHỤC THÂN )",
+    "furigana": ""
+  },
+  {
+    "question": "おやじ",
+    "meaning": "cha",
+    "furigana": ""
+  },
+  {
+    "question": "お袋",
+    "meaning": "（おふくろ）mẹ ( ĐẠI )",
+    "furigana": ""
+  },
+  {
+    "question": "義理の父母",
+    "meaning": "（ぎりのふぼ）bố mẹ nuôi ( vợ , chồng ) ( NGHĨA LÝ PHU MẪU )",
+    "furigana": ""
+  },
+  {
+    "question": "義父",
+    "meaning": "（ぎぼ）bố nuôi , bố vợ , bố chồng( NGHĨA PHỤ )",
+    "furigana": ""
+  },
+  {
+    "question": "義母",
+    "meaning": "（ぎぼ）mẹ nuôi , mẹ vợ , mẹ chồng ( NGHĨA MẪU )",
+    "furigana": ""
+  },
+  {
+    "question": "配偶者",
+    "meaning": "（はいぐうしゃ）người phụ thuộc ( phải nuôi dưỡng ) ( PHỐI NGẪU GIẢ )",
+    "furigana": ""
+  },
+  {
+    "question": "婿（さん）",
+    "meaning": "（むこさん）con rể ( TẾ )",
+    "furigana": ""
+  },
+  {
+    "question": "嫁（さん）",
+    "meaning": "（よめさん）con dâu ( GIÁ )",
+    "furigana": ""
+  },
+  {
+    "question": "妻子",
+    "meaning": "（さいし）vợ con ( THÊ TỬ )",
+    "furigana": ""
+  },
+  {
+    "question": "円満な",
+    "meaning": "（えんまんな）viên mãn ( VIÊN MÃN )",
+    "furigana": ""
+  },
+  {
+    "question": "和やかな",
+    "meaning": "（なごやかな）êm ấm ( HÒA )",
+    "furigana": ""
+  },
+  {
+    "question": "先代",
+    "meaning": "（せんだい）người già ( TIÊN ĐẠI )",
+    "furigana": ""
+  },
+  {
+    "question": "旧知の仲",
+    "meaning": "（きゅうちのなか）bạn cũ ( CỰU TRI TRỌNG )",
+    "furigana": ""
+  },
+  {
+    "question": "旧友",
+    "meaning": "（きゅうゆう）bạn cũ ( CỰU HỮU )",
+    "furigana": ""
+  },
+  {
+    "question": "幼なじみ",
+    "meaning": "(おさななじみ）bạn thuở nhỏ ( ẤU )",
+    "furigana": ""
+  },
+  {
+    "question": "ライバル同士",
+    "meaning": "（ライバルどうし）đối thủ ( ĐỒNG SĨ )",
+    "furigana": ""
+  },
+  {
+    "question": "同志",
+    "meaning": "（どうし）đồng chí ( ĐỒNG CHÍ )",
+    "furigana": ""
+  },
+  {
+    "question": "師弟",
+    "meaning": "（してい）thầy trò ( SƯ ĐỆ )",
+    "furigana": ""
+  },
+  {
+    "question": "師匠",
+    "meaning": "（ししょう）sư phụ ( SƯ TƯỢNG )",
+    "furigana": ""
+  },
+  {
+    "question": "弟子",
+    "meaning": "（でし）đệ tử ( ĐỆ TỬ )",
+    "furigana": ""
+  },
+  {
+    "question": "恩師",
+    "meaning": "（おんし）người thầy ( ÂN SƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "教え子",
+    "meaning": "（おしえこ）học trò",
+    "furigana": ""
+  },
+  {
+    "question": "側近",
+    "meaning": "（そっきん）người thân cận ( TRẮC CẬN )",
+    "furigana": ""
+  },
+  {
+    "question": "家族ぐるみ",
+    "meaning": "（かぞくぐるみ）cả gia đình",
+    "furigana": ""
+  },
+  {
+    "question": "十年来",
+    "meaning": "（じゅうねんらい）đã 10 năm",
+    "furigana": ""
+  },
+  {
+    "question": "来賓",
+    "meaning": "（らいひん）khách ( LAI TÂN )",
+    "furigana": ""
+  },
+  {
+    "question": "接待する",
+    "meaning": "（せったいする）tiếp đãi ( TIẾP ĐÃI )",
+    "furigana": ""
+  },
+  {
+    "question": "もてなす",
+    "meaning": "tiếp đãi",
+    "furigana": ""
+  },
+  {
+    "question": "しきたり",
+    "meaning": "tập quán , phong tục",
+    "furigana": ""
+  },
+  {
+    "question": "片思いする",
+    "meaning": "（かたおもいする）yêu đơn phương ( PHIẾN TƯ )",
+    "furigana": ""
+  },
+  {
+    "question": "告白する",
+    "meaning": "（こくはくする）tỏ tình ( CÁO BẠCH )",
+    "furigana": ""
+  },
+  {
+    "question": "打ち明ける",
+    "meaning": "（うちあける）mở lòng ( nói thẳng thắn ) ( ĐẢ MINH )",
+    "furigana": ""
+  },
+  {
+    "question": "未練がある",
+    "meaning": "（みれんがある）quyến luyến ( VỊ LUYỆN )",
+    "furigana": ""
+  },
+  {
+    "question": "執着する",
+    "meaning": "（しゅうちゃくする）lưu luyến ( CHẤP TRỨ )",
+    "furigana": ""
+  },
+  {
+    "question": "異性にもてる",
+    "meaning": "（いせいにもてる）tình yêu đồng tính ( DỊ TÍNH )",
+    "furigana": ""
+  },
+  {
+    "question": "浮気する",
+    "meaning": "（うわきする）ngoại tình ( PHÙ KHÍ )",
+    "furigana": ""
+  },
+  {
+    "question": "心が弾む",
+    "meaning": "（こころがはずむ）vui ( tim đập loạn nhịp )",
+    "furigana": ""
+  },
+  {
+    "question": "（過去を引きずる）",
+    "meaning": "（かこをひきずる）lưu luyến quá khứ",
+    "furigana": ""
+  },
+  {
+    "question": "気持ちを切り替える",
+    "meaning": "（きもちをきりかえる）thay đổi cảm xúc",
+    "furigana": ""
+  }
+]
