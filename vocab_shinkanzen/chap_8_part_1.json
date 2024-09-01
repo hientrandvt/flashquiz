@@ -1,182 +1,232 @@
 [
   {
-    "気象": "気候",
-    "（きしょう）khí tượng": "（きこう）thời tiết"
+    "question": "気象",
+    "meaning": "（きしょう）khí tượng",
+    "furigana": ""
   },
   {
-    "気象": "集中豪雨が降る",
-    "（きしょう）khí tượng": "（しゅうちゅうごううがふる）mưa lớn cục bộ"
+    "question": "気候",
+    "meaning": "（きこう）thời tiết",
+    "furigana": ""
   },
   {
-    "気象": "土砂降りの雨が降る",
-    "（きしょう）khí tượng": "（どしゃぶりのあめがふる）mưa xối xả ( như trút )"
+    "question": "集中豪雨が降る",
+    "meaning": "（しゅうちゅうごううがふる）mưa lớn cục bộ",
+    "furigana": ""
   },
   {
-    "気象": "強風が吹き荒れる",
-    "（きしょう）khí tượng": "（きょうふうがふきあれる）gió mạnh"
+    "question": "土砂降りの雨が降る",
+    "meaning": "（どしゃぶりのあめがふる）mưa xối xả ( như trút )",
+    "furigana": ""
   },
   {
-    "気象": "突風が吹き荒れる",
-    "（きしょう）khí tượng": "（とっぷうがふきあれる）gió giật"
+    "question": "強風が吹き荒れる",
+    "meaning": "（きょうふうがふきあれる）gió mạnh",
+    "furigana": ""
   },
   {
-    "気象": "暴風雨になる",
-    "（きしょう）khí tượng": "（ぼうふううになる）gió bão ( giông tố )"
+    "question": "突風が吹き荒れる",
+    "meaning": "（とっぷうがふきあれる）gió giật",
+    "furigana": ""
   },
   {
-    "気象": "霧が立ち込める",
-    "（きしょう）khí tượng": "（きりがたちこめる）sương mù bao phủ"
+    "question": "暴風雨になる",
+    "meaning": "（ぼうふううになる）gió bão ( giông tố )",
+    "furigana": ""
   },
   {
-    "気象": "雪が降り積もる",
-    "（きしょう）khí tượng": "（ゆきがふりつもる）tuyết rơi dày"
+    "question": "霧が立ち込める",
+    "meaning": "（きりがたちこめる）sương mù bao phủ",
+    "furigana": ""
   },
   {
-    "気象": "大雨洪水注意報",
-    "（きしょう）khí tượng": "（おおあめこうずいちゅういほう）cảnh báo mưa lũ"
+    "question": "雪が降り積もる",
+    "meaning": "（ゆきがふりつもる）tuyết rơi dày",
+    "furigana": ""
   },
   {
-    "気象": "大雨洪水警報が出る",
-    "（きしょう）khí tượng": "（おおあめこうずいけいほうがでる）cảnh báo mưa lũ"
+    "question": "大雨洪水注意報",
+    "meaning": "（おおあめこうずいちゅういほう）cảnh báo mưa lũ",
+    "furigana": ""
   },
   {
-    "気象": "洪水注意報",
-    "（きしょう）khí tượng": "（こうずいちゅういほう）cảnh bảo lũ lụt"
+    "question": "大雨洪水警報が出る",
+    "meaning": "（おおあめこうずいけいほうがでる）cảnh báo mưa lũ",
+    "furigana": ""
   },
   {
-    "気象": "洪水警報が出る",
-    "（きしょう）khí tượng": "（こうずいけいほうがでる）cảnh báo lũ lụt"
+    "question": "洪水注意報",
+    "meaning": "（こうずいちゅういほう）cảnh bảo lũ lụt",
+    "furigana": ""
   },
   {
-    "気象": "津波注意報",
-    "（きしょう）khí tượng": "（つなみちゅういほう）cảnh báo sóng thần"
+    "question": "洪水警報が出る",
+    "meaning": "（こうずいけいほうがでる）cảnh báo lũ lụt",
+    "furigana": ""
   },
   {
-    "気象": "津波警報が出る",
-    "（きしょう）khí tượng": "（つなみけいほうがでる）cảnh báo sóng thần"
+    "question": "津波注意報",
+    "meaning": "（つなみちゅういほう）cảnh báo sóng thần",
+    "furigana": ""
   },
   {
-    "気象": "高温多湿な気候",
-    "（きしょう）khí tượng": "（こうおんたしつなきこう）khí hậu nóng ẩm"
+    "question": "津波警報が出る",
+    "meaning": "（つなみけいほうがでる）cảnh báo sóng thần",
+    "furigana": ""
   },
   {
-    "気象": "温暖な気候",
-    "（きしょう）khí tượng": "（おんだんなきこう）khí hậu ấm áp"
+    "question": "高温多湿な気候",
+    "meaning": "（こうおんたしつなきこう）khí hậu nóng ẩm",
+    "furigana": ""
   },
   {
-    "気象": "船が海峡を渡る",
-    "（きしょう）khí tượng": "（ふねがかいきょうをわたる）tàu vượt qua eo biển"
+    "question": "温暖な気候",
+    "meaning": "（おんだんなきこう）khí hậu ấm áp",
+    "furigana": ""
   },
   {
-    "気象": "船が海底に沈む",
-    "（きしょう）khí tượng": "（ふねがかいていにしずむ）tàu chìm xuống đáy biển"
+    "question": "船が海峡を渡る",
+    "meaning": "（ふねがかいきょうをわたる）tàu vượt qua eo biển",
+    "furigana": ""
   },
   {
-    "気象": "砂浜に波が打ち寄せる",
-    "（きしょう）khí tượng": "（すなはまになみがうちよせる）sóng đánh vào bãi cát ( bờ )"
+    "question": "船が海底に沈む",
+    "meaning": "（ふねがかいていにしずむ）tàu chìm xuống đáy biển",
+    "furigana": ""
   },
   {
-    "気象": "海岸沿いのホテルに泊まる",
-    "（きしょう）khí tượng": "（かいがんぞいのホテルにとまる）trọ ở khách sạn ven biển"
+    "question": "砂浜に波が打ち寄せる",
+    "meaning": "（すなはまになみがうちよせる）sóng đánh vào bãi cát ( bờ )",
+    "furigana": ""
   },
   {
-    "気象": "広大な平野が広がる",
-    "（きしょう）khí tượng": "（こうだいなへいやがひろがる）đồng bằng rộng lớn"
+    "question": "海岸沿いのホテルに泊まる",
+    "meaning": "（かいがんぞいのホテルにとまる）trọ ở khách sạn ven biển",
+    "furigana": ""
   },
   {
-    "気象": "起伏が激しい山を登る",
-    "（きしょう）khí tượng": "（きふくがはげしいやまのぼる）leo ngọn núi trập trùng"
+    "question": "広大な平野が広がる",
+    "meaning": "（こうだいなへいやがひろがる）đồng bằng rộng lớn",
+    "furigana": ""
   },
   {
-    "気象": "日本は山地が多い",
-    "（きしょう）khí tượng": "（にほんはさんちがおおい）Nhật là nước nhiều núi"
+    "question": "起伏が激しい山を登る",
+    "meaning": "（きふくがはげしいやまのぼる）leo ngọn núi trập trùng",
+    "furigana": ""
   },
   {
-    "気象": "緩やかな傾斜",
-    "（きしょう）khí tượng": "（ゆるやかなけいしゃ）hơi nghiêng"
+    "question": "日本は山地が多い",
+    "meaning": "（にほんはさんちがおおい）Nhật là nước nhiều núi",
+    "furigana": ""
   },
   {
-    "気象": "緩やかな斜面",
-    "（きしょう）khí tượng": "（ゆるやかなしゃめん）hơi nghiêng"
+    "question": "緩やかな傾斜",
+    "meaning": "（ゆるやかなけいしゃ）hơi nghiêng",
+    "furigana": ""
   },
   {
-    "気象": "緩やかな丘",
-    "（きしょう）khí tượng": "（ゆるやかなおか）"
+    "question": "緩やかな斜面",
+    "meaning": "（ゆるやかなしゃめん）hơi nghiêng",
+    "furigana": ""
   },
   {
-    "気象": "山の中腹まで登る",
-    "（きしょう）khí tượng": "（やまのちゅうふくまでのぼる）leo đến lưng chừng núi"
+    "question": "緩やかな丘",
+    "meaning": "（ゆるやかなおか）",
+    "furigana": ""
   },
   {
-    "気象": "山の山頂まで登る",
-    "（きしょう）khí tượng": "（やまのさんちょうまでのぼる）leo đến đỉnh núi"
+    "question": "山の中腹まで登る",
+    "meaning": "（やまのちゅうふくまでのぼる）leo đến lưng chừng núi",
+    "furigana": ""
   },
   {
-    "気象": "南半球に位置する",
-    "（きしょう）khí tượng": "（みなみはんきゅうにいちする）nam bán cầu"
+    "question": "山の山頂まで登る",
+    "meaning": "（やまのさんちょうまでのぼる）leo đến đỉnh núi",
+    "furigana": ""
   },
   {
-    "気象": "北半球に位置する",
-    "（きしょう）khí tượng": "（きたはんきゅうにいちする）bắc bán cầu"
+    "question": "南半球に位置する",
+    "meaning": "（みなみはんきゅうにいちする）nam bán cầu",
+    "furigana": ""
   },
   {
-    "気象": "天体",
-    "（きしょう）khí tượng": "（てんたい）thiên thể"
+    "question": "北半球に位置する",
+    "meaning": "（きたはんきゅうにいちする）bắc bán cầu",
+    "furigana": ""
   },
   {
-    "気象": "日の出",
-    "（きしょう）khí tượng": "（ひので）bình minh"
+    "question": "天体",
+    "meaning": "（てんたい）thiên thể",
+    "furigana": ""
   },
   {
-    "気象": "日の入り",
-    "（きしょう）khí tượng": "（ひのいり）hoàng hôn"
+    "question": "日の出",
+    "meaning": "（ひので）bình minh",
+    "furigana": ""
   },
   {
-    "気象": "日没",
-    "（きしょう）khí tượng": "（にちぼつ）hoàng hôn"
+    "question": "日の入り",
+    "meaning": "（ひのいり）hoàng hôn",
+    "furigana": ""
   },
   {
-    "気象": "金星",
-    "（きしょう）khí tượng": "（きんせい）kim tinh"
+    "question": "日没",
+    "meaning": "（にちぼつ）hoàng hôn",
+    "furigana": ""
   },
   {
-    "気象": "火星",
-    "（きしょう）khí tượng": "（かせい）thủy tinh"
+    "question": "金星",
+    "meaning": "（きんせい）kim tinh",
+    "furigana": ""
   },
   {
-    "気象": "木星",
-    "（きしょう）khí tượng": "（もくせい）mộc tinh"
+    "question": "火星",
+    "meaning": "（かせい）thủy tinh",
+    "furigana": ""
   },
   {
-    "気象": "水星",
-    "（きしょう）khí tượng": "（すいせい）thủy tinh"
+    "question": "木星",
+    "meaning": "（もくせい）mộc tinh",
+    "furigana": ""
   },
   {
-    "気象": "土星",
-    "（きしょう）khí tượng": "（どせい）thổ tinh"
+    "question": "水星",
+    "meaning": "（すいせい）thủy tinh",
+    "furigana": ""
   },
   {
-    "気象": "惑星",
-    "（きしょう）khí tượng": "（わくせい）hành tinh"
+    "question": "土星",
+    "meaning": "（どせい）thổ tinh",
+    "furigana": ""
   },
   {
-    "気象": "衛星",
-    "（きしょう）khí tượng": "（えいせい）vệ tinh"
+    "question": "惑星",
+    "meaning": "（わくせい）hành tinh",
+    "furigana": ""
   },
   {
-    "気象": "星座を見る",
-    "（きしょう）khí tượng": "（せいざをみる）ngắm chòm sao"
+    "question": "衛星",
+    "meaning": "（えいせい）vệ tinh",
+    "furigana": ""
   },
   {
-    "気象": "天体観測する",
-    "（きしょう）khí tượng": "（てんたいかんそくする）quan sát thiên thể"
+    "question": "星座を見る",
+    "meaning": "（せいざをみる）ngắm chòm sao",
+    "furigana": ""
   },
   {
-    "気象": "満月が出る",
-    "（きしょう）khí tượng": "（まんげつがでる）trăng rằm"
+    "question": "天体観測する",
+    "meaning": "（てんたいかんそくする）quan sát thiên thể",
+    "furigana": ""
   },
   {
-    "気象": "三日月が出る",
-    "（きしょう）khí tượng": "（みかづきがでる）trăng khuyết ( lưỡi liềm )"
+    "question": "満月が出る",
+    "meaning": "（まんげつがでる）trăng rằm",
+    "furigana": ""
+  },
+  {
+    "question": "三日月が出る",
+    "meaning": "（みかづきがでる）trăng khuyết ( lưỡi liềm )",
+    "furigana": ""
   }
 ]
