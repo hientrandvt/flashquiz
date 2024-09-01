@@ -1,178 +1,227 @@
 [
   {
-    "頑丈な": "柔軟な",
-    "がんじょう bền vững, chắc chắn": "じゅうなん ① mềm dẻo② linh hoạt"
+    "question": "頑丈な",
+    "meaning": "がんじょう bền vững, chắc chắn",
+    "furigana": ""
   },
   {
-    "頑丈な": "平らな",
-    "がんじょう bền vững, chắc chắn": "たいら bằng phẳng、không lồi lõm"
+    "question": "柔軟な",
+    "meaning": "じゅうなん ① mềm dẻo② linh hoạt",
+    "furigana": ""
   },
   {
-    "頑丈な": "平行な",
-    "がんじょう bền vững, chắc chắn": "へいこう song hành, song song"
+    "question": "平らな",
+    "meaning": "たいら bằng phẳng、không lồi lõm",
+    "furigana": ""
   },
   {
-    "頑丈な": "手近な",
-    "がんじょう bền vững, chắc chắn": "てぢか quen thuộc, gần tầm tay"
+    "question": "平行な",
+    "meaning": "へいこう song hành, song song",
+    "furigana": ""
   },
   {
-    "頑丈な": "渋い",
-    "がんじょう bền vững, chắc chắn": "しぶい ① chát (柿、お茶、）② nhã nhặn, tinh tế (渋い色)＝落ち着いた ③ khuôn mặt cau có(渋い顔) ④ không trôi chảy, không thuận lợi (支払いが渋い)"
+    "question": "手近な",
+    "meaning": "てぢか quen thuộc, gần tầm tay",
+    "furigana": ""
   },
   {
-    "頑丈な": "香ばしい",
-    "がんじょう bền vững, chắc chắn": "こうばしい thơm ngát"
+    "question": "渋い",
+    "meaning": "しぶい ① chát (柿、お茶、）② nhã nhặn, tinh tế (渋い色)＝落ち着いた ③ khuôn mặt cau có(渋い顔) ④ không trôi chảy, không thuận lợi (支払いが渋い)",
+    "furigana": ""
   },
   {
-    "頑丈な": "華やかな",
-    "がんじょう bền vững, chắc chắn": "はなやか rực rỡ, hào hoa"
+    "question": "香ばしい",
+    "meaning": "こうばしい thơm ngát",
+    "furigana": ""
   },
   {
-    "頑丈な": "盛大な",
-    "がんじょう bền vững, chắc chắn": "せいだい hoành tráng , quy mô lớn"
+    "question": "華やかな",
+    "meaning": "はなやか rực rỡ, hào hoa",
+    "furigana": ""
   },
   {
-    "頑丈な": "鮮やかな",
-    "がんじょう bền vững, chắc chắn": "あざやか ① đẹp rực rỡ, rõ ràng (色、画像,記憶,) ② tuyệt vời (手品 てじな ảo thuật, 手並み てなみ kĩ năng)"
+    "question": "盛大な",
+    "meaning": "せいだい hoành tráng , quy mô lớn",
+    "furigana": ""
   },
   {
-    "頑丈な": "滑らか",
-    "がんじょう bền vững, chắc chắn": "なめらか ① mềm mại, mịn màng(肌, 布)＝すべすべ ② trôi chảy(英語が滑らかだ)＝ぺらぺら"
+    "question": "鮮やかな",
+    "meaning": "あざやか ① đẹp rực rỡ, rõ ràng (色、画像,記憶,) ② tuyệt vời (手品 てじな ảo thuật, 手並み てなみ kĩ năng)",
+    "furigana": ""
   },
   {
-    "頑丈な": "平凡な",
-    "がんじょう bền vững, chắc chắn": "へいぼん bình thường, không khác biệt, không nổi bật"
+    "question": "滑らか",
+    "meaning": "なめらか ① mềm mại, mịn màng(肌, 布)＝すべすべ ② trôi chảy(英語が滑らかだ)＝ぺらぺら",
+    "furigana": ""
   },
   {
-    "頑丈な": "素朴な",
-    "がんじょう bền vững, chắc chắn": "そぼく① giữ nguyên bản sắc ban đầu (人柄,青年 tuổi thanh niên,気風 phong cách, 料理、)② đơn giản, cơ bản （素朴な質問）"
+    "question": "平凡な",
+    "meaning": "へいぼん bình thường, không khác biệt, không nổi bật",
+    "furigana": ""
   },
   {
-    "頑丈な": "精密な",
-    "がんじょう bền vững, chắc chắn": "せいみつ chính xác, tỉ mỉ"
+    "question": "素朴な",
+    "meaning": "そぼく① giữ nguyên bản sắc ban đầu (人柄,青年 tuổi thanh niên,気風 phong cách, 料理、)② đơn giản, cơ bản （素朴な質問）",
+    "furigana": ""
   },
   {
-    "頑丈な": "極端な",
-    "がんじょう bền vững, chắc chắn": "きょくたん cực đoan、nhất quyết cho là như thế"
+    "question": "精密な",
+    "meaning": "せいみつ chính xác, tỉ mỉ",
+    "furigana": ""
   },
   {
-    "頑丈な": "猛烈な",
-    "がんじょう bền vững, chắc chắn": "もうれつ mãnh liệt, hung tợn"
+    "question": "極端な",
+    "meaning": "きょくたん cực đoan、nhất quyết cho là như thế",
+    "furigana": ""
   },
   {
-    "頑丈な": "厳重な",
-    "がんじょう bền vững, chắc chắn": "げんじゅう nghiêm trọng, nghiêm ngặt"
+    "question": "猛烈な",
+    "meaning": "もうれつ mãnh liệt, hung tợn",
+    "furigana": ""
   },
   {
-    "頑丈な": "十分な",
-    "がんじょう bền vững, chắc chắn": "じゅうぶん đầy đủ, toàn vẹn"
+    "question": "厳重な",
+    "meaning": "げんじゅう nghiêm trọng, nghiêm ngặt",
+    "furigana": ""
   },
   {
-    "頑丈な": "大幅な",
-    "がんじょう bền vững, chắc chắn": "おおはば khá nhiều, khá lớn (phạm vi rộng, nhiều, mạnh)"
+    "question": "十分な",
+    "meaning": "じゅうぶん đầy đủ, toàn vẹn",
+    "furigana": ""
   },
   {
-    "頑丈な": "膨大な",
-    "がんじょう bền vững, chắc chắn": "ぼうだい lớn lên, nhiều lên (về mặt số lượng)"
+    "question": "大幅な",
+    "meaning": "おおはば khá nhiều, khá lớn (phạm vi rộng, nhiều, mạnh)",
+    "furigana": ""
   },
   {
-    "頑丈な": "乏しい",
-    "がんじょう bền vững, chắc chắn": "とぼしい ít ỏi, thiếu thốn"
+    "question": "膨大な",
+    "meaning": "ぼうだい lớn lên, nhiều lên (về mặt số lượng)",
+    "furigana": ""
   },
   {
-    "頑丈な": "僅かな",
-    "がんじょう bền vững, chắc chắn": "わずか  nhỏ, ít(dùng trong những thứ thiên về cân, đo, đong, đếm, có thể đứng một mình không cần số từ）"
+    "question": "乏しい",
+    "meaning": "とぼしい ít ỏi, thiếu thốn",
+    "furigana": ""
   },
   {
-    "頑丈な": "微かな",
-    "がんじょう bền vững, chắc chắn": "かすか mờ nhạt, không rõ ràng、không đếm được,thuộc về cảm nhận (音、匂い、光、記憶、息) dùng trong những thứ thiên về cảm giác, cảm nhận của các giác quan như mắt, mũi, miệng, tai, tay"
+    "question": "僅かな",
+    "meaning": "わずか  nhỏ, ít(dùng trong những thứ thiên về cân, đo, đong, đếm, có thể đứng một mình không cần số từ）",
+    "furigana": ""
   },
   {
-    "頑丈な": "微妙な",
-    "がんじょう bền vững, chắc chắn": "びみょう không rõ ràng, khó diễn đạt về cảm giác, cảm nhận"
+    "question": "微かな",
+    "meaning": "かすか mờ nhạt, không rõ ràng、không đếm được,thuộc về cảm nhận (音、匂い、光、記憶、息) dùng trong những thứ thiên về cảm giác, cảm nhận của các giác quan như mắt, mũi, miệng, tai, tay",
+    "furigana": ""
   },
   {
-    "頑丈な": "急激な",
-    "がんじょう bền vững, chắc chắn": "きゅうげき đột ngột, nhanh chóng, nói về mức độ thay đổi LỚN"
+    "question": "微妙な",
+    "meaning": "びみょう không rõ ràng, khó diễn đạt về cảm giác, cảm nhận",
+    "furigana": ""
   },
   {
-    "頑丈な": "急速な",
-    "がんじょう bền vững, chắc chắn": "きゅうそくđột ngột, nhanh chóng, nói về thời gian thay đổi NHANH"
+    "question": "急激な",
+    "meaning": "きゅうげき đột ngột, nhanh chóng, nói về mức độ thay đổi LỚN",
+    "furigana": ""
   },
   {
-    "頑丈な": "強硬な",
-    "がんじょう bền vững, chắc chắn": "きょうこう mạnh mẽ, quyết liệt"
+    "question": "急速な",
+    "meaning": "きゅうそくđột ngột, nhanh chóng, nói về thời gian thay đổi NHANH",
+    "furigana": ""
   },
   {
-    "頑丈な": "余計な",
-    "がんじょう bền vững, chắc chắn": "よけい ① dư thừa, hầu như không có giá trị sử dụng, quá mức cần thiết ② phần thừa ra, phần dư ra ③よけい見たくなる(bị cấm nhìn nhưng lại càng muốn nhìn)"
+    "question": "強硬な",
+    "meaning": "きょうこう mạnh mẽ, quyết liệt",
+    "furigana": ""
   },
   {
-    "頑丈な": "不審な",
-    "がんじょう bền vững, chắc chắn": "ふしん đáng ngờ, đáng nghi"
+    "question": "余計な",
+    "meaning": "よけい ① dư thừa, hầu như không có giá trị sử dụng, quá mức cần thiết ② phần thừa ra, phần dư ra ③よけい見たくなる(bị cấm nhìn nhưng lại càng muốn nhìn)",
+    "furigana": ""
   },
   {
-    "頑丈な": "公式な",
-    "がんじょう bền vững, chắc chắn": "こうしき ① chính thức② công thức (toán học)"
+    "question": "不審な",
+    "meaning": "ふしん đáng ngờ, đáng nghi",
+    "furigana": ""
   },
   {
-    "頑丈な": "正当な",
-    "がんじょう bền vững, chắc chắn": "せいとう chính đáng, đúng đắn"
+    "question": "公式な",
+    "meaning": "こうしき ① chính thức② công thức (toán học)",
+    "furigana": ""
   },
   {
-    "頑丈な": "正常な",
-    "がんじょう bền vững, chắc chắn": "せいじょう bình thường (hành động, phát triển, tình trạng)"
+    "question": "正当な",
+    "meaning": "せいとう chính đáng, đúng đắn",
+    "furigana": ""
   },
   {
-    "頑丈な": "完璧な",
-    "がんじょう bền vững, chắc chắn": "かんぺき hoàn hảo"
+    "question": "正常な",
+    "meaning": "せいじょう bình thường (hành động, phát triển, tình trạng)",
+    "furigana": ""
   },
   {
-    "頑丈な": "簡潔な",
-    "がんじょう bền vững, chắc chắn": "かんけつngắn gọn, súc tích"
+    "question": "完璧な",
+    "meaning": "かんぺき hoàn hảo",
+    "furigana": ""
   },
   {
-    "頑丈な": "明白な",
-    "がんじょう bền vững, chắc chắn": "めいはく minh bạch, trắng đen, đúng sai rõ ràng"
+    "question": "簡潔な",
+    "meaning": "かんけつngắn gọn, súc tích",
+    "furigana": ""
   },
   {
-    "頑丈な": "客観的な",
-    "がんじょう bền vững, chắc chắn": "きゃっかんてき một cách khách quan"
+    "question": "明白な",
+    "meaning": "めいはく minh bạch, trắng đen, đúng sai rõ ràng",
+    "furigana": ""
   },
   {
-    "頑丈な": "えん曲な",
-    "がんじょう bền vững, chắc chắn": "えんきょく quanh co, vòng vo"
+    "question": "客観的な",
+    "meaning": "きゃっかんてき một cách khách quan",
+    "furigana": ""
   },
   {
-    "頑丈な": "不可欠な",
-    "がんじょう bền vững, chắc chắn": "ふかけつ không thể thiếu"
+    "question": "えん曲な",
+    "meaning": "えんきょく quanh co, vòng vo",
+    "furigana": ""
   },
   {
-    "頑丈な": "有利な",
-    "がんじょう bền vững, chắc chắn": "ゆうり có lợi, thuận lợi"
+    "question": "不可欠な",
+    "meaning": "ふかけつ không thể thiếu",
+    "furigana": ""
   },
   {
-    "頑丈な": "有望な",
-    "がんじょう bền vững, chắc chắn": "ゆうぼう có triển vọng"
+    "question": "有利な",
+    "meaning": "ゆうり có lợi, thuận lợi",
+    "furigana": ""
   },
   {
-    "頑丈な": "待ち遠しい",
-    "がんじょう bền vững, chắc chắn": "まちどおしい mong ngóng, trông chờ"
+    "question": "有望な",
+    "meaning": "ゆうぼう có triển vọng",
+    "furigana": ""
   },
   {
-    "頑丈な": "喜ばしい",
-    "がんじょう bền vững, chắc chắn": "よろこばしい hạnh phúc"
+    "question": "待ち遠しい",
+    "meaning": "まちどおしい mong ngóng, trông chờ",
+    "furigana": ""
   },
   {
-    "頑丈な": "望ましい",
-    "がんじょう bền vững, chắc chắn": "のぞましい hy vọng、mong muốn đối phương làm theo"
+    "question": "喜ばしい",
+    "meaning": "よろこばしい hạnh phúc",
+    "furigana": ""
   },
   {
-    "頑丈な": "疑わしい",
-    "がんじょう bền vững, chắc chắn": "うたがわしい nghi ngờ, kì lạ、luôn nghĩ là không phải như thế"
+    "question": "望ましい",
+    "meaning": "のぞましい hy vọng、mong muốn đối phương làm theo",
+    "furigana": ""
   },
   {
-    "頑丈な": "楽観的な",
-    "がんじょう bền vững, chắc chắn": "らっかんてき một cách lạc quan"
+    "question": "疑わしい",
+    "meaning": "うたがわしい nghi ngờ, kì lạ、luôn nghĩ là không phải như thế",
+    "furigana": ""
+  },
+  {
+    "question": "楽観的な",
+    "meaning": "らっかんてき một cách lạc quan",
+    "furigana": ""
   }
 ]
