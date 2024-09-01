@@ -1,230 +1,292 @@
 [
   {
-    "几帳面な": "大ざっぱな",
-    "（きちょうめんな）cẩn thận": "（おおざっぱな）cẩu thả"
+    "question": "几帳面な",
+    "meaning": "（きちょうめんな）cẩn thận",
+    "furigana": ""
   },
   {
-    "几帳面な": "きちっとした",
-    "（きちょうめんな）cẩn thận": "nghiêm chỉnh , chính xác"
+    "question": "大ざっぱな",
+    "meaning": "（おおざっぱな）cẩu thả",
+    "furigana": ""
   },
   {
-    "几帳面な": "雑な",
-    "（きちょうめんな）cẩn thận": "（ざつな）luộm thuộm"
+    "question": "きちっとした",
+    "meaning": "nghiêm chỉnh , chính xác",
+    "furigana": ""
   },
   {
-    "几帳面な": "いい加減な",
-    "（きちょうめんな）cẩn thận": "（いいかげんな）bông đùa , dối trá"
+    "question": "雑な",
+    "meaning": "（ざつな）luộm thuộm",
+    "furigana": ""
   },
   {
-    "几帳面な": "ルーズな",
-    "（きちょうめんな）cẩn thận": "dễ dãi"
+    "question": "いい加減な",
+    "meaning": "（いいかげんな）bông đùa , dối trá",
+    "furigana": ""
   },
   {
-    "几帳面な": "勤勉な",
-    "（きちょうめんな）cẩn thận": "（きんべんな）cần cù , chăm chỉ"
+    "question": "ルーズな",
+    "meaning": "dễ dãi",
+    "furigana": ""
   },
   {
-    "几帳面な": "生真面目な",
-    "（きちょうめんな）cẩn thận": "（きまじめな）thật thà"
+    "question": "勤勉な",
+    "meaning": "（きんべんな）cần cù , chăm chỉ",
+    "furigana": ""
   },
   {
-    "几帳面な": "不真面目な",
-    "（きちょうめんな）cẩn thận": "（ふまじめな）không đứng đắn"
+    "question": "生真面目な",
+    "meaning": "（きまじめな）thật thà",
+    "furigana": ""
   },
   {
-    "几帳面な": "品がいい",
-    "（きちょうめんな）cẩn thận": "（ひんがいい）tốt bụng"
+    "question": "不真面目な",
+    "meaning": "（ふまじめな）không đứng đắn",
+    "furigana": ""
   },
   {
-    "几帳面な": "上品な",
-    "（きちょうめんな）cẩn thận": "（じょうひんな）tao nhã , lịch thiệp"
+    "question": "品がいい",
+    "meaning": "（ひんがいい）tốt bụng",
+    "furigana": ""
   },
   {
-    "几帳面な": "気品がある",
-    "（きちょうめんな）cẩn thận": "（きひんがある）thanh lịch"
+    "question": "上品な",
+    "meaning": "（じょうひんな）tao nhã , lịch thiệp",
+    "furigana": ""
   },
   {
-    "几帳面な": "品が悪い",
-    "（きちょうめんな）cẩn thận": "（ひんがわるい）xấu tính"
+    "question": "気品がある",
+    "meaning": "（きひんがある）thanh lịch",
+    "furigana": ""
   },
   {
-    "几帳面な": "下品な",
-    "（きちょうめんな）cẩn thận": "（げひんな）khiếm nhã"
+    "question": "品が悪い",
+    "meaning": "（ひんがわるい）xấu tính",
+    "furigana": ""
   },
   {
-    "几帳面な": "融通が利く",
-    "（きちょうめんな）cẩn thận": "（ゆうずうがきく）đa tài"
+    "question": "下品な",
+    "meaning": "（げひんな）khiếm nhã",
+    "furigana": ""
   },
   {
-    "几帳面な": "素直な",
-    "（きちょうめんな）cẩn thận": "（すなおな）dễ tính"
+    "question": "融通が利く",
+    "meaning": "（ゆうずうがきく）đa tài",
+    "furigana": ""
   },
   {
-    "几帳面な": "頑固な",
-    "（きちょうめんな）cẩn thận": "（がんこな）bảo thủ"
+    "question": "素直な",
+    "meaning": "（すなおな）dễ tính",
+    "furigana": ""
   },
   {
-    "几帳面な": "冷淡な",
-    "（きちょうめんな）cẩn thận": "（れいたんな）lãnh đạm , thờ ơ"
+    "question": "頑固な",
+    "meaning": "（がんこな）bảo thủ",
+    "furigana": ""
   },
   {
-    "几帳面な": "クールな",
-    "（きちょうめんな）cẩn thận": "cool"
+    "question": "冷淡な",
+    "meaning": "（れいたんな）lãnh đạm , thờ ơ",
+    "furigana": ""
   },
   {
-    "几帳面な": "ドライな",
-    "（きちょうめんな）cẩn thận": "thực dụng"
+    "question": "クールな",
+    "meaning": "cool",
+    "furigana": ""
   },
   {
-    "几帳面な": "冷酷な",
-    "（きちょうめんな）cẩn thận": "（れいこくな）lạnh lùng , cục cằn"
+    "question": "ドライな",
+    "meaning": "thực dụng",
+    "furigana": ""
   },
   {
-    "几帳面な": "愛想がいい",
-    "（きちょうめんな）cẩn thận": "（あいそうがいい）nhã nhặn"
+    "question": "冷酷な",
+    "meaning": "（れいこくな）lạnh lùng , cục cằn",
+    "furigana": ""
   },
   {
-    "几帳面な": "無愛想な",
-    "（きちょうめんな）cẩn thận": "（ぶあいそうな）khó gần"
+    "question": "愛想がいい",
+    "meaning": "（あいそうがいい）nhã nhặn",
+    "furigana": ""
   },
   {
-    "几帳面な": "社交的な",
-    "（きちょうめんな）cẩn thận": "（しゃこうてきな）hòa đồng"
+    "question": "無愛想な",
+    "meaning": "（ぶあいそうな）khó gần",
+    "furigana": ""
   },
   {
-    "几帳面な": "非社交的な",
-    "（きちょうめんな）cẩn thận": "（ひしゃこうてきな）khó gần"
+    "question": "社交的な",
+    "meaning": "（しゃこうてきな）hòa đồng",
+    "furigana": ""
   },
   {
-    "几帳面な": "楽観的な",
-    "（きちょうめんな）cẩn thận": "（らっかんてきな）lạc quan"
+    "question": "非社交的な",
+    "meaning": "（ひしゃこうてきな）khó gần",
+    "furigana": ""
   },
   {
-    "几帳面な": "悲観的な",
-    "（きちょうめんな）cẩn thận": "（ひかんてきな）bi quan"
+    "question": "楽観的な",
+    "meaning": "（らっかんてきな）lạc quan",
+    "furigana": ""
   },
   {
-    "几帳面な": "誠実な人柄",
-    "（きちょうめんな）cẩn thận": "（せいじつなひとがら）thành thật"
+    "question": "悲観的な",
+    "meaning": "（ひかんてきな）bi quan",
+    "furigana": ""
   },
   {
-    "几帳面な": "真摯な人柄",
-    "（きちょうめんな）cẩn thận": "（しんしなひとがら）nghiêm túc"
+    "question": "誠実な人柄",
+    "meaning": "（せいじつなひとがら）thành thật",
+    "furigana": ""
   },
   {
-    "几帳面な": "温和な人柄",
-    "（きちょうめんな）cẩn thận": "（おんわなひとがら）ôn hòa"
+    "question": "真摯な人柄",
+    "meaning": "（しんしなひとがら）nghiêm túc",
+    "furigana": ""
   },
   {
-    "几帳面な": "寛容な人柄",
-    "（きちょうめんな）cẩn thận": "（かんようなひとがら）bao dung"
+    "question": "温和な人柄",
+    "meaning": "（おんわなひとがら）ôn hòa",
+    "furigana": ""
   },
   {
-    "几帳面な": "謙虚な人柄",
-    "（きちょうめんな）cẩn thận": "（けんきょなひとがら）khiêm tốn"
+    "question": "寛容な人柄",
+    "meaning": "（かんようなひとがら）bao dung",
+    "furigana": ""
   },
   {
-    "几帳面な": "気さくな人柄",
-    "（きちょうめんな）cẩn thận": "（きさくなひとがら）cởi mở , thẳng thắn"
+    "question": "謙虚な人柄",
+    "meaning": "（けんきょなひとがら）khiêm tốn",
+    "furigana": ""
   },
   {
-    "几帳面な": "ユニークな個性",
-    "（きちょうめんな）cẩn thận": "（ユニークなこせい）độc đáo"
+    "question": "気さくな人柄",
+    "meaning": "（きさくなひとがら）cởi mở , thẳng thắn",
+    "furigana": ""
   },
   {
-    "几帳面な": "独特の個性",
-    "（きちょうめんな）cẩn thận": "（どくとくのこせい）độc đáo"
+    "question": "ユニークな個性",
+    "meaning": "（ユニークなこせい）độc đáo",
+    "furigana": ""
   },
   {
-    "几帳面な": "強烈な個性",
-    "（きちょうめんな）cẩn thận": "（きょうれつなこせい）mạnh mẽ , quyết liệt"
+    "question": "独特の個性",
+    "meaning": "（どくとくのこせい）độc đáo",
+    "furigana": ""
   },
   {
-    "几帳面な": "個性が表れる・出る・際立つ・目立つ",
-    "（きちょうめんな）cẩn thận": "（こせいがあらわれる・でる・きわだつ・めだつ）thể hiện cá tính"
+    "question": "強烈な個性",
+    "meaning": "（きょうれつなこせい）mạnh mẽ , quyết liệt",
+    "furigana": ""
   },
   {
-    "几帳面な": "個性を生かす・磨く・重んじる・育む",
-    "（きちょうめんな）cẩn thận": "（こせいをいかす・みがく・おもんじる・はぐくむ）ấp ủ , nuôi dưỡng cá tính"
+    "question": "個性が表れる・出る・際立つ・目立つ",
+    "meaning": "（こせいがあらわれる・でる・きわだつ・めだつ）thể hiện cá tính",
+    "furigana": ""
   },
   {
-    "几帳面な": "人に懐く",
-    "（きちょうめんな）cẩn thận": "（ひとになつく）trở nên thân thiết"
+    "question": "個性を生かす・磨く・重んじる・育む",
+    "meaning": "（こせいをいかす・みがく・おもんじる・はぐくむ）ấp ủ , nuôi dưỡng cá tính",
+    "furigana": ""
   },
   {
-    "几帳面な": "人に好意を持つ",
-    "（きちょうめんな）cẩn thận": "（ひとにこういをもつ）có cảm tình"
+    "question": "人に懐く",
+    "meaning": "（ひとになつく）trở nên thân thiết",
+    "furigana": ""
   },
   {
-    "几帳面な": "人に共感する",
-    "（きちょうめんな）cẩn thận": "（ひとにきょうかんする）thông cảm"
+    "question": "人に好意を持つ",
+    "meaning": "（ひとにこういをもつ）có cảm tình",
+    "furigana": ""
   },
   {
-    "几帳面な": "人に同情する",
-    "（きちょうめんな）cẩn thận": "（ひとにどうじょうする）thông cảm"
+    "question": "人に共感する",
+    "meaning": "（ひとにきょうかんする）thông cảm",
+    "furigana": ""
   },
   {
-    "几帳面な": "人に反発する",
-    "（きちょうめんな）cẩn thận": "（ひとはんぱつする）cự tuyệt"
+    "question": "人に同情する",
+    "meaning": "（ひとにどうじょうする）thông cảm",
+    "furigana": ""
   },
   {
-    "几帳面な": "人に反感を持つ",
-    "（きちょうめんな）cẩn thận": "（ひとにはんかんをもつ）ác cảm"
+    "question": "人に反発する",
+    "meaning": "（ひとはんぱつする）cự tuyệt",
+    "furigana": ""
   },
   {
-    "几帳面な": "人に猛反対する",
-    "（きちょうめんな）cẩn thận": "（ひとにもうはんたいする）ác cảm"
+    "question": "人に反感を持つ",
+    "meaning": "（ひとにはんかんをもつ）ác cảm",
+    "furigana": ""
   },
   {
-    "几帳面な": "人にしっとする",
-    "（きちょうめんな）cẩn thận": "（ひとにしっとする）ghem ghét"
+    "question": "人に猛反対する",
+    "meaning": "（ひとにもうはんたいする）ác cảm",
+    "furigana": ""
   },
   {
-    "几帳面な": "人に気兼ねする",
-    "（きちょうめんな）cẩn thận": "（ひとにきがねする）khách khí"
+    "question": "人にしっとする",
+    "meaning": "（ひとにしっとする）ghem ghét",
+    "furigana": ""
   },
   {
-    "几帳面な": "人を慕う",
-    "（きちょうめんな）cẩn thận": "（ひとをしたう）hâm mộ"
+    "question": "人に気兼ねする",
+    "meaning": "（ひとにきがねする）khách khí",
+    "furigana": ""
   },
   {
-    "几帳面な": "人を崇拝する",
-    "（きちょうめんな）cẩn thận": "（ひとをすうはいする）hâm mộ"
+    "question": "人を慕う",
+    "meaning": "（ひとをしたう）hâm mộ",
+    "furigana": ""
   },
   {
-    "几帳面な": "人をいたわる",
-    "（きちょうめんな）cẩn thận": "（ひとをいたわる）an ủi"
+    "question": "人を崇拝する",
+    "meaning": "（ひとをすうはいする）hâm mộ",
+    "furigana": ""
   },
   {
-    "几帳面な": "人を励ます",
-    "（きちょうめんな）cẩn thận": "（ひとをはげます）an ủi"
+    "question": "人をいたわる",
+    "meaning": "（ひとをいたわる）an ủi",
+    "furigana": ""
   },
   {
-    "几帳面な": "人を傷つける",
-    "（きちょうめんな）cẩn thận": "（ひとをきずつける）làm tổn thương"
+    "question": "人を励ます",
+    "meaning": "（ひとをはげます）an ủi",
+    "furigana": ""
   },
   {
-    "几帳面な": "人を中傷する",
-    "（きちょうめんな）cẩn thận": "（ひとをちゅうしょうする）phỉ báng"
+    "question": "人を傷つける",
+    "meaning": "（ひとをきずつける）làm tổn thương",
+    "furigana": ""
   },
   {
-    "几帳面な": "人を侮辱する",
-    "（きちょうめんな）cẩn thận": "（ひとをぶじょくする）lăng mạ , xỉ nhục"
+    "question": "人を中傷する",
+    "meaning": "（ひとをちゅうしょうする）phỉ báng",
+    "furigana": ""
   },
   {
-    "几帳面な": "人をかばう",
-    "（きちょうめんな）cẩn thận": "bảo vệ"
+    "question": "人を侮辱する",
+    "meaning": "（ひとをぶじょくする）lăng mạ , xỉ nhục",
+    "furigana": ""
   },
   {
-    "几帳面な": "人をねたむ",
-    "（きちょうめんな）cẩn thận": "ghen tỵ"
+    "question": "人をかばう",
+    "meaning": "bảo vệ",
+    "furigana": ""
   },
   {
-    "几帳面な": "人を軽べつする",
-    "（きちょうめんな）cẩn thận": "（ひとをけいべつする）coi thường , khinh miệt"
+    "question": "人をねたむ",
+    "meaning": "ghen tỵ",
+    "furigana": ""
   },
   {
-    "几帳面な": "人をあざ笑う",
-    "（きちょうめんな）cẩn thận": "（ひとをあざわらう）nhạo báng , giễu cợt"
+    "question": "人を軽べつする",
+    "meaning": "（ひとをけいべつする）coi thường , khinh miệt",
+    "furigana": ""
+  },
+  {
+    "question": "人をあざ笑う",
+    "meaning": "（ひとをあざわらう）nhạo báng , giễu cợt",
+    "furigana": ""
   }
 ]
