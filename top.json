@@ -236,63 +236,63 @@
             "content": [
                 {
                     "fileName": "1章／1課 性格・人柄",
-                    "fileId": "vocab_shinkanzen/chap_1_part_1"
+                    "fileId": "vocab_shinkanzen/chap_1_part_1.json"
                 },
                 {
                     "fileName": "1章／2課 人間関係・付き合い",
-                    "fileId": "vocab_shinkanzen/chap_1_part_2"
+                    "fileId": "vocab_shinkanzen/chap_1_part_2.json"
                 },
                 {
                     "fileName": "2章1課 : 日常生活",
-                    "fileId": "vocab_shinkanzen/chap_2_part_1"
+                    "fileId": "vocab_shinkanzen/chap_2_part_1.json"
                 },
                 {
                     "fileName": "2章2課 : 医療•健康",
-                    "fileId": "vocab_shinkanzen/chap_2_part_1"
+                    "fileId": "vocab_shinkanzen/chap_2_part_1.json"
                 },
                 {
                     "fileName": "3章 芸術・スポーツ",
-                    "fileId": "vocab_shinkanzen/chap_3"
+                    "fileId": "vocab_shinkanzen/chap_3.json"
                 },
                 {
                     "fileName": "4章 教育",
-                    "fileId": "vocab_shinkanzen/chap_4"
+                    "fileId": "vocab_shinkanzen/chap_4.json"
                 },
                 {
                     "fileName": "5章 仕事",
-                    "fileId": "vocab_shinkanzen/chap_5"
+                    "fileId": "vocab_shinkanzen/chap_5.json"
                 },
                 {
                     "fileName": "6章 メディア",
-                    "fileId": "vocab_shinkanzen/chap_6"
+                    "fileId": "vocab_shinkanzen/chap_6.json"
                 },
                 {
                     "fileName": "7章 社会 1課 経済・産業",
-                    "fileId": "vocab_shinkanzen/chap_7_part_1"
+                    "fileId": "vocab_shinkanzen/chap_7_part_1.json"
                 },
                 {
                     "fileName": "7章 社会 2課 政治・法律・歴史",
-                    "fileId": "vocab_shinkanzen/chap_7_part_2"
+                    "fileId": "vocab_shinkanzen/chap_7_part_2.json"
                 },
                 {
                     "fileName": "7章 社会 3課 社会問題 （格差社会・少子高齢化）",
-                    "fileId": "vocab_shinkanzen/chap_7_part_3"
+                    "fileId": "vocab_shinkanzen/chap_7_part_3.json"
                 },
                 {
                     "fileName": "8章 科学 1課 自然・地形",
-                    "fileId": "vocab_shinkanzen/chap_8_part_1"
+                    "fileId": "vocab_shinkanzen/chap_8_part_1.json"
                 },
                 {
                     "fileName": "8章 科学 2課 技術",
-                    "fileId": "vocab_shinkanzen/chap_8_part_2"
+                    "fileId": "vocab_shinkanzen/chap_8_part_2.json"
                 },
                 {
                     "fileName": "9章 抽象概念 1課 時間・空間",
-                    "fileId": "vocab_shinkanzen/chap_9_part_1"
+                    "fileId": "vocab_shinkanzen/chap_9_part_1.json"
                 },
                 {
                     "fileName": "9章 抽象概念 2課 関係・変化",
-                    "fileId": "vocab_shinkanzen/chap_9_part_2"
+                    "fileId": "vocab_shinkanzen/chap_9_part_2.json"
                 }
             ]
         },
