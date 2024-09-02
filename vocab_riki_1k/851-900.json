@@ -1,7 +1,7 @@
 [
   {
     "question": "即刻",
-    "meaning": "そっこく Ngay lập tức, ngay tức khắc",
+    "meaning": "そっこく \nNgay lập tức, ngay tức khắc",
     "furigana": ""
   },
   {
@@ -11,17 +11,17 @@
   },
   {
     "question": "からっと",
-    "meaning": "① Trơi nắng ② Khô ráo, giòn ③ ( Tính cách) phóng thoáng, thoải mái",
+    "meaning": "① Trơi nắng\n② Khô ráo, giòn \n③ ( Tính cách) phóng thoáng, thoải mái",
     "furigana": ""
   },
   {
     "question": "がさがさ",
-    "meaning": "① Sột soạt, lạch cạch, lộp cộp ② Thô rát, nứt nẻ, chai sần",
+    "meaning": "① Sột soạt, lạch cạch, lộp cộp\n② Thô rát, nứt nẻ, chai sần",
     "furigana": ""
   },
   {
     "question": "正しく",
-    "meaning": "まさしく Đích thị là, chính là",
+    "meaning": "まさしく \nĐích thị là, chính là",
     "furigana": ""
   },
   {
@@ -36,17 +36,17 @@
   },
   {
     "question": "ひっそり",
-    "meaning": "① Yên ắng, tĩnh lặng ② Lặng lẽ",
+    "meaning": "① Yên ắng, tĩnh lặng\n② Lặng lẽ",
     "furigana": ""
   },
   {
     "question": "ふんわり",
-    "meaning": "① Đung đưa, bồng bềnh ② Mềm xốp ( bánh)",
+    "meaning": "① Đung đưa, bồng bềnh\n② Mềm xốp ( bánh)",
     "furigana": ""
   },
   {
     "question": "よほど",
-    "meaning": "① Rất, khá ② (Trường hợp, việc) to tát, nghiêm trọng",
+    "meaning": "① Rất, khá\n② (Trường hợp, việc) to tát, nghiêm trọng",
     "furigana": ""
   },
   {
@@ -61,17 +61,17 @@
   },
   {
     "question": "嫌々",
-    "meaning": "いやいや Miễn cưỡng",
+    "meaning": "いやいや \nMiễn cưỡng",
     "furigana": ""
   },
   {
     "question": "はっと",
-    "meaning": "① Ngạc nhiên, giật mình ( vi việc xảy ra bất ngờ ngoài dự tính) ② Chợt nhận ra",
+    "meaning": "① Ngạc nhiên, giật mình ( vi việc xảy ra bất ngờ ngoài dự tính)\n② Chợt nhận ra",
     "furigana": ""
   },
   {
     "question": "かっと",
-    "meaning": "① Bùng lên ( lửa), chói loà ② Đột nhiên nổi cáu",
+    "meaning": "① Bùng lên ( lửa), chói loà\n② Đột nhiên nổi cáu",
     "furigana": ""
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "question": "全然と",
-    "meaning": "ぜんぜんと ( Một cách) gọn gàng, ngăn nắp",
+    "meaning": "ぜんぜんと \n( Một cách) gọn gàng, ngăn nắp",
     "furigana": ""
   },
   {
     "question": "べったり",
-    "meaning": "べったり ① Dính chặt lấy  ②Bám, dính lấy (ai đó) không rời ra",
+    "meaning": "べったり \n① Dính chặt lấy \n②Bám, dính lấy (ai đó) không rời ra",
     "furigana": ""
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "question": "ぼつぼつ",
-    "meaning": "① Sắp sửa, dần dần ② Tàm tạm",
+    "meaning": "① Sắp sửa, dần dần\n② Tàm tạm",
     "furigana": ""
   },
   {
@@ -126,12 +126,12 @@
   },
   {
     "question": "げっそり",
-    "meaning": "①Gầy rộc đi ② Nản chí, chán nản",
+    "meaning": "①Gầy rộc đi\n② Nản chí, chán nản",
     "furigana": ""
   },
   {
     "question": "一概に",
-    "meaning": "いちがいに (Không thể) hoàn toàn... được, ( không thể) cứ... được",
+    "meaning": "いちがいに \n(Không thể) hoàn toàn... được, ( không thể) cứ... được",
     "furigana": ""
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "question": "始終",
-    "meaning": "しじゅう Liên tục, suốt",
+    "meaning": "しじゅう \nLiên tục, suốt",
     "furigana": ""
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "question": "がっちり",
-    "meaning": "① Săn chắc, vững chãi ② Thật nhiều",
+    "meaning": "① Săn chắc, vững chãi\n② Thật nhiều",
     "furigana": ""
   },
   {
@@ -176,12 +176,12 @@
   },
   {
     "question": "到底",
-    "meaning": "とうてい Tuyệt đối, hoàn toàn...( không)",
+    "meaning": "とうてい \nTuyệt đối, hoàn toàn...( không)",
     "furigana": ""
   },
   {
     "question": "一向に",
-    "meaning": "いっこうに Hoàn toàn...Không",
+    "meaning": "いっこうに \nHoàn toàn...Không",
     "furigana": ""
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "question": "ずるずる",
-    "meaning": "① Lê thê ( tinh trạng ko tốt kéo dài) ② ( Húp) rột rột, xì xụp, sụt sịt ( mũi)",
+    "meaning": "① Lê thê ( tinh trạng ko tốt kéo dài)\n② ( Húp) rột rột, xì xụp, sụt sịt ( mũi)",
     "furigana": ""
   },
   {
@@ -231,17 +231,17 @@
   },
   {
     "question": "とかく",
-    "meaning": "① Có xu hướng ( tiêu cực) ② ( Nói xấu) này nọ, nói này nói kia",
+    "meaning": "① Có xu hướng ( tiêu cực)\n② ( Nói xấu) này nọ, nói này nói kia",
     "furigana": ""
   },
   {
     "question": "そこそこ",
-    "meaning": "① Tàm tạm, tạm được, kha khá ② Tầm, khoảng, trên dưới",
+    "meaning": "① Tàm tạm, tạm được, kha khá\n② Tầm, khoảng, trên dưới",
     "furigana": ""
   },
   {
     "question": "だらだら",
-    "meaning": "① Nhễ nhại, chảy tòng tòng ② Lười biếng, lề mề",
+    "meaning": "① Nhễ nhại, chảy tòng tòng\n② Lười biếng, lề mề",
     "furigana": ""
   },
   {

@@ -1,57 +1,57 @@
 [
   {
     "question": "手を焼く",
-    "meaning": "てをやく Không thể giải quyết, xử lý",
+    "meaning": "てをやく \nKhông thể giải quyết, xử lý",
     "furigana": ""
   },
   {
     "question": "足を引っ張る",
-    "meaning": "あしをひっぱる Ngáng chân, cản trở",
+    "meaning": "あしをひっぱる \nNgáng chân, cản trở",
     "furigana": ""
   },
   {
     "question": "足が出る",
-    "meaning": "あしがでる Vượt quá ngân sách ( vung tay quá trán)",
+    "meaning": "あしがでる \nVượt quá ngân sách ( vung tay quá trán)",
     "furigana": ""
   },
   {
     "question": "首を突っ込む",
-    "meaning": "くびをつっこむ Can thiệp vào, xía vào chuyện của người khác",
+    "meaning": "くびをつっこむ \nCan thiệp vào, xía vào chuyện của người khác",
     "furigana": ""
   },
   {
     "question": "息が詰まる",
-    "meaning": "いきがつまる Nghẹt thở, bức bối",
+    "meaning": "いきがつまる \nNghẹt thở, bức bối",
     "furigana": ""
   },
   {
     "question": "息をつく",
-    "meaning": "いきをつく thở phào nhẹ nhõm, nghỉ ngơi",
+    "meaning": "いきをつく \nthở phào nhẹ nhõm, nghỉ ngơi",
     "furigana": ""
   },
   {
     "question": "気が引ける",
-    "meaning": "きがひける ngại ngùng, ngần ngại ( thiếu tự tin, mặc cảm)",
+    "meaning": "きがひける \nngại ngùng, ngần ngại ( thiếu tự tin, mặc cảm)",
     "furigana": ""
   },
   {
     "question": "気が置けない",
-    "meaning": "きがおけない không cần khách sao, câu nệ",
+    "meaning": "きがおけない \nkhông cần khách sao, câu nệ",
     "furigana": ""
   },
   {
     "question": "荷が重い",
-    "meaning": "にがおもい trách nhiệm năng nề",
+    "meaning": "にがおもい \ntrách nhiệm năng nề",
     "furigana": ""
   },
   {
     "question": "非がある",
-    "meaning": "ひがある có lỗi, mắc sai lầm",
+    "meaning": "ひがある \ncó lỗi, mắc sai lầm",
     "furigana": ""
   },
   {
     "question": "根に持つ",
-    "meaning": "ねにもつ thù dai, để bụng",
+    "meaning": "ねにもつ \nthù dai, để bụng",
     "furigana": ""
   },
   {
@@ -66,12 +66,12 @@
   },
   {
     "question": "生～",
-    "meaning": "なま～ ①Có vẻ quá ( gây cảm giác khó chịu)生ぬるい風: gió hanh生白い顔: khuôn mặt tái nhợt ② Qua loa, nửa vời, chưa tới生ぬるいやり方: Cách làm việc nửa vời生返事: Trả lời qua loa ③ Chưa qua chế biến, chỉnh sửa生ビール: Bia tươi生クリーム: kem tươi生データ: Dữ liệu thô",
+    "meaning": "なま～ ①Có vẻ quá ( gây cảm giác khó chịu)生ぬるい風: gió hanh生白い顔: khuôn mặt tái nhợt\n② Qua loa, nửa vời, chưa tới 生ぬるいやり方: Cách làm việc nửa vời生返事: Trả lời qua loa \n③ Chưa qua chế biến, chỉnh sửa生ビール: Bia tươi 生クリーム: kem tươi生データ: Dữ liệu thô",
     "furigana": ""
   },
   {
     "question": "純～",
-    "meaning": "じゅん ~Thuần, không pha tạp純国産: Hàng nội địa thuần純資産: Tài sản thuần",
+    "meaning": "じゅん \n~Thuần, không pha tạp純国産: Hàng nội địa thuần純資産: Tài sản thuần",
     "furigana": ""
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "question": "～並み",
-    "meaning": "～なみ ① Dãy, hàng山並み: Dãy núi ② Giống như, tương đương ( trình độ)プロ並み:Tương đương trình độ chuyên nghiệp人並みの暮らし: Sống như bao người khác小学生並み: Tương đương với học sinh tiêu học ③Thường, bình thường, trung bình並盛り優れた選手＞並の選手＞下手な選手",
+    "meaning": "～なみ \n① Dãy, hàng山並み: Dãy núi\n② Giống như, tương đương ( trình độ)プロ並み:Tương đương trình độ chuyên nghiệp人並みの暮らし: Sống như bao người khác小学生並み: Tương đương với học sinh tiêu học ③Thường, bình thường, trung bình並盛り優れた選手＞並の選手＞下手な選手",
     "furigana": ""
   },
   {
     "question": "～越し",
-    "meaning": "～ごし ① Bị ngăn cách, bởi窓越しの面会 ② Xuyên suốt８年越しの恋愛３年越しの努力が実る",
+    "meaning": "～ごし \n① Bị ngăn cách, bởi窓越しの面会\n② Xuyên suốt８年越しの恋愛３年越しの努力が実る",
     "furigana": ""
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "question": "～版",
-    "meaning": "～ばん Phiên bản学生版: phiên bản giành cho học sinh改訂版：Sách tái bản日本版：Bản Nhật bản小説版：Bản tiểu thuyết劇場版 （げきじょうばん）：Bản phim",
+    "meaning": "～ばん \nPhiên bản学生版: phiên bản giành cho học sinh改訂版：Sách tái bản日本版：Bản Nhật bản小説版：Bản tiểu thuyết劇場版 （げきじょうばん）：Bản phim",
     "furigana": ""
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "question": "ストレート",
-    "meaning": "straight ① Thẳng ② Nguyên chất, không pha ③ Thẳng thắn",
+    "meaning": "straight ① Thẳng\n② Nguyên chất, không pha \n③ Thẳng thắn",
     "furigana": ""
   },
   {
@@ -126,17 +126,17 @@
   },
   {
     "question": "コントラスト",
-    "meaning": "contrast/ˈkɒn.trɑːst/ ①Tương phản, đối lập ② Độ tương phản",
+    "meaning": "contrast/ˈkɒn.trɑːst/ ①Tương phản, đối lập\n② Độ tương phản",
     "furigana": ""
   },
   {
     "question": "ハードル",
-    "meaning": "hurdle ① Rào trong môn điền kinh ② Rào cản, khó khăn",
+    "meaning": "hurdle ① Rào trong môn điền kinh\n② Rào cản, khó khăn",
     "furigana": ""
   },
   {
     "question": "ブランク",
-    "meaning": "blank ① Chỗ trống ② Khoảng thời gian trống, không làm gì",
+    "meaning": "blank ① Chỗ trống\n② Khoảng thời gian trống, không làm gì",
     "furigana": ""
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "question": "ボイコット",
-    "meaning": "① Tẩy chay ( không mua hàng) ② Tẩy chay (không tham gia)",
+    "meaning": "① Tẩy chay ( không mua hàng)\n② Tẩy chay (không tham gia)",
     "furigana": ""
   },
   {

@@ -1,252 +1,252 @@
 [
   {
     "question": "出費",
-    "meaning": "しゅっぴ Chi phí",
+    "meaning": "しゅっぴ \nChi phí",
     "furigana": ""
   },
   {
     "question": "雇用",
-    "meaning": "こよう Tuyển dụng",
+    "meaning": "こよう \nTuyển dụng",
     "furigana": ""
   },
   {
     "question": "派遣",
-    "meaning": "はけん Phái đi, phái cử",
+    "meaning": "はけん \nPhái đi, phái cử",
     "furigana": ""
   },
   {
     "question": "指図",
-    "meaning": "さしず Ra lệnh, sai bảo, chỉ đạo",
+    "meaning": "さしず \nRa lệnh, sai bảo, chỉ đạo",
     "furigana": ""
   },
   {
     "question": "一括",
-    "meaning": "いっかつ Gộp lại",
+    "meaning": "いっかつ \nGộp lại",
     "furigana": ""
   },
   {
     "question": "欄",
-    "meaning": "らん ① Mục, cột② Mục, chuyên mục",
+    "meaning": "らん \n① Mục, cột② Mục, chuyên mục",
     "furigana": ""
   },
   {
     "question": "面会",
-    "meaning": "めんかい Gặp gỡ, thăm hỏi ( người bệnh, tù nhân)",
+    "meaning": "めんかい \nGặp gỡ, thăm hỏi ( người bệnh, tù nhân)",
     "furigana": ""
   },
   {
     "question": "意向",
-    "meaning": "いこう Ý muốn, dự định",
+    "meaning": "いこう \nÝ muốn, dự định",
     "furigana": ""
   },
   {
     "question": "調和",
-    "meaning": "ちょうわ ① Hài hoà ② Hoà hợp",
+    "meaning": "ちょうわ \n① Hài hoà\n② Hoà hợp",
     "furigana": ""
   },
   {
     "question": "権力",
-    "meaning": "けんりょく Quyền lực",
+    "meaning": "けんりょく \nQuyền lực",
     "furigana": ""
   },
   {
     "question": "権威",
-    "meaning": "けんい ① Uy quyền ② Đánh giá, uy tín",
+    "meaning": "けんい \n① Uy quyền\n② Đánh giá, uy tín",
     "furigana": ""
   },
   {
     "question": "対抗",
-    "meaning": "たいこう Đối đầu, cạnh tranh",
+    "meaning": "たいこう \nĐối đầu, cạnh tranh",
     "furigana": ""
   },
   {
     "question": "原則",
-    "meaning": "げんそく Nguyên tắc",
+    "meaning": "げんそく \nNguyên tắc",
     "furigana": ""
   },
   {
     "question": "経過",
-    "meaning": "けいか ① Trôi qua ② Quá trình, tiến trình",
+    "meaning": "けいか \n① Trôi qua\n② Quá trình, tiến trình",
     "furigana": ""
   },
   {
     "question": "過ち",
-    "meaning": "あやまち ① Lỗi lầm ② Sai lầm, lỗi lầm (về mặt đạo đức)",
+    "meaning": "あやまち \n① Lỗi lầm\n② Sai lầm, lỗi lầm (về mặt đạo đức)",
     "furigana": ""
   },
   {
     "question": "沈黙",
-    "meaning": "ちんもく Im lặng, yên lặng",
+    "meaning": "ちんもく \nIm lặng, yên lặng",
     "furigana": ""
   },
   {
     "question": "精算",
-    "meaning": "せいさん Chi phí, thanh toán, trả tiền",
+    "meaning": "せいさん \nChi phí, thanh toán, trả tiền",
     "furigana": ""
   },
   {
     "question": "破壊",
-    "meaning": "はかい Phá huỷ, phá hoại",
+    "meaning": "はかい \nPhá huỷ, phá hoại",
     "furigana": ""
   },
   {
     "question": "対処",
-    "meaning": "たいしょ Ứng phó, xử lý",
+    "meaning": "たいしょ \nỨng phó, xử lý",
     "furigana": ""
   },
   {
     "question": "独占",
-    "meaning": "どくせん Độc chiếm",
+    "meaning": "どくせん \nĐộc chiếm",
     "furigana": ""
   },
   {
     "question": "確立",
-    "meaning": "かくりつ Xác lập, thiết lập, xây dựng",
+    "meaning": "かくりつ \nXác lập, thiết lập, xây dựng",
     "furigana": ""
   },
   {
     "question": "反発",
-    "meaning": "はんぱつ ① Chống đối, phản đối lại ② Đẩy nhau, bật ngược lại",
+    "meaning": "はんぱつ \n① Chống đối, phản đối lại\n② Đẩy nhau, bật ngược lại",
     "furigana": ""
   },
   {
     "question": "特許",
-    "meaning": "とっきょ (Quyền) sáng chế",
+    "meaning": "とっきょ \n(Quyền) sáng chế",
     "furigana": ""
   },
   {
     "question": "人目",
-    "meaning": "ひとめ Ánh mắt, cái nhìn của người khác",
+    "meaning": "ひとめ \nÁnh mắt, cái nhìn của người khác",
     "furigana": ""
   },
   {
     "question": "声援",
-    "meaning": "せいえん Cỗ vũ",
+    "meaning": "せいえん \nCỗ vũ",
     "furigana": ""
   },
   {
     "question": "介入",
-    "meaning": "かいにゅう Can thiệp",
+    "meaning": "かいにゅう \nCan thiệp",
     "furigana": ""
   },
   {
     "question": "推進",
-    "meaning": "すいしん ① Đẩy ② Xúc tiến, thúc đẩy",
+    "meaning": "すいしん \n① Đẩy\n② Xúc tiến, thúc đẩy",
     "furigana": ""
   },
   {
     "question": "格差",
-    "meaning": "かくさ Cách biệt, chênh lệch",
+    "meaning": "かくさ \nCách biệt, chênh lệch",
     "furigana": ""
   },
   {
     "question": "観点",
-    "meaning": "かんてん Quan điểm, góc nhìn",
+    "meaning": "かんてん \nQuan điểm, góc nhìn",
     "furigana": ""
   },
   {
     "question": "把握",
-    "meaning": "はあく Nắm rõ, hiểu rõ ( Nội dung, thông tin, thực trạng, hiện trạng)",
+    "meaning": "はあく \nNắm rõ, hiểu rõ ( Nội dung, thông tin, thực trạng, hiện trạng)",
     "furigana": ""
   },
   {
     "question": "描写",
-    "meaning": "びょうしゃ Miêu tả, khắc hoạ, phản ánh",
+    "meaning": "びょうしゃ \nMiêu tả, khắc hoạ, phản ánh",
     "furigana": ""
   },
   {
     "question": "枠",
-    "meaning": "わく ① Khung, viền ② Khuôn mẫu ③ Giới hạn, phạm vi",
+    "meaning": "わく \n① Khung, viền\n② Khuôn mẫu\n③ Giới hạn, phạm vi",
     "furigana": ""
   },
   {
     "question": "実践",
-    "meaning": "じっせん Thực tiễn, thực hành",
+    "meaning": "じっせん \nThực tiễn, thực hành",
     "furigana": ""
   },
   {
     "question": "緩和",
-    "meaning": "かんわ Nới lỏng, làm giảm bớt ( pháp luật, giới hạn, sự đông đúc",
+    "meaning": "かんわ \nNới lỏng, làm giảm bớt ( pháp luật, giới hạn, sự đông đúc",
     "furigana": ""
   },
   {
     "question": "治安",
-    "meaning": "ちあん Trị an, an ninh",
+    "meaning": "ちあん \nTrị an, an ninh",
     "furigana": ""
   },
   {
     "question": "兆し",
-    "meaning": "きざし Dấu hiệu, điềm báo",
+    "meaning": "きざし \nDấu hiệu, điềm báo",
     "furigana": ""
   },
   {
     "question": "声明",
-    "meaning": "せいめい Tuyên bố",
+    "meaning": "せいめい \nTuyên bố",
     "furigana": ""
   },
   {
     "question": "突破",
-    "meaning": "とっぱ ① Vượt qua, phá vỡ ② Vượt quá ( số lượng lớn)",
+    "meaning": "とっぱ \n① Vượt qua, phá vỡ\n② Vượt quá ( số lượng lớn)",
     "furigana": ""
   },
   {
     "question": "補給",
-    "meaning": "ほきゅう Bổ sung",
+    "meaning": "ほきゅう \nBổ sung",
     "furigana": ""
   },
   {
     "question": "待望",
-    "meaning": "たいぼう Mong chờ, mong đợi, kỳ vọng",
+    "meaning": "たいぼう \nMong chờ, mong đợi, kỳ vọng",
     "furigana": ""
   },
   {
     "question": "義理",
-    "meaning": "ぎり ① Trách nhiệm, bổn phận, sự mang ơn義理人情(ぎりにんじょう): tình nghĩa, sẵn sàng giúp đỡ ② Mối quan hệ thân thích không cùng huyết thống",
+    "meaning": "ぎり \n① Trách nhiệm, bổn phận, sự mang ơn義理人情(ぎりにんじょう): tình nghĩa, sẵn sàng giúp đỡ\n② Mối quan hệ thân thích không cùng huyết thống",
     "furigana": ""
   },
   {
     "question": "未練",
-    "meaning": "みれん Vương vấn, nuối tiếc, lưu luyến ( tình cảm)",
+    "meaning": "みれん \nVương vấn, nuối tiếc, lưu luyến ( tình cảm)",
     "furigana": ""
   },
   {
     "question": "外観",
-    "meaning": "がいかん Vẻ bề ngoài ( toà nhà)",
+    "meaning": "がいかん \nVẻ bề ngoài ( toà nhà)",
     "furigana": ""
   },
   {
     "question": "不意",
-    "meaning": "ふい Đột nhiên, bất ngờ",
+    "meaning": "ふい \nĐột nhiên, bất ngờ",
     "furigana": ""
   },
   {
     "question": "手順",
-    "meaning": "てじゅん Trình tự, quy trình",
+    "meaning": "てじゅん \nTrình tự, quy trình",
     "furigana": ""
   },
   {
     "question": "規約",
-    "meaning": "きやく Điều khoản, quy định",
+    "meaning": "きやく \nĐiều khoản, quy định",
     "furigana": ""
   },
   {
     "question": "中傷",
-    "meaning": "ちゅうしょう Vu khống, phỉ báng",
+    "meaning": "ちゅうしょう \nVu khống, phỉ báng",
     "furigana": ""
   },
   {
     "question": "資金",
-    "meaning": "しきん Tiền vốn",
+    "meaning": "しきん \nTiền vốn",
     "furigana": ""
   },
   {
     "question": "風習",
-    "meaning": "ふうしゅう Phong tục",
+    "meaning": "ふうしゅう \nPhong tục",
     "furigana": ""
   },
   {
     "question": "過労",
-    "meaning": "かろう Làm việc quá sức",
+    "meaning": "かろう \nLàm việc quá sức",
     "furigana": ""
   }
 ]
