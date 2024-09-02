@@ -1,12 +1,12 @@
 [
   {
     "question": "見込みが立つ・ある・ない",
-    "meaning": "みこみ ① dự báo tốt (復旧の見込み dự báo về sự phục hồi )② được kì vọng, dự báo trong tương lai có khả năng (合格する見込み dự báo có khả năng đậu)",
+    "meaning": "みこみ \n① dự báo tốt (復旧の見込み dự báo về sự phục hồi )\n② được kì vọng, dự báo trong tương lai có khả năng (合格する見込み dự báo có khả năng đậu)",
     "furigana": ""
   },
   {
     "question": "見通し",
-    "meaning": "みとおし ① tầm nhìn② dự đoán, tầm nhìn đối với tương lai (将来の見通し)",
+    "meaning": "みとおし \n① tầm nhìn\n② dự đoán, tầm nhìn đối với tương lai (将来の見通し)",
     "furigana": ""
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "question": "が成熟する",
-    "meaning": "せいじゅく ① chín (果物, ワイン)② trưởng thành, chín chắn (子供)③ già cỗi, có tuổi (車の成熟,成熟した市民社会)",
+    "meaning": "せいじゅく \n① chín (果物, ワイン)\n② trưởng thành, chín chắn (子供)\n③ già cỗi, có tuổi (車の成熟,成熟した市民社会)",
     "furigana": ""
   },
   {
     "question": "が飛躍する",
-    "meaning": "ひやく ① phát triển nhảy vọt② nhảy cóc, bỏ qua phần nào đó (結論の飛躍)",
+    "meaning": "ひやく \n① phát triển nhảy vọt\n② nhảy cóc, bỏ qua phần nào đó (結論の飛躍)",
     "furigana": ""
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "question": "視点",
-    "meaning": "してん ① ánh nhìn, ánh mắt(視点が定まらず ánh mắt không cố định, nhìn qua nhìn lại)② quan điểm cá nhân(新しい視点 quan điểm tiến bộ)",
+    "meaning": "してん \n① ánh nhìn, ánh mắt(視点が定まらず ánh mắt không cố định, nhìn qua nhìn lại)\n② quan điểm cá nhân(新しい視点 quan điểm tiến bộ)",
     "furigana": ""
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "question": "を左右する",
-    "meaning": "さゆう ① bên trái bên phải(左右に注意する)② ảnh hưởng, biến động, dao động(天候に左右される bị dao động, bị ảnh hưởng tùy vào thời tiết)",
+    "meaning": "さゆう \n① bên trái bên phải(左右に注意する)\n② ảnh hưởng, biến động, dao động(天候に左右される bị dao động, bị ảnh hưởng tùy vào thời tiết)",
     "furigana": ""
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "question": "先",
-    "meaning": "さき ① phần mép, đầu của đồ vật thon dài 鉛筆のさきがとがっている② vị trí đầu tiên, vị trí số 1 客はさきを争って店内に入った③ địa điểm mục tiêu hướng đến 行きさきを運転手に告げる④ tương lai, sự việc sau này さきのことを考えると気が重くなる⑤ quá khứ さきにお知らせした通りで変更なしです⑥ đối phương 時間はさき様にあわせよう⑦ theo thứ tự thì là thứ tự trước おさきにどうぞ⑧ phía trước このさきを左に曲がってください",
+    "meaning": "さき \n① phần mép, đầu của đồ vật thon dài 鉛筆のさきがとがっている\n② vị trí đầu tiên, vị trí số 1 客はさきを争って店内に入った\n③ địa điểm mục tiêu hướng đến 行きさきを運転手に告げる\n④ tương lai, sự việc sau này さきのことを考えると気が重くなる\n⑤ quá khứ さきにお知らせした通りで変更なしです\n⑥ đối phương 時間はさき様にあわせよう\n⑦ theo thứ tự thì là thứ tự trước おさきにどうぞ\n⑧ phía trước このさきを左に曲がってください",
     "furigana": ""
   },
   {
@@ -196,12 +196,12 @@
   },
   {
     "question": "罠",
-    "meaning": "わな ① cái bẫy thú② bẫy, lừa đảo",
+    "meaning": "わな \n① cái bẫy thú\n② bẫy, lừa đảo",
     "furigana": ""
   },
   {
     "question": "枠",
-    "meaning": "わく ① khung (文章の重要な部分を枠で囲む đóng khung phần quan trọng của đoạn văn)② khuôn khổ (枠にはまる vướng mắc vào khuôn khổ cứng nhắc)③ phạm vi, khuôn khổ (予算の枠 khoảng giới hạn của dự toán)",
+    "meaning": "わく \n① khung (文章の重要な部分を枠で囲む đóng khung phần quan trọng của đoạn văn)\n② khuôn khổ (枠にはまる vướng mắc vào khuôn khổ cứng nhắc)\n③ phạm vi, khuôn khổ (予算の枠 khoảng giới hạn của dự toán)",
     "furigana": ""
   },
   {
@@ -211,17 +211,17 @@
   },
   {
     "question": "陰",
-    "meaning": "かげ ① bóng râm, bóng tối② nằm trong vỏ bọc, sự che khuất (ドアの陰 sự che khuất của cánh cửa)③ nói xấu sau lưng (陰で人の悪口を言う), làm cái bóng để cổ vũ từ phía sau (陰ながら応援する)",
+    "meaning": "かげ \n① bóng râm, bóng tối\n② nằm trong vỏ bọc, sự che khuất (ドアの陰 sự che khuất của cánh cửa)\n③ nói xấu sau lưng (陰で人の悪口を言う), làm cái bóng để cổ vũ từ phía sau (陰ながら応援する)",
     "furigana": ""
   },
   {
     "question": "影",
-    "meaning": "かげ ① cái bóng, hình dáng (人の影、山の影)② hình dáng, bóng dáng ③ ánh sáng (月の影、星影)",
+    "meaning": "かげ \n① cái bóng, hình dáng (人の影、山の影)\n② hình dáng, bóng dáng \n③ ánh sáng (月の影、星影)",
     "furigana": ""
   },
   {
     "question": "柄",
-    "meaning": "がら ① họa tiết, hoa văn (派手な柄の服 trang phục có họa tiết sặc sỡ)② tầm vóc, dáng vóc ③ tính cách (柄の悪い人 người xấu tính)",
+    "meaning": "がら \n① họa tiết, hoa văn (派手な柄の服 trang phục có họa tiết sặc sỡ)\n② tầm vóc, dáng vóc \n③ tính cách (柄の悪い人 người xấu tính)",
     "furigana": ""
   },
   {

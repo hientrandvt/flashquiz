@@ -1,12 +1,12 @@
 [
   {
     "question": "ソフトな",
-    "meaning": "soft ① xốp mềm, hòa nhã (手触り てざわり, 色、声、口調 giọng điệu, 人柄、人当たり thái độ ứng xử)② phần mềm máy tính ソフトウェア",
+    "meaning": "soft \n① xốp mềm, hòa nhã (手触り てざわり, 色、声、口調 giọng điệu, 人柄、人当たり thái độ ứng xử)\n② phần mềm máy tính ソフトウェア",
     "furigana": ""
   },
   {
     "question": "ハードな",
-    "meaning": "hard ① khó khăn, vất vả (仕事、トレーニング、)② khó (スケジュール)③ cứng (箱、カバー vỏ bọc)④ phần cứng máy tính ハードウェア",
+    "meaning": "hard \n① khó khăn, vất vả (仕事、トレーニング、)\n② khó (スケジュール)\n③ cứng (箱、カバー vỏ bọc)\n④ phần cứng máy tính ハードウェア",
     "furigana": ""
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "question": "ドライ",
-    "meaning": "dry ① hợp lý, rõ ràng, đâu ra đó, không để tình cảm xen vào, mang hơi hướng lạnh nhạt (ドライな性格、ドライに考える、ドライに処理する)② khô (ドライフラワー dry flower, ドライクリーニング、ドライフルーツ、ドライヤー máy sấy)",
+    "meaning": "dry \n① hợp lý, rõ ràng, đâu ra đó, không để tình cảm xen vào, mang hơi hướng lạnh nhạt (ドライな性格、ドライに考える、ドライに処理する)\n② khô (ドライフラワー dry flower, ドライクリーニング、ドライフルーツ、ドライヤー máy sấy)",
     "furigana": ""
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "question": "クリア",
-    "meaning": "clear ① trong, trạng thái tốt (画像、頭、)② trong, tinh khiết, không có gì ở trong (クリアな氷、クリアファイル)",
+    "meaning": "clear \n① trong, trạng thái tốt (画像、頭、)\n② trong, tinh khiết, không có gì ở trong (クリアな氷、クリアファイル)",
     "furigana": ""
   },
   {
     "question": "トーン",
-    "meaning": "tone ① nhịp điệu (声のトーン)② sắc thái (トーンの絵)",
+    "meaning": "tone \n① nhịp điệu (声のトーン)\n② sắc thái (トーンの絵)",
     "furigana": ""
   },
   {
@@ -126,12 +126,12 @@
   },
   {
     "question": "レッテル",
-    "meaning": "letter ① gắn nhãn, bị đánh giá người như thế(怠け者のレッテル nhãn người lười biếng)② giấy nhãn trên sản phẩm",
+    "meaning": "letter \n① gắn nhãn, bị đánh giá người như thế(怠け者のレッテル nhãn người lười biếng)\n② giấy nhãn trên sản phẩm",
     "furigana": ""
   },
   {
     "question": "フィルター",
-    "meaning": "filter ① bộ lọc (カメラのレンズ)② bộ lọc nước, bụi, đầu lọc thuốc lá ③ sự sàng lọc",
+    "meaning": "filter \n① bộ lọc (カメラのレンズ)\n② bộ lọc nước, bụi, đầu lọc thuốc lá \n③ sự sàng lọc",
     "furigana": ""
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "question": "メカニズム",
-    "meaning": "mechanism ① cơ cấu, cấu tạo (機械の内部のメカニズム)② cơ chế (記憶のメカニズム、地球温暖化、地震、ガン発生)",
+    "meaning": "mechanism \n① cơ cấu, cấu tạo (機械の内部のメカニズム)\n② cơ chế (記憶のメカニズム、地球温暖化、地震、ガン発生)",
     "furigana": ""
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "question": "が/をアピールする",
-    "meaning": "appeal ① kêu gọi (核廃絶のアピール )② thu hút",
+    "meaning": "appeal \n① kêu gọi (核廃絶のアピール )\n② thu hút",
     "furigana": ""
   },
   {
@@ -196,17 +196,17 @@
   },
   {
     "question": "アクセス",
-    "meaning": "access ① cách tiếp cận, đường vào (会場はアクセスが悪い)② truy cập (ホームページにアクセスする)",
+    "meaning": "access \n① cách tiếp cận, đường vào (会場はアクセスが悪い)\n② truy cập (ホームページにアクセスする)",
     "furigana": ""
   },
   {
     "question": "がUターンする",
-    "meaning": "Uturn ① quay đầu, quay trở lại② trở về quê làm việc",
+    "meaning": "Uturn \n① quay đầu, quay trở lại\n② trở về quê làm việc",
     "furigana": ""
   },
   {
     "question": "が/をシフトする",
-    "meaning": "shift ① làm việc theo ca (アルバイトのシフト)② chuyển đổi hình thức (生産拠点を国内から海外へシフトする)",
+    "meaning": "shift \n① làm việc theo ca (アルバイトのシフト)\n② chuyển đổi hình thức (生産拠点を国内から海外へシフトする)",
     "furigana": ""
   },
   {
@@ -216,12 +216,12 @@
   },
   {
     "question": "フォーム",
-    "meaning": "form ① hình thể, tư thế ② kiểu mẫu, mẫu đơn, form",
+    "meaning": "form \n① hình thể, tư thế \n② kiểu mẫu, mẫu đơn, form",
     "furigana": ""
   },
   {
     "question": "ポーズ",
-    "meaning": "① [pose] tư thế chụp ảnh, vẽ tranh ② [pause] tạm dừng",
+    "meaning": "\n① [pose] tư thế chụp ảnh, vẽ tranh \n② [pause] tạm dừng",
     "furigana": ""
   },
   {
