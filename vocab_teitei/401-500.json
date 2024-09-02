@@ -1,502 +1,502 @@
 [
   {
     "question": "麻薬",
-    "meaning": "(MA DƯỢC) (まやく)\nMa túy",
+    "meaning": "(MA DƯỢC) \n(まやく)\nMa túy",
     "furigana": ""
   },
   {
     "question": "未遂",
-    "meaning": "(VỊ TOẠI) (みすい)\nChưa hoàn thành",
+    "meaning": "(VỊ TOẠI) \n(みすい)\nChưa hoàn thành",
     "furigana": ""
   },
   {
     "question": "無縁",
-    "meaning": "(VÔ DUYÊN) (むえん)\nKhông liên quan",
+    "meaning": "(VÔ DUYÊN) \n(むえん)\nKhông liên quan",
     "furigana": ""
   },
   {
     "question": "無実",
-    "meaning": "(VÔ THỰC) (むじつ)\nVô tội, k đúng sự thật",
+    "meaning": "(VÔ THỰC) \n(むじつ)\nVô tội, k đúng sự thật",
     "furigana": ""
   },
   {
     "question": "無償",
-    "meaning": "(VÔ THƯỜNG) (むしょう)\nKhông bồi thường, miễn phí",
+    "meaning": "(VÔ THƯỜNG) \n(むしょう)\nKhông bồi thường, miễn phí",
     "furigana": ""
   },
   {
     "question": "夜分",
-    "meaning": "(DẠ PHÂN) (やぶん)\nĐêm khuya",
+    "meaning": "(DẠ PHÂN) \n(やぶん)\nĐêm khuya",
     "furigana": ""
   },
   {
     "question": "余剰",
-    "meaning": "(DƯ THẶNG) (よじょう)\nDư thừa, quá mức",
+    "meaning": "(DƯ THẶNG) \n(よじょう)\nDư thừa, quá mức",
     "furigana": ""
   },
   {
     "question": "暗算(する)",
-    "meaning": "(ÁM TOÁN) (あんざん)\nTính nhẩm",
+    "meaning": "(ÁM TOÁN) \n(あんざん)\nTính nhẩm",
     "furigana": ""
   },
   {
     "question": "暗示(する)",
-    "meaning": "(ÁM KỲ) (あんじ)\nÁm thị; gợi ý",
+    "meaning": "(ÁM KỲ) \n(あんじ)\nÁm thị; gợi ý",
     "furigana": ""
   },
   {
     "question": "隠居(する)",
-    "meaning": "(ẨN CƯ) (いんきょ)\nỞ ẩn, về hưu",
+    "meaning": "(ẨN CƯ) \n(いんきょ)\nỞ ẩn, về hưu",
     "furigana": ""
   },
   {
     "question": "運営(する)",
-    "meaning": "(VẬN DOANH) (うんえい)\nVận hành, quản lý",
+    "meaning": "(VẬN DOANH) \n(うんえい)\nVận hành, quản lý",
     "furigana": ""
   },
   {
     "question": "運搬(する)",
-    "meaning": "(VẬN BÀN) (うんぱん)\nVận chuyển",
+    "meaning": "(VẬN BÀN) \n(うんぱん)\nVận chuyển",
     "furigana": ""
   },
   {
     "question": "運用(する)",
-    "meaning": "(VẬN DỤNG) (うんよう)\nVận dụng, vận hành",
+    "meaning": "(VẬN DỤNG) \n(うんよう)\nVận dụng, vận hành",
     "furigana": ""
   },
   {
     "question": "演奏(する)",
-    "meaning": "(DIỄN TẤU) (えんそう)\nBiểu diễn nhạc",
+    "meaning": "(DIỄN TẤU) \n(えんそう)\nBiểu diễn nhạc",
     "furigana": ""
   },
   {
     "question": "完結(する)",
-    "meaning": "(HOÀN KẾT) (かんけつ)\nKết thúc, hoàn thành",
+    "meaning": "(HOÀN KẾT) \n(かんけつ)\nKết thúc, hoàn thành",
     "furigana": ""
   },
   {
     "question": "看護(する)",
-    "meaning": "(KHÁN HỘ) (かんご)\nHộ lý, chăm sóc",
+    "meaning": "(KHÁN HỘ) \n(かんご)\nHộ lý, chăm sóc",
     "furigana": ""
   },
   {
     "question": "干渉(する)",
-    "meaning": "(CAN THIỆP) (かんしょう)\nCan thiệp",
+    "meaning": "(CAN THIỆP) \n(かんしょう)\nCan thiệp",
     "furigana": ""
   },
   {
     "question": "感染(する)",
-    "meaning": "(CẢM NHIỄM) (かんせん)\nNhiễm, bị ảnh hưởng",
+    "meaning": "(CẢM NHIỄM) \n(かんせん)\nNhiễm, bị ảnh hưởng",
     "furigana": ""
   },
   {
     "question": "監督(する)",
-    "meaning": "(GIÁM ĐỐC) (かんとく)\nGiám sát, đạo diễn, huấn luyện viên",
+    "meaning": "(GIÁM ĐỐC) \n(かんとく)\nGiám sát, đạo diễn, huấn luyện viên",
     "furigana": ""
   },
   {
     "question": "勘弁(する)",
-    "meaning": "(KHÁM BIỆN) (かんべん)\nSự khoan dung",
+    "meaning": "(KHÁM BIỆN) \n(かんべん)\nSự khoan dung",
     "furigana": ""
   },
   {
     "question": "関与(する)",
-    "meaning": "(QUAN DỮ) (かんよ)\nLiên quan , dính líu",
+    "meaning": "(QUAN DỮ) \n(かんよ)\nLiên quan , dính líu",
     "furigana": ""
   },
   {
     "question": "緩和(する)",
-    "meaning": "(HOÃN HÒA) (かんわ)\nNới lỏng, thả lỏng",
+    "meaning": "(HOÃN HÒA) \n(かんわ)\nNới lỏng, thả lỏng",
     "furigana": ""
   },
   {
     "question": "均衡(する)",
-    "meaning": "(QUÂN HÀNH) (きんこう)\nCân bằng",
+    "meaning": "(QUÂN HÀNH) \n(きんこう)\nCân bằng",
     "furigana": ""
   },
   {
     "question": "吟味(する)",
-    "meaning": "(NGÂM VỊ) (ぎんみ)\nNghiên cứu, xem xét kỹ lưỡng, tra hỏi",
+    "meaning": "(NGÂM VỊ) \n(ぎんみ)\nNghiên cứu, xem xét kỹ lưỡng, tra hỏi",
     "furigana": ""
   },
   {
     "question": "現像(する)",
-    "meaning": "(HIỆN TƯỢNG) (げんぞう)\nRửa ảnh",
+    "meaning": "(HIỆN TƯỢNG) \n(げんぞう)\nRửa ảnh",
     "furigana": ""
   },
   {
     "question": "検討(する)",
-    "meaning": "(KIỂM THẢO) (けんとう)\nXem xét, cân nhắc",
+    "meaning": "(KIỂM THẢO) \n(けんとう)\nXem xét, cân nhắc",
     "furigana": ""
   },
   {
     "question": "混乱(する)",
-    "meaning": "(HỖN LOẠN) (こんらん)\nHỗn loạn (giao thông, kinh tế, đầu óc)",
+    "meaning": "(HỖN LOẠN) \n(こんらん)\nHỗn loạn (giao thông, kinh tế, đầu óc)",
     "furigana": ""
   },
   {
     "question": "酸化(する)",
-    "meaning": "(TOAN HÓA) (さんか)\nOxy hóa",
+    "meaning": "(TOAN HÓA) \n(さんか)\nOxy hóa",
     "furigana": ""
   },
   {
     "question": "参照(する)",
-    "meaning": "(THAM CHIẾU) (さんしょう)\nĐối chiếu",
+    "meaning": "(THAM CHIẾU) \n(さんしょう)\nĐối chiếu",
     "furigana": ""
   },
   {
     "question": "進化(する)",
-    "meaning": "(TIẾN HÓA) (しんか)\nPhát triển, tiến hóa",
+    "meaning": "(TIẾN HÓA) \n(しんか)\nPhát triển, tiến hóa",
     "furigana": ""
   },
   {
     "question": "審議(する)",
-    "meaning": "(THẨM NGHỊ) (しんぎ)\nXem xét, hội ý",
+    "meaning": "(THẨM NGHỊ) \n(しんぎ)\nXem xét, hội ý",
     "furigana": ""
   },
   {
     "question": "信仰(する)",
-    "meaning": "(TÍN NGƯỠNG) (しんこう)\nTín ngưỡng, tin, tôn sùng",
+    "meaning": "(TÍN NGƯỠNG) \n(しんこう)\nTín ngưỡng, tin, tôn sùng",
     "furigana": ""
   },
   {
     "question": "進行(する)",
-    "meaning": "(TIẾN HÀNH) (しんこう)\nTiến hành, tiến triển, tiến về phía trước",
+    "meaning": "(TIẾN HÀNH) \n(しんこう)\nTiến hành, tiến triển, tiến về phía trước",
     "furigana": ""
   },
   {
     "question": "振興(する)",
-    "meaning": "(CHẤN HƯNG) (しんこう)\nKhuyến khích, cổ vũ, thúc đẩy",
+    "meaning": "(CHẤN HƯNG) \n(しんこう)\nKhuyến khích, cổ vũ, thúc đẩy",
     "furigana": ""
   },
   {
     "question": "申告(する)",
-    "meaning": "(THÂN CÁO) (しんこく)\nKhai báo, trình báo",
+    "meaning": "(THÂN CÁO) \n(しんこく)\nKhai báo, trình báo",
     "furigana": ""
   },
   {
     "question": "審査(する)",
-    "meaning": "(THẨM TRA) (しんさ)\nThẩm tra, thẩm định, xét duyệt",
+    "meaning": "(THẨM TRA) \n(しんさ)\nThẩm tra, thẩm định, xét duyệt",
     "furigana": ""
   },
   {
     "question": "新築(する)",
-    "meaning": "(TÂN TRÚC) (しんちく)\nXây mới",
+    "meaning": "(TÂN TRÚC) \n(しんちく)\nXây mới",
     "furigana": ""
   },
   {
     "question": "進呈(する)",
-    "meaning": "(TIẾN TRÌNH) (しんてい)\nBiếu tặng",
+    "meaning": "(TIẾN TRÌNH) \n(しんてい)\nBiếu tặng",
     "furigana": ""
   },
   {
     "question": "振動(する)",
-    "meaning": "(CHẤN ĐỘNG) (しんどう)\nRung, chấn động",
+    "meaning": "(CHẤN ĐỘNG) \n(しんどう)\nRung, chấn động",
     "furigana": ""
   },
   {
     "question": "侵入(する)",
-    "meaning": "(XÂM NHẬP) (しんにゅう)\nXâm nhập",
+    "meaning": "(XÂM NHẬP) \n(しんにゅう)\nXâm nhập",
     "furigana": ""
   },
   {
     "question": "辛抱(する)",
-    "meaning": "(TÂN BÃO) (しんぼう)\nChịu đựng",
+    "meaning": "(TÂN BÃO) \n(しんぼう)\nChịu đựng",
     "furigana": ""
   },
   {
     "question": "宣言(する)",
-    "meaning": "(TUYÊN NGÔN) (せんげん)\nTuyên bố, công bố",
+    "meaning": "(TUYÊN NGÔN) \n(せんげん)\nTuyên bố, công bố",
     "furigana": ""
   },
   {
     "question": "選考(する)",
-    "meaning": "(TUYỂN KHẢO) (せんこう)\nTuyển chọn",
+    "meaning": "(TUYỂN KHẢO) \n(せんこう)\nTuyển chọn",
     "furigana": ""
   },
   {
     "question": "宣伝(する)",
-    "meaning": "(TUYÊN TRUYỀN) (せんでん)\nTuyên truyền (tính năng sản phẩm, chủ nghĩa, tư tưởng..)",
+    "meaning": "(TUYÊN TRUYỀN) \n(せんでん)\nTuyên truyền (tính năng sản phẩm, chủ nghĩa, tư tưởng..)",
     "furigana": ""
   },
   {
     "question": "全滅(する)",
-    "meaning": "(TOÀN DIỆT) (ぜんめつ)\nTiêu diệt hoàn toàn, thất bại hoàn toàn",
+    "meaning": "(TOÀN DIỆT) \n(ぜんめつ)\nTiêu diệt hoàn toàn, thất bại hoàn toàn",
     "furigana": ""
   },
   {
     "question": "存続(する)",
-    "meaning": "(TỒN TỤC) (そんぞく)\nTiếp tục tồn tại",
+    "meaning": "(TỒN TỤC) \n(そんぞく)\nTiếp tục tồn tại",
     "furigana": ""
   },
   {
     "question": "探検(する)",
-    "meaning": "(THAM KIỂM) (たんけん)\nThám hiểm,khám phá",
+    "meaning": "(THAM KIỂM) \n(たんけん)\nThám hiểm,khám phá",
     "furigana": ""
   },
   {
     "question": "断言(する)",
-    "meaning": "(ĐOẠN NGÔN) (だんげん)\nTuyên bố, khẳng định",
+    "meaning": "(ĐOẠN NGÔN) \n(だんげん)\nTuyên bố, khẳng định",
     "furigana": ""
   },
   {
     "question": "短縮(する)",
-    "meaning": "(ĐOẢN SÚC) (たんしゅく)\nThu ngắn lại (thời gian, cự ly)",
+    "meaning": "(ĐOẢN SÚC) \n(たんしゅく)\nThu ngắn lại (thời gian, cự ly)",
     "furigana": ""
   },
   {
     "question": "沈黙(する)",
-    "meaning": "(TRẦM MẶC) (ちんもく)\nIm lặng",
+    "meaning": "(TRẦM MẶC) \n(ちんもく)\nIm lặng",
     "furigana": ""
   },
   {
     "question": "陳列(する)",
-    "meaning": "(TRẦN LIỆT) (ちんれつ)\nTrưng bày",
+    "meaning": "(TRẦN LIỆT) \n(ちんれつ)\nTrưng bày",
     "furigana": ""
   },
   {
     "question": "転換(する)",
-    "meaning": "(CHUYỂN HOÁN) (てんかん)\nThay đổi, Chuyển đổi",
+    "meaning": "(CHUYỂN HOÁN) \n(てんかん)\nThay đổi, Chuyển đổi",
     "furigana": ""
   },
   {
     "question": "転勤(する)",
-    "meaning": "(CHUYỂN CẦN) (てんきん)\nChuyển công tác",
+    "meaning": "(CHUYỂN CẦN) \n(てんきん)\nChuyển công tác",
     "furigana": ""
   },
   {
     "question": "展示(する)",
-    "meaning": "(TRIỂN KỲ) (てんじ)\nTrưng bày, triển lãm",
+    "meaning": "(TRIỂN KỲ) \n(てんじ)\nTrưng bày, triển lãm",
     "furigana": ""
   },
   {
     "question": "認識(する)",
-    "meaning": "(NHẬN THỨC) (にんしき)\nNhận thức",
+    "meaning": "(NHẬN THỨC) \n(にんしき)\nNhận thức",
     "furigana": ""
   },
   {
     "question": "燃焼(する)",
-    "meaning": "(NHIÊN THIÊU) (ねんしょう)\nĐốt cháy",
+    "meaning": "(NHIÊN THIÊU) \n(ねんしょう)\nĐốt cháy",
     "furigana": ""
   },
   {
     "question": "繁栄(する)",
-    "meaning": "(PHỒN VINH) (はんえい)\nPhồn vinh, phát triển",
+    "meaning": "(PHỒN VINH) \n(はんえい)\nPhồn vinh, phát triển",
     "furigana": ""
   },
   {
     "question": "反射(する)",
-    "meaning": "(PHẢN XẠ) (はんしゃ)\nPhản lại, dội ngược lại",
+    "meaning": "(PHẢN XẠ) \n(はんしゃ)\nPhản lại, dội ngược lại",
     "furigana": ""
   },
   {
     "question": "繁盛(する)",
-    "meaning": "(PHỒN THỊNH) (はんじょう)\nPhát đạt, thịnh vượng",
+    "meaning": "(PHỒN THỊNH) \n(はんじょう)\nPhát đạt, thịnh vượng",
     "furigana": ""
   },
   {
     "question": "繁殖(する)",
-    "meaning": "(PHỒN THỰC) (はんしょく)\nSinh sôi nảy nở",
+    "meaning": "(PHỒN THỰC) \n(はんしょく)\nSinh sôi nảy nở",
     "furigana": ""
   },
   {
     "question": "反応(する)",
-    "meaning": "(PHẢN ỨNG) (はんのう)\nPhản ứng",
+    "meaning": "(PHẢN ỨNG) \n(はんのう)\nPhản ứng",
     "furigana": ""
   },
   {
     "question": "反発(する)",
-    "meaning": "(PHẢN PHÁT) (はんぱつ)\nPhủ định, phản bác, đẩy ra ( cực nam châm cùng chiều)",
+    "meaning": "(PHẢN PHÁT) \n(はんぱつ)\nPhủ định, phản bác, đẩy ra ( cực nam châm cùng chiều)",
     "furigana": ""
   },
   {
     "question": "憤慨(する)",
-    "meaning": "(PHÂN KHÁI) (ふんがい)\nTức giận",
+    "meaning": "(PHÂN KHÁI) \n(ふんがい)\nTức giận",
     "furigana": ""
   },
   {
     "question": "分析(する)",
-    "meaning": "(PHÂN TÍCH) (ぶんせき)\nPhân tích",
+    "meaning": "(PHÂN TÍCH) \n(ぶんせき)\nPhân tích",
     "furigana": ""
   },
   {
     "question": "紛争(する)",
-    "meaning": "(PHÂN TRANH) (ふんそう)\nPhân tranh, tranh giành",
+    "meaning": "(PHÂN TRANH) \n(ふんそう)\nPhân tranh, tranh giành",
     "furigana": ""
   },
   {
     "question": "分離(する)",
-    "meaning": "(PHÂN LI) (ぶんり)\nNgăn cách, phân tách",
+    "meaning": "(PHÂN LI) \n(ぶんり)\nNgăn cách, phân tách",
     "furigana": ""
   },
   {
     "question": "返還(する)",
-    "meaning": "(PHẢN HOÀN) (へんかん)\nTrả lại như ban đầu, trả lại cho chủ nhân",
+    "meaning": "(PHẢN HOÀN) \n(へんかん)\nTrả lại như ban đầu, trả lại cho chủ nhân",
     "furigana": ""
   },
   {
     "question": "返却(する)",
-    "meaning": "(PHẢN KHƯỚC) (へんきゃく)\nTrả lại (cái đã mượn, giữ giùm)",
+    "meaning": "(PHẢN KHƯỚC) \n(へんきゃく)\nTrả lại (cái đã mượn, giữ giùm)",
     "furigana": ""
   },
   {
     "question": "返済(する)",
-    "meaning": "(PHẢN TẾ) (へんさい)\nTrả lại (tiền, vật) đã mượn",
+    "meaning": "(PHẢN TẾ) \n(へんさい)\nTrả lại (tiền, vật) đã mượn",
     "furigana": ""
   },
   {
     "question": "変遷(する)",
-    "meaning": "(BIẾN THIÊN) (へんせん)\nThay đổi theo thời gian",
+    "meaning": "(BIẾN THIÊN) \n(へんせん)\nThay đổi theo thời gian",
     "furigana": ""
   },
   {
     "question": "返答(する)",
-    "meaning": "(PHẢN ĐÁP) (へんとう)\nTrả lời",
+    "meaning": "(PHẢN ĐÁP) \n(へんとう)\nTrả lời",
     "furigana": ""
   },
   {
     "question": "乱用(する)",
-    "meaning": "(LOẠN DỤNG) (らんよう)\nLạm dụng",
+    "meaning": "(LOẠN DỤNG) \n(らんよう)\nLạm dụng",
     "furigana": ""
   },
   {
     "question": "連帯(する)",
-    "meaning": "(LIÊN ĐỚI) (れんたい)\nLiên đới, đoàn kết",
+    "meaning": "(LIÊN ĐỚI) \n(れんたい)\nLiên đới, đoàn kết",
     "furigana": ""
   },
   {
     "question": "暗殺(する)",
-    "meaning": "(ÁM SÁT) (あんさつ)\nÁm sát",
+    "meaning": "(ÁM SÁT) \n(あんさつ)\nÁm sát",
     "furigana": ""
   },
   {
     "question": "演出(する)",
-    "meaning": "(DIỄN XUẤT) (えんしゅつ)\nĐạo diễn, dàn dựng (phim, kịch,...)",
+    "meaning": "(DIỄN XUẤT) \n(えんしゅつ)\nĐạo diễn, dàn dựng (phim, kịch,...)",
     "furigana": ""
   },
   {
     "question": "還元(する)",
-    "meaning": "(HOÀN NGUYÊN) (かんげん)\nTrả lại trạng thái ban đầu",
+    "meaning": "(HOÀN NGUYÊN) \n(かんげん)\nTrả lại trạng thái ban đầu",
     "furigana": ""
   },
   {
     "question": "換算(する)",
-    "meaning": "(HOÁN TOÁN) (かんさん)\nHoán đổi, quy đổi",
+    "meaning": "(HOÁN TOÁN) \n(かんさん)\nHoán đổi, quy đổi",
     "furigana": ""
   },
   {
     "question": "監視(する)",
-    "meaning": "(GIÁM THỊ) (かんし)\nGiám sát, giám thị",
+    "meaning": "(GIÁM THỊ) \n(かんし)\nGiám sát, giám thị",
     "furigana": ""
   },
   {
     "question": "勧誘(する)",
-    "meaning": "(KHUYẾN DỤ) (かんゆう)\nKhuyến nghị, mời gọi",
+    "meaning": "(KHUYẾN DỤ) \n(かんゆう)\nKhuyến nghị, mời gọi",
     "furigana": ""
   },
   {
     "question": "観覧(する)",
-    "meaning": "(QUAN LÃM) (かんらん)\nTham quan",
+    "meaning": "(QUAN LÃM) \n(かんらん)\nTham quan",
     "furigana": ""
   },
   {
     "question": "勤務(する)",
-    "meaning": "(CẦN VỤ) (きんむ)\nLàm việc",
+    "meaning": "(CẦN VỤ) \n(きんむ)\nLàm việc",
     "furigana": ""
   },
   {
     "question": "兼業(する)",
-    "meaning": "(KIÊM NGHIỆP) (けんぎょう)\nLàm  hay nhiều công việc",
+    "meaning": "(KIÊM NGHIỆP) \n(けんぎょう)\nLàm  hay nhiều công việc",
     "furigana": ""
   },
   {
     "question": "減少(する)",
-    "meaning": "(GIẢM THIỂU) (げんしょう)\nGiảm thiểu",
+    "meaning": "(GIẢM THIỂU) \n(げんしょう)\nGiảm thiểu",
     "furigana": ""
   },
   {
     "question": "限定(する)",
-    "meaning": "(HẠN ĐỊNH) (げんてい)\nGiới hạn (phạm vi, số lượng), khoanh vùng",
+    "meaning": "(HẠN ĐỊNH) \n(げんてい)\nGiới hạn (phạm vi, số lượng), khoanh vùng",
     "furigana": ""
   },
   {
     "question": "倹約(する)",
-    "meaning": "(KIỆM ƯỚC) (けんやく)\nTiết kiệm",
+    "meaning": "(KIỆM ƯỚC) \n(けんやく)\nTiết kiệm",
     "furigana": ""
   },
   {
     "question": "混同(する)",
-    "meaning": "(HỖN ĐỒNG) (こんどう)\nLẫn lộn, đánh đồng",
+    "meaning": "(HỖN ĐỒNG) \n(こんどう)\nLẫn lộn, đánh đồng",
     "furigana": ""
   },
   {
     "question": "賛美(する)",
-    "meaning": "(TÁN MĨ) (さんび)\nTán dương, ca tụng",
+    "meaning": "(TÁN MĨ) \n(さんび)\nTán dương, ca tụng",
     "furigana": ""
   },
   {
     "question": "侵略(する)",
-    "meaning": "(XÂM LƯỢC) (しんりゃく)\nXâm lược",
+    "meaning": "(XÂM LƯỢC) \n(しんりゃく)\nXâm lược",
     "furigana": ""
   },
   {
     "question": "診療(する)",
-    "meaning": "(CHẨN LIỆU) (しんりょう)\nKhám chẩn đoán",
+    "meaning": "(CHẨN LIỆU) \n(しんりょう)\nKhám chẩn đoán",
     "furigana": ""
   },
   {
     "question": "選挙(する)",
-    "meaning": "(TUYỂN CỬ) (せんきょ)\nTuyển cử",
+    "meaning": "(TUYỂN CỬ) \n(せんきょ)\nTuyển cử",
     "furigana": ""
   },
   {
     "question": "戦闘(する)",
-    "meaning": "(CHIẾN ĐẤU) (せんとう)\nChiến đấu",
+    "meaning": "(CHIẾN ĐẤU) \n(せんとう)\nChiến đấu",
     "furigana": ""
   },
   {
     "question": "潜入(する)",
-    "meaning": "(TIỀM NHẬP) (せんにゅう)\nThâm nhập, len lỏi vào",
+    "meaning": "(TIỀM NHẬP) \n(せんにゅう)\nThâm nhập, len lỏi vào",
     "furigana": ""
   },
   {
     "question": "占領(する)",
-    "meaning": "(CHIÊM LĨNH) (せんりょう)\nLấn chiếm (chỗ), chiếm đóng (quốc gia khác)",
+    "meaning": "(CHIÊM LĨNH) \n(せんりょう)\nLấn chiếm (chỗ), chiếm đóng (quốc gia khác)",
     "furigana": ""
   },
   {
     "question": "損失(する)",
-    "meaning": "(TỔN THẤT) (そんしつ)\nTổn thất",
+    "meaning": "(TỔN THẤT) \n(そんしつ)\nTổn thất",
     "furigana": ""
   },
   {
     "question": "団結(する)",
-    "meaning": "(ĐOÀN KẾT) (だんけつ)\nĐoàn kết",
+    "meaning": "(ĐOÀN KẾT) \n(だんけつ)\nĐoàn kết",
     "furigana": ""
   },
   {
     "question": "沈殿(する)",
-    "meaning": "(TRẦM ĐIỆN) (ちんでん)\nKết tủa, lắng xuống",
+    "meaning": "(TRẦM ĐIỆN) \n(ちんでん)\nKết tủa, lắng xuống",
     "furigana": ""
   },
   {
     "question": "沈没(する)",
-    "meaning": "(TRẦM MỘT) (ちんぼつ)\nChìm xuống",
+    "meaning": "(TRẦM MỘT) \n(ちんぼつ)\nChìm xuống",
     "furigana": ""
   },
   {
     "question": "転居(する)",
-    "meaning": "(CHUYỂN CƯ) (てんきょ)\nChuyển chỗ ở",
+    "meaning": "(CHUYỂN CƯ) \n(てんきょ)\nChuyển chỗ ở",
     "furigana": ""
   },
   {
     "question": "点検(する)",
-    "meaning": "(ĐIỂM KIỂM) (てんけん)\nKiểm tra (xem có vấn đề, bất thường hay ko)",
+    "meaning": "(ĐIỂM KIỂM) \n(てんけん)\nKiểm tra (xem có vấn đề, bất thường hay ko)",
     "furigana": ""
   },
   {
     "question": "伝言(する)",
-    "meaning": "(TRUYỀN NGÔN) (でんごん)\nNhắn lại, lời nhắn",
+    "meaning": "(TRUYỀN NGÔN) \n(でんごん)\nNhắn lại, lời nhắn",
     "furigana": ""
   }
 ]
