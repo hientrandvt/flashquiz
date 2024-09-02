@@ -36,7 +36,7 @@
   },
   {
     "question": "(を) 捉える",
-    "meaning": "とらえる nắm bắt được、chưa đạt đến 分かる",
+    "meaning": "とらえる nắm bắt được、chiếm được",
     "furigana": ""
   },
   {
@@ -45,7 +45,7 @@
     "furigana": ""
   },
   {
-    "question": "(を) 庇う",
+    "question": "(を) かばう",
     "meaning": "かばう bao che, che giấu",
     "furigana": ""
   },
@@ -86,12 +86,12 @@
   },
   {
     "question": "(を) 交える",
-    "meaning": "まじえる \n① trộn vào (仕事上に私情を交える để tình cảm cá nhân vào công việc)\n② cùng, với (手振り身振り động tác cơ thể, ユーモア sự hài hước, を交えて話す)\n③ đầu gối sát nhau, ngồi sát nhau (ひざを交える)",
+    "meaning": "まじえる \n① trộn vào (仕事上に私情を交える để tình cảm cá nhân vào công việc)\n② cùng, với (手振り身振り động tác cơ thể, ユーモア sự hài hước, を交えて話す)\n③ đầu gối sát nhau, ngồi xuống và trò chuyện thân mật (ひざを交える)",
     "furigana": ""
   },
   {
     "question": "(を) よこす",
-    "meaning": "gửi, trao, đưa",
+    "meaning": "gọi, gửi, trao, đưa",
     "furigana": ""
   },
   {
@@ -100,8 +100,8 @@
     "furigana": ""
   },
   {
-    "question": "(を) 急かす",
-    "meaning": "せかすhối thúc, thúc giục",
+    "question": "(を) せかす",
+    "meaning": "せかす hối thúc, thúc giục",
     "furigana": ""
   },
   {
@@ -116,12 +116,12 @@
   },
   {
     "question": "(が) ぞっとする",
-    "meaning": "run sợ (=恐怖 きょうふ、怖い)",
+    "meaning": "sởn gai ốc (=恐怖 きょうふ、怖い)",
     "furigana": ""
   },
   {
     "question": "(が) ぎょっとする",
-    "meaning": "kinh ngạc (= 驚く、びっくりする)",
+    "meaning": "giật mình (= 驚く、びっくりする)",
     "furigana": ""
   },
   {
