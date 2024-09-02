@@ -1,37 +1,37 @@
 [
   {
     "question": "格差社会",
-    "meaning": "（かくさしゃかい）khoảng cách xã hội",
+    "meaning": "かくさしゃかい\nkhoảng cách xã hội",
     "furigana": ""
   },
   {
     "question": "貧困層",
-    "meaning": "（ひんこんそう）tầng lớp người nghèo",
+    "meaning": "ひんこんそう\ntầng lớp người nghèo",
     "furigana": ""
   },
   {
     "question": "富裕層",
-    "meaning": "（ふゆうそう）tầng lớp người giàu",
+    "meaning": "ふゆうそう\ntầng lớp người giàu",
     "furigana": ""
   },
   {
     "question": "雇用",
-    "meaning": "（こよう）tuyển dụng",
+    "meaning": "こよう\ntuyển dụng",
     "furigana": ""
   },
   {
     "question": "健康保険に加入する",
-    "meaning": "（けんこうほけんにかにゅうする）tham gia bảo hiểm y tế",
+    "meaning": "けんこうほけんにかにゅうする\ntham gia bảo hiểm y tế",
     "furigana": ""
   },
   {
     "question": "促進する",
-    "meaning": "（そくしんする）thúc đẩy",
+    "meaning": "そくしんする\nthúc đẩy",
     "furigana": ""
   },
   {
     "question": "推進する",
-    "meaning": "（すいしんする）thúc đẩy",
+    "meaning": "すいしんする\nthúc đẩy",
     "furigana": ""
   },
   {
@@ -41,72 +41,72 @@
   },
   {
     "question": "受給する",
-    "meaning": "（じゅきゅうする）nhận",
+    "meaning": "じゅきゅうする\nnhận",
     "furigana": ""
   },
   {
     "question": "支給する",
-    "meaning": "（しきゅうする）thanh toán ( trả )",
+    "meaning": "しきゅうする\nthanh toán ( trả )",
     "furigana": ""
   },
   {
     "question": "少子化",
-    "meaning": "（しょうしか）giảm tỷ lệ sinh",
+    "meaning": "しょうしか\ngiảm tỷ lệ sinh",
     "furigana": ""
   },
   {
     "question": "高齢化",
-    "meaning": "（こうれいか）già hóa dân số",
+    "meaning": "こうれいか\ngià hóa dân số",
     "furigana": ""
   },
   {
     "question": "少子高齢化",
-    "meaning": "（しょうしこうれいか）giảm tỷ lệ sinh và già hóa dân số",
+    "meaning": "しょうしこうれいか\ngiảm tỷ lệ sinh và già hóa dân số",
     "furigana": ""
   },
   {
     "question": "出生率",
-    "meaning": "（しゅっしょうりつ）tỷ lệ sinh",
+    "meaning": "しゅっしょうりつ\ntỷ lệ sinh",
     "furigana": ""
   },
   {
     "question": "未婚率",
-    "meaning": "（みこんりつ）tỷ lệ người chưa kết hôn",
+    "meaning": "みこんりつ\ntỷ lệ người chưa kết hôn",
     "furigana": ""
   },
   {
     "question": "平均寿命が延びる",
-    "meaning": "（へいきんじゅみょうがのびる）tuổi thọ trung bình tăng",
+    "meaning": "へいきんじゅみょうがのびる\ntuổi thọ trung bình tăng",
     "furigana": ""
   },
   {
     "question": "世界一の長寿国になる",
-    "meaning": "（せかいいちのちょうじゅこくになる）nước có tuổi thọ trung bình cao nhất thế giới",
+    "meaning": "せかいいちのちょうじゅこくになる\nnước có tuổi thọ trung bình cao nhất thế giới",
     "furigana": ""
   },
   {
     "question": "還暦",
-    "meaning": "（かんれき）lên lão ( 60 tuổi , mừng thọ)",
+    "meaning": "かんれき\nlên lão ( 60 tuổi , mừng thọ)",
     "furigana": ""
   },
   {
     "question": "人口構造",
-    "meaning": "（じんこうこうぞう）cơ cấu dân số",
+    "meaning": "じんこうこうぞう\ncơ cấu dân số",
     "furigana": ""
   },
   {
     "question": "介護福祉士",
-    "meaning": "（かいごふくしし）điều dưỡng viên",
+    "meaning": "かいごふくしし\nđiều dưỡng viên",
     "furigana": ""
   },
   {
     "question": "介護士",
-    "meaning": "（かいごし）điều dưỡng viên",
+    "meaning": "かいごし\nđiều dưỡng viên",
     "furigana": ""
   },
   {
     "question": "高齢者",
-    "meaning": "（こうれいしゃ）người già",
+    "meaning": "こうれいしゃ\nngười già",
     "furigana": ""
   },
   {
@@ -116,97 +116,97 @@
   },
   {
     "question": "看護する",
-    "meaning": "（かんごする）chăm sóc",
+    "meaning": "かんごする\nchăm sóc",
     "furigana": ""
   },
   {
     "question": "老いる",
-    "meaning": "（おいる）già đi",
+    "meaning": "おいる\ngià đi",
     "furigana": ""
   },
   {
     "question": "若返る",
-    "meaning": "（わかがえる）trẻ lại",
+    "meaning": "わかがえる\ntrẻ lại",
     "furigana": ""
   },
   {
     "question": "老後",
-    "meaning": "（ろうご）tuổi già",
+    "meaning": "ろうご\ntuổi già",
     "furigana": ""
   },
   {
     "question": "乳幼児",
-    "meaning": "（にゅうようじ）trẻ sơ sinh",
+    "meaning": "にゅうようじ\ntrẻ sơ sinh",
     "furigana": ""
   },
   {
     "question": "死亡率",
-    "meaning": "（しぼうりつ）tỷ lệ tử vong",
+    "meaning": "しぼうりつ\ntỷ lệ tử vong",
     "furigana": ""
   },
   {
     "question": "激減する",
-    "meaning": "（げきげんする）giảm nhanh",
+    "meaning": "げきげんする\ngiảm nhanh",
     "furigana": ""
   },
   {
     "question": "激増する",
-    "meaning": "（げきぞうする）tăng nhanh",
+    "meaning": "げきぞうする\ntăng nhanh",
     "furigana": ""
   },
   {
     "question": "産休を取る",
-    "meaning": "（さんきゅうをとる）nghỉ đẻ",
+    "meaning": "さんきゅうをとる\nnghỉ đẻ",
     "furigana": ""
   },
   {
     "question": "産前産後休暇を取る",
-    "meaning": "（さんぜんさんごきゅうかをとる）nghỉ trước và sau sinh",
+    "meaning": "さんぜんさんごきゅうかをとる\nnghỉ trước và sau sinh",
     "furigana": ""
   },
   {
     "question": "育休を取る",
-    "meaning": "（いくきゅうをとる）nghỉ trông con",
+    "meaning": "いくきゅうをとる\nnghỉ trông con",
     "furigana": ""
   },
   {
     "question": "育児休暇を取る",
-    "meaning": "（いくじきゅうかを取る）nghỉ trông con",
+    "meaning": "いくじきゅうかを取る\nnghỉ trông con",
     "furigana": ""
   },
   {
     "question": "福利厚生",
-    "meaning": "（ふくりこうせい）phúc lợi y tế",
+    "meaning": "ふくりこうせい\nphúc lợi y tế",
     "furigana": ""
   },
   {
     "question": "充実",
-    "meaning": "（じゅうじつ）đầy đủ",
+    "meaning": "じゅうじつ\nđầy đủ",
     "furigana": ""
   },
   {
     "question": "問題に取り組む",
-    "meaning": "（もんだいにとりくむ）chuyên tâm vào vấn đề",
+    "meaning": "もんだいにとりくむ\nchuyên tâm vào vấn đề",
     "furigana": ""
   },
   {
     "question": "問題を軽視する",
-    "meaning": "（もんだいにけいしする）xem nhẹ vấn đề",
+    "meaning": "もんだいにけいしする\nxem nhẹ vấn đề",
     "furigana": ""
   },
   {
     "question": "問題を重視する",
-    "meaning": "（もんだいをじゅうしする）chú trọng vấn đề",
+    "meaning": "もんだいをじゅうしする\nchú trọng vấn đề",
     "furigana": ""
   },
   {
     "question": "仕事と育児を両立させる",
-    "meaning": "（しごとといくじをりょうりつさせる）làm song song công việc và việc nuôi con",
+    "meaning": "しごとといくじをりょうりつさせる\nlàm song song công việc và việc nuôi con",
     "furigana": ""
   },
   {
     "question": "仕事と育児をこなす",
-    "meaning": "（しごとといくじをこなす）quán xuyến công việc và việc nuôi con",
+    "meaning": "しごとといくじをこなす\nquán xuyến công việc và việc nuôi con",
     "furigana": ""
   }
 ]

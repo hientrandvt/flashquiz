@@ -1,7 +1,7 @@
 [
   {
     "question": "立法",
-    "meaning": "（りっぽう）lập pháp ( LẬP PHÁP )",
+    "meaning": "りっぽう\nlập pháp ( LẬP PHÁP )",
     "furigana": ""
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "question": "促す",
-    "meaning": "（うながす）kêu gọi ( xúc tiến ) ( XÚC )",
+    "meaning": "うながす\nkêu gọi ( xúc tiến ) ( XÚC )",
     "furigana": ""
   },
   {
     "question": "質疑",
-    "meaning": "（しつぎ）chất vấn ( CHẤT NGHI )",
+    "meaning": "しつぎ\nchất vấn ( CHẤT NGHI )",
     "furigana": ""
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "question": "唱える",
-    "meaning": "（となえる）nêu lên ( đưa ra ) ( XƯỚNG )",
+    "meaning": "となえる\nnêu lên ( đưa ra ) ( XƯỚNG )",
     "furigana": ""
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "question": "踏まえる",
-    "meaning": "（ふまえる）xem xét ( ĐẠP )",
+    "meaning": "ふまえる\nxem xét ( ĐẠP )",
     "furigana": ""
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "question": "裁決",
-    "meaning": "（さいけつ） phán quyết ( TÀI QUYẾT )",
+    "meaning": "さいけつ\n phán quyết ( TÀI QUYẾT )",
     "furigana": ""
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "question": "審議",
-    "meaning": "（しんぎ）xem xét kỹ ( THẨM NGHỊ )",
+    "meaning": "しんぎ\nxem xét kỹ ( THẨM NGHỊ )",
     "furigana": ""
   },
   {
@@ -66,47 +66,47 @@
   },
   {
     "question": "議題",
-    "meaning": "（ぎだい）vấn đề thảo luận ( NGHỊ ĐỀ )",
+    "meaning": "ぎだい\nvấn đề thảo luận ( NGHỊ ĐỀ )",
     "furigana": ""
   },
   {
     "question": "制定する",
-    "meaning": "（せいていする）ban hành ( CHẾ ĐỊNH )",
+    "meaning": "せいていする\nban hành ( CHẾ ĐỊNH )",
     "furigana": ""
   },
   {
     "question": "整備する",
-    "meaning": "（せいびする）điều chỉnh ( CHỈNH BỊ )",
+    "meaning": "せいびする\nđiều chỉnh ( CHỈNH BỊ )",
     "furigana": ""
   },
   {
     "question": "法整備",
-    "meaning": "（ほうせいび）điều chỉnh luật pháp ( PHÁP CHỈNH BỊ )",
+    "meaning": "ほうせいび\nđiều chỉnh luật pháp ( PHÁP CHỈNH BỊ )",
     "furigana": ""
   },
   {
     "question": "法律を改定する",
-    "meaning": "（ほうりつをかいていする）cải cách ( sửa đổi ) luật pháp ( PHÁP LUẬT CẢI ĐỊNH )",
+    "meaning": "ほうりつをかいていする\ncải cách ( sửa đổi ) luật pháp ( PHÁP LUẬT CẢI ĐỊNH )",
     "furigana": ""
   },
   {
     "question": "法律を施行する",
-    "meaning": "（ほうりつをしこうする）thi hành pháp luật ( PHÁP LUẬT THI HÀNH )",
+    "meaning": "ほうりつをしこうする\nthi hành pháp luật ( PHÁP LUẬT THI HÀNH )",
     "furigana": ""
   },
   {
     "question": "行政",
-    "meaning": "（ぎょうせい）hành chính ( HÀNH CHÍNH )",
+    "meaning": "ぎょうせい\nhành chính ( HÀNH CHÍNH )",
     "furigana": ""
   },
   {
     "question": "規制が緩和される",
-    "meaning": "（きせいがかんわされる）quy chế hòa hoãn ( QUY CHẾ HOÃN HÒA )",
+    "meaning": "きせいがかんわされる\nquy chế hòa hoãn ( QUY CHẾ HOÃN HÒA )",
     "furigana": ""
   },
   {
     "question": "声明",
-    "meaning": "（せいめい）tuyên bố ( THANH MINH )",
+    "meaning": "せいめい\ntuyên bố ( THANH MINH )",
     "furigana": ""
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "question": "措置",
-    "meaning": "（そち）có biện pháp ( THỐ TRÍ )",
+    "meaning": "そち\ncó biện pháp ( THỐ TRÍ )",
     "furigana": ""
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "question": "寛大",
-    "meaning": "（かんだい）phóng khoáng ( KHOAN ĐẠI )",
+    "meaning": "かんだい\nphóng khoáng ( KHOAN ĐẠI )",
     "furigana": ""
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "question": "調印する",
-    "meaning": "（ちょういんする）ký kết ( ĐIỀU ẤN )",
+    "meaning": "ちょういんする\nký kết ( ĐIỀU ẤN )",
     "furigana": ""
   },
   {
@@ -146,27 +146,27 @@
   },
   {
     "question": "協議",
-    "meaning": "（きょうぎ）hội nghị ( họp ) ( HIỆP NGHỊ )",
+    "meaning": "きょうぎ\nhội nghị ( họp ) ( HIỆP NGHỊ )",
     "furigana": ""
   },
   {
     "question": "腐敗する",
-    "meaning": "（ふはいする）mục nát ( thối rữa ) ( HỦ BẠI )",
+    "meaning": "ふはいする\nmục nát ( thối rữa ) ( HỦ BẠI )",
     "furigana": ""
   },
   {
     "question": "ビザを申請する",
-    "meaning": "（ビザをしんせいする）xin visa ( THÂN THỈNH )",
+    "meaning": "ビザをしんせいする\nxin visa ( THÂN THỈNH )",
     "furigana": ""
   },
   {
     "question": "ビザを発給する",
-    "meaning": "（ビザをはっきゅうする）cấp visa ( PHÁT CẤP )",
+    "meaning": "ビザをはっきゅうする\ncấp visa ( PHÁT CẤP )",
     "furigana": ""
   },
   {
     "question": "司法",
-    "meaning": "（しほう）tư pháp ( TƯ PHÁP )",
+    "meaning": "しほう\ntư pháp ( TƯ PHÁP )",
     "furigana": ""
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "question": "賠償を求める",
-    "meaning": "（ばいしょうをもとめる）yêu cầu bồi thường ( BỒI THƯỜNG )",
+    "meaning": "ばいしょうをもとめる\nyêu cầu bồi thường ( BỒI THƯỜNG )",
     "furigana": ""
   },
   {
@@ -186,17 +186,17 @@
   },
   {
     "question": "告訴する",
-    "meaning": "（こくそする）kiện cáo ( tố cáo ) ( CÁO TỐ )",
+    "meaning": "こくそする\nkiện cáo ( tố cáo ) ( CÁO TỐ )",
     "furigana": ""
   },
   {
     "question": "保障する",
-    "meaning": "（ほしょうする）bảo đảm ( BẢO CHƯỚNG )",
+    "meaning": "ほしょうする\nbảo đảm ( BẢO CHƯỚNG )",
     "furigana": ""
   },
   {
     "question": "基本的人権",
-    "meaning": "（きほんてきじんけん）quyền cơ bản của con người ( CƠ BẢN ĐÍCH NHÂN QUYỀN )",
+    "meaning": "きほんてきじんけん\nquyền cơ bản của con người ( CƠ BẢN ĐÍCH NHÂN QUYỀN )",
     "furigana": ""
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "question": "死刑の判決が下る",
-    "meaning": "（しけいのはんけつがくだる）lĩnh án tử hình ( TỬ HÌNH PHÁN QUYẾT )",
+    "meaning": "しけいのはんけつがくだる\nlĩnh án tử hình ( TỬ HÌNH PHÁN QUYẾT )",
     "furigana": ""
   },
   {
@@ -216,12 +216,12 @@
   },
   {
     "question": "懲役の判決が下る",
-    "meaning": "（ちょうえきのはんけつがくだる）lĩnh án phạt tù cải tạo ( TRỪNG DỊCH PHÁN QUYẾT )",
+    "meaning": "ちょうえきのはんけつがくだる\nlĩnh án phạt tù cải tạo ( TRỪNG DỊCH PHÁN QUYẾT )",
     "furigana": ""
   },
   {
     "question": "国家を形成する",
-    "meaning": "（こっかをけいせいする）hình thành quốc gia ( QUỐC GIA HÌNH THÀNH )",
+    "meaning": "こっかをけいせいする\nhình thành quốc gia ( QUỐC GIA HÌNH THÀNH )",
     "furigana": ""
   },
   {
@@ -231,12 +231,12 @@
   },
   {
     "question": "侵略する",
-    "meaning": "（しんりゃくする）xâm lược ( XÂM LƯỢC )",
+    "meaning": "しんりゃくする\nxâm lược ( XÂM LƯỢC )",
     "furigana": ""
   },
   {
     "question": "復興する",
-    "meaning": "（ふっこうする）khôi phục ( PHỤC HƯNG )",
+    "meaning": "ふっこうする\nkhôi phục ( PHỤC HƯNG )",
     "furigana": ""
   },
   {
@@ -246,27 +246,27 @@
   },
   {
     "question": "古代文明",
-    "meaning": "（こだいぶんめい）văn minh cổ đại ( CỔ ĐẠI VĂN MINH )",
+    "meaning": "こだいぶんめい\nvăn minh cổ đại ( CỔ ĐẠI VĂN MINH )",
     "furigana": ""
   },
   {
     "question": "衰退する",
-    "meaning": "（すいたいする）suy thoái ( SUY THOÁI )",
+    "meaning": "すいたいする\nsuy thoái ( SUY THOÁI )",
     "furigana": ""
   },
   {
     "question": "内線が起きる",
-    "meaning": "（ないせんがおきる）xảy ra nội chiến ( NỘI TUYẾN )",
+    "meaning": "ないせんがおきる\nxảy ra nội chiến ( NỘI TUYẾN )",
     "furigana": ""
   },
   {
     "question": "紛争が起きる",
-    "meaning": "（ふんそうがおきる）xảy ra tranh chấp ( PHÂN TRANH )",
+    "meaning": "ふんそうがおきる\nxảy ra tranh chấp ( PHÂN TRANH )",
     "furigana": ""
   },
   {
     "question": "国が東西に分断される",
-    "meaning": "（くにがとうざいにぶんだんされる）đất nước bị chia cắt đông tây",
+    "meaning": "くにがとうざいにぶんだんされる\nđất nước bị chia cắt đông tây",
     "furigana": ""
   },
   {
@@ -276,12 +276,12 @@
   },
   {
     "question": "発掘する",
-    "meaning": "（はっくつする）khai thác ( khai quật ) ( PHÁT QUẬT )",
+    "meaning": "はっくつする\nkhai thác ( khai quật ) ( PHÁT QUẬT )",
     "furigana": ""
   },
   {
     "question": "住居跡",
-    "meaning": "（じゅうきょあと）dấu tích cư trú ( TRÚ CƯ TÍCH )",
+    "meaning": "じゅうきょあと\ndấu tích cư trú ( TRÚ CƯ TÍCH )",
     "furigana": ""
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "question": "増強する",
-    "meaning": "（ぞうぎょうする）củng cố ( TĂNG CƯỜNG )",
+    "meaning": "ぞうぎょうする\ncủng cố ( TĂNG CƯỜNG )",
     "furigana": ""
   }
 ]

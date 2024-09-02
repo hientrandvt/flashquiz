@@ -1,232 +1,232 @@
 [
   {
     "question": "気象",
-    "meaning": "（きしょう）khí tượng",
+    "meaning": "きしょう\nkhí tượng",
     "furigana": ""
   },
   {
     "question": "気候",
-    "meaning": "（きこう）thời tiết",
+    "meaning": "きこう\nthời tiết",
     "furigana": ""
   },
   {
     "question": "集中豪雨が降る",
-    "meaning": "（しゅうちゅうごううがふる）mưa lớn cục bộ",
+    "meaning": "しゅうちゅうごううがふる\nmưa lớn cục bộ",
     "furigana": ""
   },
   {
     "question": "土砂降りの雨が降る",
-    "meaning": "（どしゃぶりのあめがふる）mưa xối xả ( như trút )",
+    "meaning": "どしゃぶりのあめがふる\nmưa xối xả ( như trút )",
     "furigana": ""
   },
   {
     "question": "強風が吹き荒れる",
-    "meaning": "（きょうふうがふきあれる）gió mạnh",
+    "meaning": "きょうふうがふきあれる\ngió mạnh",
     "furigana": ""
   },
   {
     "question": "突風が吹き荒れる",
-    "meaning": "（とっぷうがふきあれる）gió giật",
+    "meaning": "とっぷうがふきあれる\ngió giật",
     "furigana": ""
   },
   {
     "question": "暴風雨になる",
-    "meaning": "（ぼうふううになる）gió bão ( giông tố )",
+    "meaning": "ぼうふううになる\ngió bão ( giông tố )",
     "furigana": ""
   },
   {
     "question": "霧が立ち込める",
-    "meaning": "（きりがたちこめる）sương mù bao phủ",
+    "meaning": "きりがたちこめる\nsương mù bao phủ",
     "furigana": ""
   },
   {
     "question": "雪が降り積もる",
-    "meaning": "（ゆきがふりつもる）tuyết rơi dày",
+    "meaning": "ゆきがふりつもる\ntuyết rơi dày",
     "furigana": ""
   },
   {
     "question": "大雨洪水注意報",
-    "meaning": "（おおあめこうずいちゅういほう）cảnh báo mưa lũ",
+    "meaning": "おおあめこうずいちゅういほう\ncảnh báo mưa lũ",
     "furigana": ""
   },
   {
     "question": "大雨洪水警報が出る",
-    "meaning": "（おおあめこうずいけいほうがでる）cảnh báo mưa lũ",
+    "meaning": "おおあめこうずいけいほうがでる\ncảnh báo mưa lũ",
     "furigana": ""
   },
   {
     "question": "洪水注意報",
-    "meaning": "（こうずいちゅういほう）cảnh bảo lũ lụt",
+    "meaning": "こうずいちゅういほう\ncảnh bảo lũ lụt",
     "furigana": ""
   },
   {
     "question": "洪水警報が出る",
-    "meaning": "（こうずいけいほうがでる）cảnh báo lũ lụt",
+    "meaning": "こうずいけいほうがでる\ncảnh báo lũ lụt",
     "furigana": ""
   },
   {
     "question": "津波注意報",
-    "meaning": "（つなみちゅういほう）cảnh báo sóng thần",
+    "meaning": "つなみちゅういほう\ncảnh báo sóng thần",
     "furigana": ""
   },
   {
     "question": "津波警報が出る",
-    "meaning": "（つなみけいほうがでる）cảnh báo sóng thần",
+    "meaning": "つなみけいほうがでる\ncảnh báo sóng thần",
     "furigana": ""
   },
   {
     "question": "高温多湿な気候",
-    "meaning": "（こうおんたしつなきこう）khí hậu nóng ẩm",
+    "meaning": "こうおんたしつなきこう\nkhí hậu nóng ẩm",
     "furigana": ""
   },
   {
     "question": "温暖な気候",
-    "meaning": "（おんだんなきこう）khí hậu ấm áp",
+    "meaning": "おんだんなきこう\nkhí hậu ấm áp",
     "furigana": ""
   },
   {
     "question": "船が海峡を渡る",
-    "meaning": "（ふねがかいきょうをわたる）tàu vượt qua eo biển",
+    "meaning": "ふねがかいきょうをわたる\ntàu vượt qua eo biển",
     "furigana": ""
   },
   {
     "question": "船が海底に沈む",
-    "meaning": "（ふねがかいていにしずむ）tàu chìm xuống đáy biển",
+    "meaning": "ふねがかいていにしずむ\ntàu chìm xuống đáy biển",
     "furigana": ""
   },
   {
     "question": "砂浜に波が打ち寄せる",
-    "meaning": "（すなはまになみがうちよせる）sóng đánh vào bãi cát ( bờ )",
+    "meaning": "すなはまになみがうちよせる\nsóng đánh vào bãi cát ( bờ )",
     "furigana": ""
   },
   {
     "question": "海岸沿いのホテルに泊まる",
-    "meaning": "（かいがんぞいのホテルにとまる）trọ ở khách sạn ven biển",
+    "meaning": "かいがんぞいのホテルにとまる\ntrọ ở khách sạn ven biển",
     "furigana": ""
   },
   {
     "question": "広大な平野が広がる",
-    "meaning": "（こうだいなへいやがひろがる）đồng bằng rộng lớn",
+    "meaning": "こうだいなへいやがひろがる\nđồng bằng rộng lớn",
     "furigana": ""
   },
   {
     "question": "起伏が激しい山を登る",
-    "meaning": "（きふくがはげしいやまのぼる）leo ngọn núi trập trùng",
+    "meaning": "きふくがはげしいやまのぼる\nleo ngọn núi trập trùng",
     "furigana": ""
   },
   {
     "question": "日本は山地が多い",
-    "meaning": "（にほんはさんちがおおい）Nhật là nước nhiều núi",
+    "meaning": "にほんはさんちがおおい\nNhật là nước nhiều núi",
     "furigana": ""
   },
   {
     "question": "緩やかな傾斜",
-    "meaning": "（ゆるやかなけいしゃ）hơi nghiêng",
+    "meaning": "ゆるやかなけいしゃ\nhơi nghiêng",
     "furigana": ""
   },
   {
     "question": "緩やかな斜面",
-    "meaning": "（ゆるやかなしゃめん）hơi nghiêng",
+    "meaning": "ゆるやかなしゃめん\nhơi nghiêng",
     "furigana": ""
   },
   {
     "question": "緩やかな丘",
-    "meaning": "（ゆるやかなおか）",
+    "meaning": "ゆるやかなおか\n",
     "furigana": ""
   },
   {
     "question": "山の中腹まで登る",
-    "meaning": "（やまのちゅうふくまでのぼる）leo đến lưng chừng núi",
+    "meaning": "やまのちゅうふくまでのぼる\nleo đến lưng chừng núi",
     "furigana": ""
   },
   {
     "question": "山の山頂まで登る",
-    "meaning": "（やまのさんちょうまでのぼる）leo đến đỉnh núi",
+    "meaning": "やまのさんちょうまでのぼる\nleo đến đỉnh núi",
     "furigana": ""
   },
   {
     "question": "南半球に位置する",
-    "meaning": "（みなみはんきゅうにいちする）nam bán cầu",
+    "meaning": "みなみはんきゅうにいちする\nnam bán cầu",
     "furigana": ""
   },
   {
     "question": "北半球に位置する",
-    "meaning": "（きたはんきゅうにいちする）bắc bán cầu",
+    "meaning": "きたはんきゅうにいちする\nbắc bán cầu",
     "furigana": ""
   },
   {
     "question": "天体",
-    "meaning": "（てんたい）thiên thể",
+    "meaning": "てんたい\nthiên thể",
     "furigana": ""
   },
   {
     "question": "日の出",
-    "meaning": "（ひので）bình minh",
+    "meaning": "ひので\nbình minh",
     "furigana": ""
   },
   {
     "question": "日の入り",
-    "meaning": "（ひのいり）hoàng hôn",
+    "meaning": "ひのいり\nhoàng hôn",
     "furigana": ""
   },
   {
     "question": "日没",
-    "meaning": "（にちぼつ）hoàng hôn",
+    "meaning": "にちぼつ\nhoàng hôn",
     "furigana": ""
   },
   {
     "question": "金星",
-    "meaning": "（きんせい）kim tinh",
+    "meaning": "きんせい\nkim tinh",
     "furigana": ""
   },
   {
     "question": "火星",
-    "meaning": "（かせい）thủy tinh",
+    "meaning": "かせい\nthủy tinh",
     "furigana": ""
   },
   {
     "question": "木星",
-    "meaning": "（もくせい）mộc tinh",
+    "meaning": "もくせい\nmộc tinh",
     "furigana": ""
   },
   {
     "question": "水星",
-    "meaning": "（すいせい）thủy tinh",
+    "meaning": "すいせい\nthủy tinh",
     "furigana": ""
   },
   {
     "question": "土星",
-    "meaning": "（どせい）thổ tinh",
+    "meaning": "どせい\nthổ tinh",
     "furigana": ""
   },
   {
     "question": "惑星",
-    "meaning": "（わくせい）hành tinh",
+    "meaning": "わくせい\nhành tinh",
     "furigana": ""
   },
   {
     "question": "衛星",
-    "meaning": "（えいせい）vệ tinh",
+    "meaning": "えいせい\nvệ tinh",
     "furigana": ""
   },
   {
     "question": "星座を見る",
-    "meaning": "（せいざをみる）ngắm chòm sao",
+    "meaning": "せいざをみる\nngắm chòm sao",
     "furigana": ""
   },
   {
     "question": "天体観測する",
-    "meaning": "（てんたいかんそくする）quan sát thiên thể",
+    "meaning": "てんたいかんそくする\nquan sát thiên thể",
     "furigana": ""
   },
   {
     "question": "満月が出る",
-    "meaning": "（まんげつがでる）trăng rằm",
+    "meaning": "まんげつがでる\ntrăng rằm",
     "furigana": ""
   },
   {
     "question": "三日月が出る",
-    "meaning": "（みかづきがでる）trăng khuyết ( lưỡi liềm )",
+    "meaning": "みかづきがでる\ntrăng khuyết ( lưỡi liềm )",
     "furigana": ""
   }
 ]

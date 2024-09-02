@@ -1,12 +1,12 @@
 [
   {
     "question": "几帳面な",
-    "meaning": "（きちょうめんな）cẩn thận",
+    "meaning": "きちょうめんな\ncẩn thận",
     "furigana": ""
   },
   {
     "question": "大ざっぱな",
-    "meaning": "（おおざっぱな）cẩu thả",
+    "meaning": "おおざっぱな\ncẩu thả",
     "furigana": ""
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "question": "雑な",
-    "meaning": "（ざつな）luộm thuộm",
+    "meaning": "ざつな\nluộm thuộm",
     "furigana": ""
   },
   {
     "question": "いい加減な",
-    "meaning": "（いいかげんな）bông đùa , dối trá",
+    "meaning": "いいかげんな\nbông đùa , dối trá",
     "furigana": ""
   },
   {
@@ -31,62 +31,62 @@
   },
   {
     "question": "勤勉な",
-    "meaning": "（きんべんな）cần cù , chăm chỉ",
+    "meaning": "きんべんな\ncần cù , chăm chỉ",
     "furigana": ""
   },
   {
     "question": "生真面目な",
-    "meaning": "（きまじめな）thật thà",
+    "meaning": "きまじめな\nthật thà",
     "furigana": ""
   },
   {
     "question": "不真面目な",
-    "meaning": "（ふまじめな）không đứng đắn",
+    "meaning": "ふまじめな\nkhông đứng đắn",
     "furigana": ""
   },
   {
     "question": "品がいい",
-    "meaning": "（ひんがいい）tốt bụng",
+    "meaning": "ひんがいい\ntốt bụng",
     "furigana": ""
   },
   {
     "question": "上品な",
-    "meaning": "（じょうひんな）tao nhã , lịch thiệp",
+    "meaning": "じょうひんな\ntao nhã , lịch thiệp",
     "furigana": ""
   },
   {
     "question": "気品がある",
-    "meaning": "（きひんがある）thanh lịch",
+    "meaning": "きひんがある\nthanh lịch",
     "furigana": ""
   },
   {
     "question": "品が悪い",
-    "meaning": "（ひんがわるい）xấu tính",
+    "meaning": "ひんがわるい\nxấu tính",
     "furigana": ""
   },
   {
     "question": "下品な",
-    "meaning": "（げひんな）khiếm nhã",
+    "meaning": "げひんな\nkhiếm nhã",
     "furigana": ""
   },
   {
     "question": "融通が利く",
-    "meaning": "（ゆうずうがきく）đa tài",
+    "meaning": "ゆうずうがきく\nđa tài",
     "furigana": ""
   },
   {
     "question": "素直な",
-    "meaning": "（すなおな）dễ tính",
+    "meaning": "すなおな\ndễ tính",
     "furigana": ""
   },
   {
     "question": "頑固な",
-    "meaning": "（がんこな）bảo thủ",
+    "meaning": "がんこな\nbảo thủ",
     "furigana": ""
   },
   {
     "question": "冷淡な",
-    "meaning": "（れいたんな）lãnh đạm , thờ ơ",
+    "meaning": "れいたんな\nlãnh đạm , thờ ơ",
     "furigana": ""
   },
   {
@@ -101,172 +101,172 @@
   },
   {
     "question": "冷酷な",
-    "meaning": "（れいこくな）lạnh lùng , cục cằn",
+    "meaning": "れいこくな\nlạnh lùng , cục cằn",
     "furigana": ""
   },
   {
     "question": "愛想がいい",
-    "meaning": "（あいそうがいい）nhã nhặn",
+    "meaning": "あいそうがいい\nnhã nhặn",
     "furigana": ""
   },
   {
     "question": "無愛想な",
-    "meaning": "（ぶあいそうな）khó gần",
+    "meaning": "ぶあいそうな\nkhó gần",
     "furigana": ""
   },
   {
     "question": "社交的な",
-    "meaning": "（しゃこうてきな）hòa đồng",
+    "meaning": "しゃこうてきな\nhòa đồng",
     "furigana": ""
   },
   {
     "question": "非社交的な",
-    "meaning": "（ひしゃこうてきな）khó gần",
+    "meaning": "ひしゃこうてきな\nkhó gần",
     "furigana": ""
   },
   {
     "question": "楽観的な",
-    "meaning": "（らっかんてきな）lạc quan",
+    "meaning": "らっかんてきな\nlạc quan",
     "furigana": ""
   },
   {
     "question": "悲観的な",
-    "meaning": "（ひかんてきな）bi quan",
+    "meaning": "ひかんてきな\nbi quan",
     "furigana": ""
   },
   {
     "question": "誠実な人柄",
-    "meaning": "（せいじつなひとがら）thành thật",
+    "meaning": "せいじつなひとがら\nthành thật",
     "furigana": ""
   },
   {
     "question": "真摯な人柄",
-    "meaning": "（しんしなひとがら）nghiêm túc",
+    "meaning": "しんしなひとがら\nnghiêm túc",
     "furigana": ""
   },
   {
     "question": "温和な人柄",
-    "meaning": "（おんわなひとがら）ôn hòa",
+    "meaning": "おんわなひとがら\nôn hòa",
     "furigana": ""
   },
   {
     "question": "寛容な人柄",
-    "meaning": "（かんようなひとがら）bao dung",
+    "meaning": "かんようなひとがら\nbao dung",
     "furigana": ""
   },
   {
     "question": "謙虚な人柄",
-    "meaning": "（けんきょなひとがら）khiêm tốn",
+    "meaning": "けんきょなひとがら\nkhiêm tốn",
     "furigana": ""
   },
   {
     "question": "気さくな人柄",
-    "meaning": "（きさくなひとがら）cởi mở , thẳng thắn",
+    "meaning": "きさくなひとがら\ncởi mở , thẳng thắn",
     "furigana": ""
   },
   {
     "question": "ユニークな個性",
-    "meaning": "（ユニークなこせい）độc đáo",
+    "meaning": "ユニークなこせい\nđộc đáo",
     "furigana": ""
   },
   {
     "question": "独特の個性",
-    "meaning": "（どくとくのこせい）độc đáo",
+    "meaning": "どくとくのこせい\nđộc đáo",
     "furigana": ""
   },
   {
     "question": "強烈な個性",
-    "meaning": "（きょうれつなこせい）mạnh mẽ , quyết liệt",
+    "meaning": "きょうれつなこせい\nmạnh mẽ , quyết liệt",
     "furigana": ""
   },
   {
     "question": "個性が表れる・出る・際立つ・目立つ",
-    "meaning": "（こせいがあらわれる・でる・きわだつ・めだつ）thể hiện cá tính",
+    "meaning": "こせいがあらわれる・でる・きわだつ・めだつ\nthể hiện cá tính",
     "furigana": ""
   },
   {
     "question": "個性を生かす・磨く・重んじる・育む",
-    "meaning": "（こせいをいかす・みがく・おもんじる・はぐくむ）ấp ủ , nuôi dưỡng cá tính",
+    "meaning": "こせいをいかす・みがく・おもんじる・はぐくむ\nấp ủ , nuôi dưỡng cá tính",
     "furigana": ""
   },
   {
     "question": "人に懐く",
-    "meaning": "（ひとになつく）trở nên thân thiết",
+    "meaning": "ひとになつく\ntrở nên thân thiết",
     "furigana": ""
   },
   {
     "question": "人に好意を持つ",
-    "meaning": "（ひとにこういをもつ）có cảm tình",
+    "meaning": "ひとにこういをもつ\ncó cảm tình",
     "furigana": ""
   },
   {
     "question": "人に共感する",
-    "meaning": "（ひとにきょうかんする）thông cảm",
+    "meaning": "ひとにきょうかんする\nthông cảm",
     "furigana": ""
   },
   {
     "question": "人に同情する",
-    "meaning": "（ひとにどうじょうする）thông cảm",
+    "meaning": "ひとにどうじょうする\nthông cảm",
     "furigana": ""
   },
   {
     "question": "人に反発する",
-    "meaning": "（ひとはんぱつする）cự tuyệt",
+    "meaning": "ひとはんぱつする\ncự tuyệt",
     "furigana": ""
   },
   {
     "question": "人に反感を持つ",
-    "meaning": "（ひとにはんかんをもつ）ác cảm",
+    "meaning": "ひとにはんかんをもつ\nác cảm",
     "furigana": ""
   },
   {
     "question": "人に猛反対する",
-    "meaning": "（ひとにもうはんたいする）ác cảm",
+    "meaning": "ひとにもうはんたいする\nác cảm",
     "furigana": ""
   },
   {
     "question": "人にしっとする",
-    "meaning": "（ひとにしっとする）ghem ghét",
+    "meaning": "ひとにしっとする\nghem ghét",
     "furigana": ""
   },
   {
     "question": "人に気兼ねする",
-    "meaning": "（ひとにきがねする）khách khí",
+    "meaning": "ひとにきがねする\nkhách khí",
     "furigana": ""
   },
   {
     "question": "人を慕う",
-    "meaning": "（ひとをしたう）hâm mộ",
+    "meaning": "ひとをしたう\nhâm mộ",
     "furigana": ""
   },
   {
     "question": "人を崇拝する",
-    "meaning": "（ひとをすうはいする）hâm mộ",
+    "meaning": "ひとをすうはいする\nhâm mộ",
     "furigana": ""
   },
   {
     "question": "人をいたわる",
-    "meaning": "（ひとをいたわる）an ủi",
+    "meaning": "ひとをいたわる\nan ủi",
     "furigana": ""
   },
   {
     "question": "人を励ます",
-    "meaning": "（ひとをはげます）an ủi",
+    "meaning": "ひとをはげます\nan ủi",
     "furigana": ""
   },
   {
     "question": "人を傷つける",
-    "meaning": "（ひとをきずつける）làm tổn thương",
+    "meaning": "ひとをきずつける\nlàm tổn thương",
     "furigana": ""
   },
   {
     "question": "人を中傷する",
-    "meaning": "（ひとをちゅうしょうする）phỉ báng",
+    "meaning": "ひとをちゅうしょうする\nphỉ báng",
     "furigana": ""
   },
   {
     "question": "人を侮辱する",
-    "meaning": "（ひとをぶじょくする）lăng mạ , xỉ nhục",
+    "meaning": "ひとをぶじょくする\nlăng mạ , xỉ nhục",
     "furigana": ""
   },
   {
@@ -281,12 +281,12 @@
   },
   {
     "question": "人を軽べつする",
-    "meaning": "（ひとをけいべつする）coi thường , khinh miệt",
+    "meaning": "ひとをけいべつする\ncoi thường , khinh miệt",
     "furigana": ""
   },
   {
     "question": "人をあざ笑う",
-    "meaning": "（ひとをあざわらう）nhạo báng , giễu cợt",
+    "meaning": "ひとをあざわらう\nnhạo báng , giễu cợt",
     "furigana": ""
   }
 ]
