@@ -6,17 +6,17 @@
   },
   {
     "question": "凝る",
-    "meaning": "こる 1. Chăm chú, say mê2. Cầu kỳ, trau chuốt, tinh tế3. Cứng đờ, ê ẩm, mỏi ( cơ thể)",
+    "meaning": "こる ① Chăm chú, say mê ② Cầu kỳ, trau chuốt, tinh tế ③ Cứng đờ, ê ẩm, mỏi ( cơ thể)",
     "furigana": ""
   },
   {
     "question": "募る",
-    "meaning": "つのる 1. Chiêu mộ, kêu gọi ( người tham gia, đầu tư), thu hút người tham gia2. Trưng cầu, xin ý kiến3. Ngày càng mạnh, dự dội hơn ( cảm xúc)",
+    "meaning": "つのる ① Chiêu mộ, kêu gọi ( người tham gia, đầu tư), thu hút người tham gia ② Trưng cầu, xin ý kiến③ Ngày càng mạnh, dự dội hơn ( cảm xúc)",
     "furigana": ""
   },
   {
     "question": "もたらす",
-    "meaning": "1. Đem lại, mang lại2. Gây ra, tạo ra",
+    "meaning": "① Đem lại, mang lại ② Gây ra, tạo ra",
     "furigana": ""
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "question": "冷やかす",
-    "meaning": "ひやかす 1. Chọc ghẹo2. Xem mà không mua",
+    "meaning": "ひやかす ① Chọc ghẹo ② Xem mà không mua",
     "furigana": ""
   },
   {
@@ -71,17 +71,17 @@
   },
   {
     "question": "浸す",
-    "meaning": "ひたす 1. Ngâm2. Tràn ngập",
+    "meaning": "ひたす ① Ngâm ② Tràn ngập",
     "furigana": ""
   },
   {
     "question": "とどめる",
-    "meaning": "1. Dừng, ngăn, giữ ( ở mức tối thiểu)2. Giữ lại, lưu lại",
+    "meaning": "① Dừng, ngăn, giữ ( ở mức tối thiểu) ② Giữ lại, lưu lại",
     "furigana": ""
   },
   {
     "question": "漂う",
-    "meaning": "ただよう 1. Trôi nổi2. Lang thang3.1. Phảng phất ( mùi hương)3.2. Bao phủ, ngập tràn ( bầu không khí)",
+    "meaning": "ただよう ① Trôi nổi ② Lang thang ③ Phảng phất ( mùi hương) ④ Bao phủ, ngập tràn ( bầu không khí)",
     "furigana": ""
   },
   {
@@ -101,17 +101,17 @@
   },
   {
     "question": "慎む",
-    "meaning": "つつしむ 1. Cẩn trọng, cẩn thận2. Hạn chế",
+    "meaning": "つつしむ ① Cẩn trọng, cẩn thận ② Hạn chế",
     "furigana": ""
   },
   {
     "question": "とがめる",
-    "meaning": "1. Khiển trách2. Tự cảm thấy có lỗi, cắn rứt lương tâm",
+    "meaning": "① Khiển trách ② Tự cảm thấy có lỗi, cắn rứt lương tâm",
     "furigana": ""
   },
   {
     "question": "仕切る",
-    "meaning": "しきる 1. Quản lý, điều hành2. Phân chia, ngăn cách",
+    "meaning": "しきる ① Quản lý, điều hành ② Phân chia, ngăn cách",
     "furigana": ""
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "question": "遮る",
-    "meaning": "さえぎる 1. Che, chắn2. Cắt ngang",
+    "meaning": "さえぎる ① Che, chắn ② Cắt ngang",
     "furigana": ""
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "question": "しなびる",
-    "meaning": "1. ( Da) nhăn nheo2. ( Hoa, cây cối) héo úa",
+    "meaning": "① ( Da) nhăn nheo ② ( Hoa, cây cối) héo úa",
     "furigana": ""
   },
   {
@@ -146,12 +146,12 @@
   },
   {
     "question": "構える",
-    "meaning": "かまえる 1. Chuẩn bị tư thế2. Dưng, lập",
+    "meaning": "かまえる ① Chuẩn bị tư thế ② Dưng, lập",
     "furigana": ""
   },
   {
     "question": "浚う",
-    "meaning": "TUẤN さらう 1. Nạo, vét2. Mang đi, bắt cóc",
+    "meaning": "TUẤN さらう ① Nạo, vét ② Mang đi, bắt cóc",
     "furigana": ""
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "question": "経る",
-    "meaning": "へる 1. Kinh qua, trải qua2. Đi qua, quá cảnh",
+    "meaning": "へる ① Kinh qua, trải qua ② Đi qua, quá cảnh",
     "furigana": ""
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "question": "襲う",
-    "meaning": "おそう 1. Công kích, tấn công2. Ập tới",
+    "meaning": "おそう ① Công kích, tấn công ② Ập tới",
     "furigana": ""
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "question": "背く",
-    "meaning": "そむく 1. Làm trái lại, bất tuân, chống lại ( mệnh lệnh)2. Phụ lòng ( kỳ vọng)",
+    "meaning": "そむく ① Làm trái lại, bất tuân, chống lại ( mệnh lệnh) ② Phụ lòng ( kỳ vọng)",
     "furigana": ""
   },
   {
@@ -221,17 +221,17 @@
   },
   {
     "question": "弛む",
-    "meaning": "たるむ 1. ( Dây) bị chùng, (da) bị chảy xệ2. ( Tâm trạng, ý thức) buông lỏng",
+    "meaning": "たるむ ① ( Dây) bị chùng, (da) bị chảy xệ ② ( Tâm trạng, ý thức) buông lỏng",
     "furigana": ""
   },
   {
     "question": "臨む",
-    "meaning": "のぞむ 1. Nhìn ra, hướng ra2. Đối mặt với ( Nguy hiểm, sự chia ly)3. Đương đầu",
+    "meaning": "のぞむ ① Nhìn ra, hướng ra ② Đối mặt với ( Nguy hiểm, sự chia ly)③ Đương đầu",
     "furigana": ""
   },
   {
     "question": "研ぐ",
-    "meaning": "とぐ 1. Mài ( dao)2. Vo gạo",
+    "meaning": "とぐ ① Mài ( dao) ② Vo gạo",
     "furigana": ""
   },
   {

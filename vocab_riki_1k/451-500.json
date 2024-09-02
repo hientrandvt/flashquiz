@@ -1,12 +1,12 @@
 [
   {
     "question": "はじく",
-    "meaning": "1. Không thấm ( nước...)2. Không chấp nhận những thứ không đủ điều kiện",
+    "meaning": "① Không thấm ( nước...) ② Không chấp nhận những thứ không đủ điều kiện",
     "furigana": ""
   },
   {
     "question": "しくじる",
-    "meaning": "1. Thất bại 2. Bị cách chức, bị sa thải",
+    "meaning": "① Thất bại ② Bị cách chức, bị sa thải",
     "furigana": ""
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "question": "滲む",
-    "meaning": "にじむ 1. Bị nhoè, bị loang, bị lan rộng ( chất lỏng)2. Toát ra",
+    "meaning": "にじむ ① Bị nhoè, bị loang, bị lan rộng ( chất lỏng)② Toát ra",
     "furigana": ""
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "question": "交える",
-    "meaning": "まじえる 1. Đan xen, xen lẫn2. Kết hợp, trao đổi",
+    "meaning": "まじえる ① Đan xen, xen lẫn ② Kết hợp, trao đổi",
     "furigana": ""
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "question": "覆る",
-    "meaning": "くつがえる 1. Lật ngược 2. Lật lại, xem lại",
+    "meaning": "くつがえる ① Lật ngược ② Lật lại, xem lại",
     "furigana": ""
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "question": "施す",
-    "meaning": "ほどこす 1. Thi hành, thực hiện2. Từ thiệu, giúp đỡ3. Đính thêm, gắn thêm ( trang trí)",
+    "meaning": "ほどこす ① Thi hành, thực hiện ② Từ thiệu, giúp đỡ ③ Đính thêm, gắn thêm ( trang trí)",
     "furigana": ""
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "question": "掲げる",
-    "meaning": "かかげる 1. Gương lên, treo lên2. Nêu lên",
+    "meaning": "かかげる ① Gương lên, treo lên ② Nêu lên",
     "furigana": ""
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "question": "挙げる",
-    "meaning": "あげる 1. Giơ lên, đưa lên2. Nêu ra, đưa ra, đề cử3. Dốc hết4. Tổ chức nghi lễ, nghi thức ( trước nhiều người)",
+    "meaning": "あげる ① Giơ lên, đưa lên ② Nêu ra, đưa ra, đề cử ③ Dốc hết ④Tổ chức nghi lễ, nghi thức ( trước nhiều người)",
     "furigana": ""
   },
   {
@@ -116,12 +116,12 @@
   },
   {
     "question": "歩む",
-    "meaning": "あゆむ 1. Bước đi 2. Tiến lên, bước đi, trải qua ( nghĩa trừu tượng)",
+    "meaning": "あゆむ ① Bước đi ② Tiến lên, bước đi, trải qua ( nghĩa trừu tượng)",
     "furigana": ""
   },
   {
     "question": "なぞる",
-    "meaning": "1. Tô theo, vẽ theo ( mẫu có sẵn)2. Bắt chước lại",
+    "meaning": "① Tô theo, vẽ theo ( mẫu có sẵn) ② Bắt chước lại",
     "furigana": ""
   },
   {
@@ -136,22 +136,22 @@
   },
   {
     "question": "極める",
-    "meaning": "きわめる 1. Cực kỳ, vô cùng 2. Chinh phục",
+    "meaning": "きわめる ① Cực kỳ, vô cùng ② Chinh phục",
     "furigana": ""
   },
   {
     "question": "潤う",
-    "meaning": "うるおう 1. Ẩm ướt 2. Cảm động và thoải mái, mãn nguyện3. Có lợi ( về kinh tế)",
+    "meaning": "うるおう ① Ẩm ướt ② Cảm động và thoải mái, mãn nguyện ③ Có lợi ( về kinh tế)",
     "furigana": ""
   },
   {
     "question": "遡る",
-    "meaning": "さかのぼる 1. Đi ngược dòng2. Quay về quá khứ, cội nguồn",
+    "meaning": "さかのぼる ① Đi ngược dòng ② Quay về quá khứ, cội nguồn",
     "furigana": ""
   },
   {
     "question": "仰ぐ",
-    "meaning": "あおぐ 1. Ngước lên 2. Ngưỡng mộ, tôn kính3. Thỉnh giáo, hỏi ý kiến",
+    "meaning": "あおぐ ① Ngước lên ② Ngưỡng mộ, tôn kính ③ Thỉnh giáo, hỏi ý kiến",
     "furigana": ""
   },
   {
@@ -171,17 +171,17 @@
   },
   {
     "question": "委ねる",
-    "meaning": "ゆだねる 1. Giao phó2. Dựa vào",
+    "meaning": "ゆだねる ① Giao phó② Dựa vào",
     "furigana": ""
   },
   {
     "question": "歪む",
-    "meaning": "ゆがむ 1. Biến dạng2. Sai lệch, méo mó2. Lệch lạc ( suy nghĩ, hành động)",
+    "meaning": "ゆがむ ① Biến dạng ② Sai lệch, méo mó ③ Lệch lạc ( suy nghĩ, hành động)",
     "furigana": ""
   },
   {
     "question": "装う",
-    "meaning": "よそおう 1. Làm đẹp, trang trí2. Giả vờ",
+    "meaning": "よそおう ① Làm đẹp, trang trí② Giả vờ",
     "furigana": ""
   },
   {
@@ -201,12 +201,12 @@
   },
   {
     "question": "漏れる",
-    "meaning": "もれる 1. Rò rỉ, lọt ra ngoài, để lộ2. bị sót, bị lọt, bị thiếu",
+    "meaning": "もれる ① Rò rỉ, lọt ra ngoài, để lộ　② bị sót, bị lọt, bị thiếu",
     "furigana": ""
   },
   {
     "question": "響く",
-    "meaning": "ひびく 1. Vang lên, vọng lại 2. Chạm đến ( trái tim)3. Ảnh hưởng",
+    "meaning": "ひびく ① Vang lên, vọng lại ② Chạm đến ( trái tim) ③ Ảnh hưởng",
     "furigana": ""
   },
   {
@@ -236,7 +236,7 @@
   },
   {
     "question": "促す",
-    "meaning": "うながす 1. Thúc giục, hối thúc2. Thúc đẩy3. Kêu gọi, khuyến khích, lưu ý, nhắc nhở",
+    "meaning": "うながす ① Thúc giục, hối thúc ② Thúc đẩy ③ Kêu gọi, khuyến khích, lưu ý, nhắc nhở",
     "furigana": ""
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "question": "粘る",
-    "meaning": "ねばる 1. Dính, dai2. Kiên trì, bền bỉ3. Đeo bám , nhây",
+    "meaning": "ねばる ① Dính, dai ② Kiên trì, bền bỉ ③ Đeo bám , nhây",
     "furigana": ""
   }
 ]

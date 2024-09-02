@@ -51,7 +51,7 @@
   },
   {
     "question": "加味",
-    "meaning": "かみ 1. Thêm gia vị2. Thêm yếu tố khác ( để đánh giá, quyết định)",
+    "meaning": "かみ ①  Thêm gia vị ② Thêm yếu tố khác ( để đánh giá, quyết định)",
     "furigana": ""
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "question": "細工",
-    "meaning": "さいく 1. Gia công, chế tác ( Đòi hỏi sự tỉ mỉ làm bằng tay)2.Thủ thuật nhỏ, lươn lẹo ( lừa gạt)",
+    "meaning": "さいく ① Gia công, chế tác ( Đòi hỏi sự tỉ mỉ làm bằng tay) ②Thủ thuật nhỏ, lươn lẹo ( lừa gạt)",
     "furigana": ""
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "question": "経路",
-    "meaning": "けいろ 1. Con đường2. Con đường (nghĩa bóng)",
+    "meaning": "けいろ ① Con đường ② Con đường (nghĩa bóng)",
     "furigana": ""
   },
   {
     "question": "設置",
-    "meaning": "せっち 1. Trang bị, lắp đặt ( máy móc)2. Thiết lập ( cơ sở, tổ chức)",
+    "meaning": "せっち ① Trang bị, lắp đặt ( máy móc) ② Thiết lập ( cơ sở, tổ chức)",
     "furigana": ""
   },
   {
@@ -150,8 +150,8 @@
     "furigana": ""
   },
   {
-    "question": "普及",
-    "meaning": "ふきゅう Khủng hoảng, suy thoái kinh tế",
+    "question": "不況",
+    "meaning": "ふきょう Khủng hoảng, suy thoái kinh tế",
     "furigana": ""
   },
   {
@@ -186,17 +186,17 @@
   },
   {
     "question": "実況",
-    "meaning": "じっきょう Tình hình thực tế",
+    "meaning": "じっきょう Tình hình thực tế　(thường dùng với ý phát sóng trực tiếp)",
     "furigana": ""
   },
   {
     "question": "実験",
-    "meaning": "じっけん Thực quyền",
+    "meaning": "じっけん Thực quyền　（Quyền lực thực sự có, chứ không phải mang tính hình thức）",
     "furigana": ""
   },
   {
     "question": "実在",
-    "meaning": "じつさい Có thực",
+    "meaning": "じつさい Có thực (Tồn tại trong thực tế. Là thứ có thực ở hiện tại)",
     "furigana": ""
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "question": "大家",
-    "meaning": "1. おおや：chủ nhà2.たいか： Chuyên gia, bậc thầy",
+    "meaning": "①おおや：chủ nhà  ②たいか： Chuyên gia, bậc thầy",
     "furigana": ""
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "question": "大口",
-    "meaning": "おおぐち 1.(Quy mô, giá trị) lớn2. Nói quá, to mồm",
+    "meaning": "おおぐち ①(Quy mô, giá trị) lớn ② Nói quá, to mồm",
     "furigana": ""
   }
 ]

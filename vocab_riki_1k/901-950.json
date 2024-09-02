@@ -11,12 +11,12 @@
   },
   {
     "question": "如何に",
-    "meaning": "いかに 1. Như thế nào bằng cách nào2. Dù (khó khăn, vất vả)như thế nào đi chăng nữa",
+    "meaning": "いかに ① Như thế nào bằng cách nào ② Dù (khó khăn, vất vả)như thế nào đi chăng nữa",
     "furigana": ""
   },
   {
     "question": "ずばり",
-    "meaning": "1. Nói thẳng vào (trọng tâm) 2. Cắt dứt khoát, gọn gàng3. Trúng phốc",
+    "meaning": "① Nói thẳng vào (trọng tâm)  ② Cắt dứt khoát, gọn gàng ③ Trúng phốc",
     "furigana": ""
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "question": "断然",
-    "meaning": "だんぜん 1. Hơn hẳn, áp đảo2. Hoàn toàn, tuyệt nhiên",
+    "meaning": "だんぜん ① Hơn hẳn, áp đảo ② Hoàn toàn, tuyệt nhiên",
     "furigana": ""
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "question": "ちらほら",
-    "meaning": "1. Đó đây, lác đác2. Thi thoảng, đôi",
+    "meaning": "① Đó đây, lác đác ② Thi thoảng, đôi",
     "furigana": ""
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "question": "ぼそぼそ",
-    "meaning": "1. Nói lí nhí2. Khô khan, khô khốc ( đồ ăn)",
+    "meaning": "① Nói lí nhí ② Khô khan, khô khốc ( đồ ăn)",
     "furigana": ""
   },
   {
     "question": "やまやま",
-    "meaning": "1. Nhiều ( như núi)2. Rất, mãnh liệt",
+    "meaning": "① Nhiều ( như núi) ② Rất, mãnh liệt",
     "furigana": ""
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "question": "悠々",
-    "meaning": "ゆうゆう 1. Ung dung, nhàn nhã, thong thả2. Dư, thừa",
+    "meaning": "ゆうゆう ① Ung dung, nhàn nhã, thong thả ② Dư, thừa",
     "furigana": ""
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "question": "ぱたり",
-    "meaning": "1. Bộp, cạch ( Tiếng va chạm, đóng nhẹ)2. Ngừng, ngắt đột ngột",
+    "meaning": "① Bộp, cạch ( Tiếng va chạm, đóng nhẹ) ② Ngừng, ngắt đột ngột",
     "furigana": ""
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "question": "どしどし",
-    "meaning": "1. Liên tiếp2. Thoải mái, không khách khí",
+    "meaning": "① Liên tiếp ② Thoải mái, không khách khí",
     "furigana": ""
   },
   {
@@ -151,22 +151,22 @@
   },
   {
     "question": "うかうか",
-    "meaning": "1. Bất cẩn, sơ suất, lơ đễnh2. Thong thả, lơ là",
+    "meaning": "① Bất cẩn, sơ suất, lơ đễnh ② Thong thả, lơ là",
     "furigana": ""
   },
   {
     "question": "すいすい",
-    "meaning": "1. Trơn tru, băng băng2. suôn sẻ, trôi chảy",
+    "meaning": "① Trơn tru, băng băng ② suôn sẻ, trôi chảy",
     "furigana": ""
   },
   {
     "question": "さばさば",
-    "meaning": "1. Nhẹ nhõm2. Vô tư, không câu nệ, thẳng thắn",
+    "meaning": "① Nhẹ nhõm ② Vô tư, không câu nệ, thẳng thắn",
     "furigana": ""
   },
   {
     "question": "ごたごた",
-    "meaning": "1. Lộn xộn, lung tung2. Rắc rối, hỗn loạn",
+    "meaning": "① Lộn xộn, lung tung ② Rắc rối, hỗn loạn",
     "furigana": ""
   },
   {
