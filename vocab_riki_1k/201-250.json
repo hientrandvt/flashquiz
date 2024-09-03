@@ -11,12 +11,12 @@
   },
   {
     "question": "探知",
-    "meaning": "たんち \nTìm kiếm, phát hiện",
+    "meaning": "たんち \nTìm kiếm, phát hiện(Sử dụng máy móc để tìm kiếm những thứ đang bị ẩn giấu)",
     "furigana": ""
   },
   {
     "question": "変換",
-    "meaning": "へんかん \nChuyển đổi, giao hoán",
+    "meaning": "へんかん \nChuyển đổi, giao hoán \nファイル変換、充電器変換:File, đồ sạc điện",
     "furigana": ""
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "question": "供与",
-    "meaning": "きょうよ \nCung cấp, cấp pháp",
+    "meaning": "きょうよ \nCung cấp, cấp pháp(vật phẩm hay lợi ích mà đối phương mong muốn)\n食料、栄養、物を提供する:cung cấp đồ ăn/ dinh dưỡng/ đồ vật",
     "furigana": ""
   },
   {
     "question": "波及",
-    "meaning": "はきゅう \nLan truyền, lan rộng",
+    "meaning": "はきゅう \nLan truyền, lan rộng (Sự việc tốt/xấu lan truyền trong phạm vi rộng lớn)",
     "furigana": ""
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "question": "見通し",
-    "meaning": "みとおし \n① Tầm nhìn ( xa)\n② Dự đoán",
+    "meaning": "みとおし \n① Tầm nhìn ( xa)\n② Dự đoán\n見通しが立つ:Có triển vọng",
     "furigana": ""
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "question": "素振り",
-    "meaning": "そぶり \nDáng vẻ, trông có vẻ",
+    "meaning": "そぶり \nDáng vẻ, trông có vẻ\n彼は映画に興味ありそうな素振りを見せた",
     "furigana": ""
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "question": "変形",
-    "meaning": "へんけい \nBiến hình, biến dạng",
+    "meaning": "へんけい \nBiến hình, biến dạng(Việc thay đổi trạng thái, hình dạng)\nこの素材は熱で変形するのが普通だ",
     "furigana": ""
   },
   {
@@ -121,12 +121,12 @@
   },
   {
     "question": "隣接",
-    "meaning": "りんせつ \nTiếp giáp, giáp ranh, liền kề, kế bên",
+    "meaning": "りんせつ \nTiếp giáp, giáp ranh, liền kề, kế bên\n隣接国:Nước láng giềng",
     "furigana": ""
   },
   {
     "question": "近接",
-    "meaning": "きんせつ \nTiếp cận, tới gần",
+    "meaning": "きんせつ \nTiếp cận, tới gần\n週末に台風が太平洋側に接近の恐れ。上陸の可能性も",
     "furigana": ""
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "question": "排出",
-    "meaning": "はいしゅつ \n① Xả thải ra\n② Bài tiết, thải ra\n二酸化炭素(CO2)排出量\n汗は皮膚から排出されます",
+    "meaning": "はいしゅつ \n① Xả thải ra\n② Bài tiết, thải ra\n•二酸化炭素(CO2)排出量\n•汗は皮膚から排出されます",
     "furigana": ""
   },
   {
