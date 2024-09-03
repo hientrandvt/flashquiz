@@ -6,7 +6,7 @@
   },
   {
     "question": "察知",
-    "meaning": "さっち \nCảm thấy, nhận ra",
+    "meaning": "さっち \nCảm thấy, nhận ra(Biết được trạng thái của đối phương từ những việc mắt thấy tai nghe)",
     "furigana": ""
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "question": "充当",
-    "meaning": "じゅうとう \nĐể dành riêng ( cho việc gì đó)",
+    "meaning": "じゅうとう \nĐể dành riêng cho việc gì đó(thuật ngữ kế toán) ",
     "furigana": ""
   },
   {
     "question": "摂取",
-    "meaning": "せっしゅ \nHấp thụ",
+    "meaning": "せっしゅ \nHấp thụ\n栄養摂取: Hấp thụ chất dinh dưỡng",
     "furigana": ""
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "question": "適用",
-    "meaning": "てきよう \nỨng dụng, áp dụng",
+    "meaning": "てきよう \nỨng dụng, áp dụng(dùng cho luật và các quy định)",
     "furigana": ""
   },
   {
@@ -161,17 +161,17 @@
   },
   {
     "question": "出没",
-    "meaning": "しゅつぼつ \nXuất hiện ( bất ngờ, ngoài dự đoán)",
+    "meaning": "しゅつぼつ \nXuất hiện ( bất ngờ, ngoài dự đoán)\n熊出没注意",
     "furigana": ""
   },
   {
     "question": "反論",
-    "meaning": "はんろん \nPhản bác, cãi lại",
+    "meaning": "はんろん \nPhản bác, cãi lại\n反論の余地がない:không thể chối cãi.",
     "furigana": ""
   },
   {
     "question": "啓発",
-    "meaning": "けいはつ \nMở mang, khai phá, phát triển ( kiến thức, hiểu biết)",
+    "meaning": "けいはつ \nMở mang, khai phá, phát triển ( kiến thức, hiểu biết)\n自己啓発本:sách self-help",
     "furigana": ""
   },
   {
@@ -191,22 +191,22 @@
   },
   {
     "question": "追放",
-    "meaning": "ついほう \nXua đuổi, loại bỏ",
+    "meaning": "ついほう \nXua đuổi, loại bỏ(những thứ không cần thiết hoặc có hại cho xã hội)\n麻薬を追放\n不法入国外国人を追放",
     "furigana": ""
   },
   {
     "question": "排出",
-    "meaning": "はいしゅつ \n① Xả thải ra\n② Bài tiết, thải ra",
+    "meaning": "はいしゅつ \n① Xả thải ra\n② Bài tiết, thải ra\n二酸化炭素(CO2)排出量\n汗は皮膚から排出されます",
     "furigana": ""
   },
   {
     "question": "心情",
-    "meaning": "しんじょう \nTâm tư, tình cảm",
+    "meaning": "しんじょう \nTâm tư, tình cảm\n子供を失った親の心情は想像を絶する:Không thể tưởng tượng được nỗi lòng của người bố người mẹ mất đi con cái",
     "furigana": ""
   },
   {
     "question": "部門",
-    "meaning": "ぶもん \nPhòng ban",
+    "meaning": "ぶもん \nPhòng ban (部門 > 部署)\n",
     "furigana": ""
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "question": "探索",
-    "meaning": "たんさく \n① Khám phá, tìm kiếm ( vũ trụ, đáy đại dương)\n② Điều tra, truy tìm",
+    "meaning": "たんさく \n① Khám phá, tìm kiếm ( vũ trụ, đáy đại dương)\n② Điều tra, truy tìm (Vụ án, hung thủ)",
     "furigana": ""
   },
   {
@@ -236,7 +236,7 @@
   },
   {
     "question": "脱退",
-    "meaning": "だったい \nRút khỏi, rời khỏi",
+    "meaning": "だったい \nRút khỏi, rời khỏi(tổ chức, đoàn thể mà mình đang trực thuộc)",
     "furigana": ""
   },
   {
