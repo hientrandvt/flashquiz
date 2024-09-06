@@ -357,6 +357,10 @@
         {
             "level": "N1",
             "title": "Tổng hợp ngữ pháp N1",
+            "frontTextSize": 30,
+            "backTextSize": 20,
+            "frontAlign": "left",
+            "backAlign": "left",
             "content": [
                 {
                     "fileName": "Tổng hợp ①",
