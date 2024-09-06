@@ -3,6 +3,10 @@
         {
             "level": "N1",
             "title": "Riki Junbi Goi N1",
+            "frontTextSize": 50,
+            "backTextSize":30,
+            "frontAlign": "center",
+            "backAlign": "center",
             "content": [
                 {
                     "fileName": "1-50",
@@ -93,6 +97,10 @@
         {
             "level": "N1",
             "title": "Mimikara Oboeru Goi N1",
+            "frontTextSize": 50,
+            "backTextSize":30,
+            "frontAlign": "center",
+            "backAlign": "center",
             "content": [
                 {
                     "fileName": "Unit 1: Goi 1 (1-50)",
@@ -195,6 +203,10 @@
         {
             "level": "N1",
             "title": "Teitei Toreeningu Goi N1",
+            "frontTextSize": 50,
+            "backTextSize":30,
+            "frontAlign": "center",
+            "backAlign": "center",
             "content": [
                 {
                     "fileName": "1-100",
@@ -233,6 +245,10 @@
         {
             "level": "N1",
             "title": "Shinkanzen Master Goi N1",
+            "frontTextSize": 50,
+            "backTextSize": 30,
+            "frontAlign": "center",
+            "backAlign": "center",
             "content": [
                 {
                     "fileName": "1章／1課 性格・人柄",
@@ -299,6 +315,10 @@
         {
             "level": "N1",
             "title": "文字語彙(日本語の森)",
+            "frontTextSize": 50,
+            "backTextSize":30,
+            "frontAlign": "center",
+            "backAlign": "center",
             "content": [
                 {
                     "fileName": "名詞(2文字)①",
@@ -321,6 +341,10 @@
         {
             "level": "N1",
             "title": "Động từ Thảo Lê JP",
+            "frontTextSize": 50,
+            "backTextSize": 30,
+            "frontAlign": "center",
+            "backAlign": "center",
             "content": [
                 {
                     "fileName": "Động từ Thảo Lê JP",
