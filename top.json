@@ -356,20 +356,6 @@
     "grammar": [
         {
             "level": "N1",
-            "title": "Tổng hợp ngữ pháp N1 Dũng Mori",
-            "frontTextSize": 30,
-            "backTextSize": 25,
-            "frontAlign": "left",
-            "backAlign": "left",
-            "content": [
-                {
-                    "fileName": "Tổng hợp ①",
-                    "fileId": "grammar_n1_summary/dungmori.json"
-                }
-            ]
-        },
-        {
-            "level": "N1",
             "title": "Tổng hợp ngữ pháp N1",
             "frontTextSize": 30,
             "backTextSize": 25,
@@ -377,9 +363,14 @@
             "backAlign": "left",
             "content": [
                 {
-                    "fileName": "Tổng hợp ①",
+                    "fileName": "Tổng hợp ngữ pháp Dũng mori",
+                    "fileId": "grammar_n1_summary/dungmori.json"
+                },
+                {
+                    "fileName": "Tổng hợp ngữ pháp Shinkanzen",
                     "fileId": "grammar_n1_summary/summary_1.json"
                 }
+               
             ]
         }
     ]
