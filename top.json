@@ -328,5 +328,17 @@
                 }
             ]
         }
+    ],
+    "grammar": [
+        {
+            "level": "N1",
+            "title": "Tổng hợp ngữ pháp N1",
+            "content": [
+                {
+                    "fileName": "Ngữ pháp shinkanzen",
+                    "fileId": "vocab_thaole_jp/vocab_verb_thaolejp.json"
+                }
+            ]
+        }
     ]
 }
