@@ -1,7 +1,17 @@
 [
   {
     "question": "ようが / ようとVようが + VまいがVようと + Vまいと",
-    "meaning": "Ý nghĩa: Cho dù có.....thì vẫn....(Dạng lịch sự của Vても). \nCó thêm まいと,まいが thì dịch là Cho dù có...hay không...thì vẫn....\nCách chia:Có 3 dạng chủ yếu:+ Vよう + が / と\n\n - どこで何をしようが私の勝手でしょう。Dù có làm gì ở đâu đi nữa cũng là túy ý của tôi.- なにをしようと私の自由でしょう。\n+ Vようが + Vようが hoặc Vようと + Vようと\n\n- 出掛けようが家にいようが、あなたの自由です。Đi ra khỏi nhà hay ở lại là quyền tự do của bạn- 努力しようと怠けようと結果がすべてだ。\n+ Vようが + Vまいが hoặc Vようと + Vまいと\n\n- 勉強をやろうがやるまいが私の勝手でしょう。Học hay không là tùy ý tôi chứ.\n*Vようとも: Cho dù có V tới đâu đi nữa thì....\n たとえどんなことが起ころうとも、彼からは一生離れない。\nDù có chuyện gì xảy ra đi nữa thì suốt đời tôi cũng không rời xa anh ấy.",
+    "meaning": "Ý nghĩa: Cho dù có.....thì vẫn....(Dạng lịch sự của Vても). \nCó thêm まいと,まいが thì dịch là Cho dù có...hay không...thì vẫn....\nCách chia:Có 3 dạng chủ yếu:+ Vよう + が / と\n - どこで何をしようが私の勝手でしょう。\nDù có làm gì ở đâu đi nữa cũng là túy ý của tôi。\n",
+    "furigana": ""
+  },
+  {
+    "question": "ようが / ようとVようが + VまいがVようと + Vまいと",
+    "meaning": "Ý nghĩa: Cho dù có.....thì vẫn....(Dạng lịch sự của Vても). \nCó thêm まいと,まいが thì dịch là Cho dù có...hay không...thì vẫn....\nCách chia:Có 3 dạng chủ yếu:+ Vようが + Vようが hoặc Vようと + Vようと\n- 出掛けようが家にいようが、あなたの自由です。\nĐi ra khỏi nhà hay ở lại là quyền tự do của bạn\n",
+    "furigana": ""
+  },
+  {
+    "question": "ようが / ようとVようが + VまいがVようと + Vまいと",
+    "meaning": "Ý nghĩa: Cho dù có.....thì vẫn....(Dạng lịch sự của Vても). \nCó thêm まいと,まいが thì dịch là Cho dù có...hay không...thì vẫn....\nCách chia:Có 3 dạng chủ yếu:\nVようとも: Cho dù có V tới đâu đi nữa thì....\n たとえどんなことが起ころうとも、彼からは一生離れない。\nDù có chuyện gì xảy ra đi nữa thì suốt đời tôi cũng không rời xa anh ấy.",
     "furigana": ""
   },
   {
@@ -21,152 +31,152 @@
   },
   {
     "question": "Vた + ところで",
-    "meaning": "Ý nghĩa: Cho dù...thì cũng....\n 今頃になって急いだところで、無駄だ。Bây giờ dù có vội vã thì cũng vô ích.*Chú ý: Ngoài ra còn một cấu trúc nhỏ Vた + ところで thực chất là ところ + trợ từ(へ/を/に/で). Có nghĩa là đúng vào lúc.\n 論文の最後の一行を書いたところで、突然気を失った。Đúng vào lúc viết dòng cuối cùng của luận văn thì đột nhiên ngất xỉu.",
+    "meaning": "Ý nghĩa: Cho dù...thì cũng....\n 今頃になって急いだところで、無駄だ。\nBây giờ dù có vội vã thì cũng vô ích.\n*Chú ý: Ngoài ra còn một cấu trúc nhỏ Vた + ところで thực chất là ところ + trợ từ(へ/を/に/で). \nCó nghĩa là đúng vào lúc.\n 論文の最後の一行を書いたところで、突然気を失った。\nĐúng vào lúc viết dòng cuối cùng của luận văn thì đột nhiên ngất xỉu.",
     "furigana": ""
   },
   {
     "question": "Vたら ＋ VたでAかったら ＋ Aかった ＋ で",
-    "meaning": "Ý nghĩa: Nếu mà....Thì.....(Hành xử tương ứng với trường hợp giả sử)\n 食材がなかったらなかったで、簡単な料理で済ませましょう。Nếu mà không có nguyên liệu thì nấu theo kiểu không có nguyên liệu",
+    "meaning": "Ý nghĩa: Nếu mà....Thì.....(Hành xử tương ứng với trường hợp giả sử)\n 食材がなかったらなかったで、簡単な料理で済ませましょう。\nNếu mà không có nguyên liệu thì nấu theo kiểu không có nguyên liệu",
     "furigana": ""
   },
   {
     "question": "Vば + VたでAければ ＋ Aいで",
-    "meaning": "Ý nghĩa: Nếu mà....Thì.....(Hành xử tương ứng với trường hợp giả sử)\n 家は広い方がいいが、広ければ広いで、掃除は大変だ。Nhà rộng thì cũng tốt mà nếu rộng quá thì dọn dẹp cũng mệt",
+    "meaning": "Ý nghĩa: Nếu mà....Thì.....(Hành xử tương ứng với trường hợp giả sử)\n 家は広い方がいいが、広ければ広いで、掃除は大変だ。\nNhà rộng thì cũng tốt mà nếu rộng quá thì dọn dẹp cũng mệt",
     "furigana": ""
   },
   {
     "question": "Naなら ＋NaでNなら ＋Nで",
-    "meaning": "Ý nghĩa: Nếu mà....Thì.....(Hành xử tương ứng với trường hợp giả sử)\n 反対なら反対で、きちゃんとした論拠を示すべきだ。Nếu phản đối thì cũng nên đưa ra chứng cứ xác đáng.",
+    "meaning": "Ý nghĩa: Nếu mà....Thì.....(Hành xử tương ứng với trường hợp giả sử)\n 反対なら反対で、きちゃんとした論拠を示すべきだ。\nNếu phản đối thì cũng nên đưa ra chứng cứ xác đáng.",
     "furigana": ""
   },
   {
     "question": "A + とあれば",
-    "meaning": "Ý nghĩa: Nếu A thì....\n 家族のためとあれば、彼はどんなことでもするだろう。Nếu là vì gia đình thì việc gì anh ấy cũng làm",
+    "meaning": "Ý nghĩa: Nếu A thì....\n 家族のためとあれば、彼はどんなことでもするだろう。\nNếu là vì gia đình thì việc gì anh ấy cũng làm",
     "furigana": ""
   },
   {
     "question": "たら最後 / たが最後たらさいご / たがさいご",
-    "meaning": "Ý nghĩa: Một khi mà.... thì cứ thế mãi (Một việc gì đó đã xảy ra thì gần như sẽ không thay đổi trạng thái)\n 彼は怒ったら最後、絶対に許してくれない。Nếu anh ta mà tức giận thì tuyệt đối sẽ không tha thứ cho đâu父は、いったん寝たら最後、朝まで起きない。Bố tôi một khi đã ngủ thì đến sáng cũng chưa dậy",
+    "meaning": "Ý nghĩa: Một khi mà.... thì cứ thế mãi (Một việc gì đó đã xảy ra thì gần như sẽ không thay đổi trạng thái)\n 彼は怒ったら最後、絶対に許してくれない。\nNếu anh ta mà tức giận thì tuyệt đối sẽ không tha thứ cho đâu父は、いったん寝たら最後、朝まで起きない。\nBố tôi một khi đã ngủ thì đến sáng cũng chưa dậy",
     "furigana": ""
   },
   {
     "question": "A + ようでは",
-    "meaning": "Ý nghĩa: Nếu mà A thì.....(Dự đoán của vế sau thường là kết quả tiêu cực)\n 報告書にこんなにミスが多いようでは、安心して仕事を任せられない。 Nếu mà báo cáo còn nhiều lỗi như này thì làm sao tôi yên tâm giao việc cho cậu được.敬語がちゃんと使えないようでは、接客の仕事はできない。Nếu mà không dùng được đúng kính ngữ thì không làm được việc giao tiếp với khách hàng đâu.",
+    "meaning": "Ý nghĩa: Nếu mà A thì.....(Dự đoán của vế sau thường là kết quả tiêu cực)\n 報告書にこんなにミスが多いようでは、安心して仕事を任せられない。\n Nếu mà báo cáo còn nhiều lỗi như này thì làm sao tôi yên tâm giao việc cho cậu được.敬語がちゃんと使えないようでは、接客の仕事はできない。\nNếu mà không dùng được đúng kính ngữ thì không làm được việc giao tiếp với khách hàng đâu.",
     "furigana": ""
   },
   {
     "question": "A + なしに(は) / なしでは / なくして(は) + B",
-    "meaning": "Ý nghĩa: Không thể làm B nếu không A\n 祖母はもう高齢で、周りの人たちの助けなしでは暮らせない。Bà tôi đã cao tuổi nên không thể sống mà không có sự giúp đỡ của những người xung quanh.先生方の指導なくしてはわたしの大学合格はあり得ませんでした。Tôi không thể đỗ đại học nếu không có sự chỉ dẫn của các thầy cô.",
+    "meaning": "Ý nghĩa: Không thể làm B nếu không A\n 祖母はもう高齢で、周りの人たちの助けなしでは暮らせない。\nBà tôi đã cao tuổi nên không thể sống mà không có sự giúp đỡ của những người xung quanh.先生方の指導なくしてはわたしの大学合格はあり得ませんでした。\nTôi không thể đỗ đại học nếu không có sự chỉ dẫn của các thầy cô.",
     "furigana": ""
   },
   {
     "question": "A くらいなら B",
-    "meaning": "Ý nghĩa: Nếu phải làm A thì làm B còn hơn\nあんな男に頭を下げるくらいなら、死んだほうがましだ。Nếu phải cúi đầu trước hắn ta thì thà chết còn hơn",
+    "meaning": "Ý nghĩa: Nếu phải làm A thì làm B còn hơn\nあんな男に頭を下げるくらいなら、死んだほうがましだ。\nNếu phải cúi đầu trước hắn ta thì thà chết còn hơn",
     "furigana": ""
   },
   {
     "question": "A + ところを",
-    "meaning": "Ý nghĩa: Đúng lúc, Vào lúc A (Thường mang ý nghĩa xin lỗi vì đã làm phiền người khác)\nお急ぎのところをすみません。ちょっと伺ってもよろしいでしょうか。Xin lỗi vì đã làm phiền đúng lúc anh bận, Tôi có thể hỏi một chút không.",
+    "meaning": "Ý nghĩa: Đúng lúc, Vào lúc A (Thường mang ý nghĩa xin lỗi vì đã làm phiền người khác)\nお急ぎのところをすみません。\nちょっと伺ってもよろしいでしょうか。\nXin lỗi vì đã làm phiền đúng lúc anh bận, Tôi có thể hỏi một chút không.",
     "furigana": ""
   },
   {
     "question": "ものを",
-    "meaning": "Ý nghĩa: Nhưng...(Cùng nghĩa với のに, Giá mà Nếu mà làm như vế trước thì đã không.....)\n気をつけていれば事故は起こらなかったものを、本当に残念なことになってしまった。Giá mà cẩn thận hơn thì tai nạn đã không xảy ra nhưng không may là điều đáng tiếc đã xảy ra.*Chú ý: Có những trường hợp người ta lược bỏ vế sau\n 一言声をかけてくれれば手伝ったものを。Giá mà anh chịu nói 1 tiếng thì tôi đã giúp rồi.(Thực chất chưa nói)",
+    "meaning": "Ý nghĩa: Nhưng...(Cùng nghĩa với のに, Giá mà Nếu mà làm như vế trước thì đã không.....)\n気をつけていれば事故は起こらなかったものを、本当に残念なことになってしまった。\nGiá mà cẩn thận hơn thì tai nạn đã không xảy ra nhưng không may là điều đáng tiếc đã xảy ra.*Chú ý: Có những trường hợp người ta lược bỏ vế sau\n 一言声をかけてくれれば手伝ったものを。\nGiá mà anh chịu nói 1 tiếng thì tôi đã giúp rồi.(Thực chất chưa nói)",
     "furigana": ""
   },
   {
     "question": "A + とはいえ",
-    "meaning": "Ý nghĩa: Mặc dù là A nhưng....\n ダイエット中とはいえ、出されたごちそうに手をつけないなんて失礼だと思う。Tuy là đang ăn kiêng nhưng món ăn được chiêu đãi đã bày ra mà không động đến thì thất lễ quá.",
+    "meaning": "Ý nghĩa: Mặc dù là A nhưng....\n ダイエット中とはいえ、出されたごちそうに手をつけないなんて失礼だと思う。\nTuy là đang ăn kiêng nhưng món ăn được chiêu đãi đã bày ra mà không động đến thì thất lễ quá.",
     "furigana": ""
   },
   {
     "question": "A+ といえども",
-    "meaning": "Ý nghĩa: Cho dù là A thì cũng....\n 未成年者（みせいねんしゃ）といえども、公共の場で勝手なことをしてはならない。Dù là trẻ vị thành niên đi chăng nữa cũng không được hành động tùy tiện ở nơi công cộng.* Chú ý: Thường đi kèm các trợ từ như いかに/ たとえ/ どんな (Đến mức nào, Đến cơ nào, Dù thế nào). Câu sẽ có dạng: いかに/ たとえ/ どんな +......+といえども\n いかに困難な状況にあったといえども、罪を犯(おか) したことは許されない。Dù hoàn cảnh khó khăn bao nhiêu đi nữa, việc phạm tội là không thể tha thứ được.",
+    "meaning": "Ý nghĩa: Cho dù là A thì cũng....\n 未成年者（みせいねんしゃ）といえども、公共の場で勝手なことをしてはならない。\nDù là trẻ vị thành niên đi chăng nữa cũng không được hành động tùy tiện ở nơi công cộng.* Chú ý: Thường đi kèm các trợ từ như いかに/ たとえ/ どんな (Đến mức nào, Đến cơ nào, Dù thế nào). Câu sẽ có dạng: いかに/ たとえ/ どんな +......+といえども\n いかに困難な状況にあったといえども、罪を犯(おか) したことは許されない。\nDù hoàn cảnh khó khăn bao nhiêu đi nữa, việc phạm tội là không thể tha thứ được.",
     "furigana": ""
   },
   {
     "question": "A+ と思いきや",
-    "meaning": "Ý nghĩa: Cứ nghĩ là A nhưng thực sự thì...\n今日は一日中晴れると思いきや、午後からざあざあ降りになった。Cứ nghĩ là cả ngày trời sẽ nắng nhưng đến chiều thì đã mưa rào rào.",
+    "meaning": "Ý nghĩa: Cứ nghĩ là A nhưng thực sự thì...\n今日は一日中晴れると思いきや、午後からざあざあ降りになった。\nCứ nghĩ là cả ngày trời sẽ nắng nhưng đến chiều thì đã mưa rào rào.",
     "furigana": ""
   },
   {
     "question": "がてら",
-    "meaning": "Ý nghĩa: Nhân tiện, tiện thể = ついでに (Đang làm việc gì đó thì làm thêm luôn việc khác)\n 買い物がてら、図書館に行った。Tiện lúc đi mua sắm tôi đã ghé vào bảo tàng.",
+    "meaning": "Ý nghĩa: Nhân tiện, tiện thể = ついでに (Đang làm việc gì đó thì làm thêm luôn việc khác)\n 買い物がてら、図書館に行った。\nTiện lúc đi mua sắm tôi đã ghé vào bảo tàng.",
     "furigana": ""
   },
   {
     "question": "かたがた",
-    "meaning": "Ý nghĩa: Dùng trong trường hợp làm một việc gì đó thì nhân tiện làm luôn, kèm theo luôn một hành động khác nữa.(Một công đôi việc).\n ご報告かたがた一度伺いたいのですが。Tôi muốn đến thăm anh một lần nhân tiện cũng để báo cáo (công việc) ...*Chú ý: Mẫu này chỉ đi với danh từ và danh động từ như: お礼, 報告, 見学, 見舞い, 散歩, 挨拶(あいさつ)....vv",
+    "meaning": "Ý nghĩa: Dùng trong trường hợp làm một việc gì đó thì nhân tiện làm luôn, kèm theo luôn một hành động khác nữa.(Một công đôi việc).\n ご報告かたがた一度伺いたいのですが。\nTôi muốn đến thăm anh một lần nhân tiện cũng để báo cáo (công việc) ...*Chú ý: Mẫu này chỉ đi với danh từ và danh động từ như: お礼, 報告, 見学, 見舞い, 散歩, 挨拶(あいさつ)....vv",
     "furigana": ""
   },
   {
     "question": "かたわら",
-    "meaning": "Ý nghĩa: Bên cạnh công việc chính thì còn làm thêm việc khác/ hoạt động khác nữa.\n 彼は教師の仕事をするかたわら小説を書いている。Anh ấy ngoài việc chính là dạy học còn viết cả tiểu thuyết.",
+    "meaning": "Ý nghĩa: Bên cạnh công việc chính thì còn làm thêm việc khác/ hoạt động khác nữa.\n 彼は教師の仕事をするかたわら小説を書いている。\nAnh ấy ngoài việc chính là dạy học còn viết cả tiểu thuyết.",
     "furigana": ""
   },
   {
     "question": "(Vない bỏ ない) + んばかりに (Đứng giữa câu)(Vない bỏ ない) + んばかりだ (Đứng cuối câu)する → せんばかりだ",
-    "meaning": "Ý nghĩa: Như thể sắp... đến nơi mặc dù thực tế không đến mức đấy.\n 頭を畳（たたみ）につけんばかりにしてわびたのに、父は許してくれなかった。Dập đầu gần như chạm xuống chiếu để xin lỗi mà bố tôi vẫn không chịu tha thứ.",
+    "meaning": "Ý nghĩa: Như thể sắp... đến nơi mặc dù thực tế không đến mức đấy.\n 頭を畳（たたみ）につけんばかりにしてわびたのに、父は許してくれなかった。\nDập đầu gần như chạm xuống chiếu để xin lỗi mà bố tôi vẫn không chịu tha thứ.",
     "furigana": ""
   },
   {
     "question": "とばかり(に)",
-    "meaning": "Ý nghĩa: Cứ như thể muốn nói là....\n 息子は「入るな」とばかりに、部屋にかぎをかけてしまった。Con trai tôi khóa cửa phòng lại như muốn nói là Đừng vào.*Chú ý: Mẫu này là được rút gọn từ と言わんばかりに",
+    "meaning": "Ý nghĩa: Cứ như thể muốn nói là....\n 息子は「入るな」とばかりに、部屋にかぎをかけてしまった。\nCon trai tôi khóa cửa phòng lại như muốn nói là Đừng vào.*Chú ý: Mẫu này là được rút gọn từ と言わんばかりに",
     "furigana": ""
   },
   {
     "question": "ともなく/ ともなしに",
-    "meaning": "Ý nghĩa: Làm gì đó một cách bâng quơ vô thức không có chủ đích.\n テレビを見るともなく見ていたら、友達がテレビに出ていてびっくりした。Đang xem ti vi một cách vô thức thì tự nhiên thấy bạn xuất hiện trên ti vi khiến tôi rất ngạc nhiên.*Chú ý: Khi đi với từ để hỏi đằng trước nó mang nghĩa: Từ đâu đó, Ai đó, Từ lúc nào đó....どこからともなく - Không rõ từ đâu đó, だれともなく - Không biết là từ ai, いつからともなしに - Chẳng biết từ bao giờ.\n どこからともなく、おいしそうなカレーのにおいがしてくる。Không rõ từ đâu có mùi cà ri tỏa ra có vẻ ngon.",
+    "meaning": "Ý nghĩa: Làm gì đó một cách bâng quơ vô thức không có chủ đích.\n テレビを見るともなく見ていたら、友達がテレビに出ていてびっくりした。\nĐang xem ti vi một cách vô thức thì tự nhiên thấy bạn xuất hiện trên ti vi khiến tôi rất ngạc nhiên.*Chú ý: Khi đi với từ để hỏi đằng trước nó mang nghĩa: Từ đâu đó, Ai đó, Từ lúc nào đó....どこからともなく - Không rõ từ đâu đó, だれともなく - Không biết là từ ai, いつからともなしに - Chẳng biết từ bao giờ.\n どこからともなく、おいしそうなカレーのにおいがしてくる。\nKhông rõ từ đâu có mùi cà ri tỏa ra có vẻ ngon.",
     "furigana": ""
   },
   {
     "question": "A + ながらに(して) / ながらのA chia ở dạng Vます bỏ ます, hoặc là N",
-    "meaning": "Từ khi A, trong khi A...\nこの子は生まれながらに優れた音感を持っていた。Đứa bé này từ khi sinh ra đã có một sự cảm thụ âm nhạc đặc biệt xuất sắc.祖母は涙ながらに戦争中の思い出話を語った。Bà tôi vừa khóc vừa kể lại những hồi ức trong chiến tranh.",
+    "meaning": "Từ khi A, trong khi A...\nこの子は生まれながらに優れた音感を持っていた。\nĐứa bé này từ khi sinh ra đã có một sự cảm thụ âm nhạc đặc biệt xuất sắc.祖母は涙ながらに戦争中の思い出話を語った。\nBà tôi vừa khóc vừa kể lại những hồi ức trong chiến tranh.",
     "furigana": ""
   },
   {
     "question": "Vる・Vない・Nの + きらいがある",
-    "meaning": "Ý nghĩa: Có chiều hướng, Có khuynh hướng, Có thói quen là.....\n 彼はどうも物事を悲観的に考えるきらいがある。Anh ấy hay suy nghĩ mọi việc theo hướng hơi bi quan.うちの子は物事を大げさに言うきらいがある。Con tôi có chiều hướng hay nói quá mọi việc lên.",
+    "meaning": "Ý nghĩa: Có chiều hướng, Có khuynh hướng, Có thói quen là.....\n 彼はどうも物事を悲観的に考えるきらいがある。\nAnh ấy hay suy nghĩ mọi việc theo hướng hơi bi quan.うちの子は物事を大げさに言うきらいがある。\nCon tôi có chiều hướng hay nói quá mọi việc lên.",
     "furigana": ""
   },
   {
     "question": "が早いか",
-    "meaning": "Ý nghĩa: Vừa mới...thì đã...\n うちの子はいつも学校から帰ってきて、かばんを放り出すが早いか、遊びに行ってしまう。Thằng con nhà tôi á, cứ đi học về, vứt cặp xuống một cái là chạy đi chơi luôn。",
+    "meaning": "Ý nghĩa: Vừa mới...thì đã...\n うちの子はいつも学校から帰ってきて、かばんを放り出すが早いか、遊びに行ってしまう。\nThằng con nhà tôi á, cứ đi học về, vứt cặp xuống một cái là chạy đi chơi luôn。\n",
     "furigana": ""
   },
   {
     "question": "Vる ＋ や / や否や",
-    "meaning": "Ý nghĩa: Vừa mới....thì đã....\n 帰宅するや、愛犬（あいけん）が飛びついてきた。Tôi vừa về đến nhà là cún yêu đã chồm ra.選挙戦（せんきょせん）が始まるや否や、あちこちからにぎやかな声が聞こえてきた。Cuộc tranh cử vừa mới bắt đầu là đã thấy tranh luận ồn ào từ chỗ này chỗ kia.",
+    "meaning": "Ý nghĩa: Vừa mới....thì đã....\n 帰宅するや、愛犬（あいけん）が飛びついてきた。\nTôi vừa về đến nhà là cún yêu đã chồm ra.選挙戦（せんきょせん）が始まるや否や、あちこちからにぎやかな声が聞こえてきた。\nCuộc tranh cử vừa mới bắt đầu là đã thấy tranh luận ồn ào từ chỗ này chỗ kia.",
     "furigana": ""
   },
   {
     "question": "Vる ＋ なり",
-    "meaning": "Ý nghĩa: Vừa mới....thì đã....\n 課長は部屋に入ってくるなり、大声でどなった。Trưởng phòng vừa mới bước vào phòng đã quát ầm lên.",
+    "meaning": "Ý nghĩa: Vừa mới....thì đã....\n 課長は部屋に入ってくるなり、大声でどなった。\nTrưởng phòng vừa mới bước vào phòng đã quát ầm lên.",
     "furigana": ""
   },
   {
     "question": "Vる / Vた ＋ そばから",
-    "meaning": "Ý nghĩa: Vừa mới....Thì đã ngay lập tức.....(Hành động gì đó vừa mới xảy ra thì ngay lập tức một hành động đối nghịch lại với hành động đó cũng xảy ra mang tính tiêu cực)\n この木の実は赤くなるそばから、鳥に食べられてしまう。Quả của cây này cứ vừa đỏ một cái là bị chim ăn hết sạch.",
+    "meaning": "Ý nghĩa: Vừa mới....Thì đã ngay lập tức.....(Hành động gì đó vừa mới xảy ra thì ngay lập tức một hành động đối nghịch lại với hành động đó cũng xảy ra mang tính tiêu cực)\n この木の実は赤くなるそばから、鳥に食べられてしまう。\nQuả của cây này cứ vừa đỏ một cái là bị chim ăn hết sạch.",
     "furigana": ""
   },
   {
     "question": "Vて + からというもの (は)",
-    "meaning": "Ý nghĩa: Kể từ sau khi......(Kể từ sau khi việc gì đó xảy ra mang lại hậu quả về sau không thay đổi được, không dùng với các mốc thời gian gần)\n 日本に来てからというもの、国の家族のことを思わない日はない。Kể từ khi đến Nhật, không ngày nào là tôi không nghĩ về gia đình.",
+    "meaning": "Ý nghĩa: Kể từ sau khi......(Kể từ sau khi việc gì đó xảy ra mang lại hậu quả về sau không thay đổi được, không dùng với các mốc thời gian gần)\n 日本に来てからというもの、国の家族のことを思わない日はない。\nKể từ khi đến Nhật, không ngày nào là tôi không nghĩ về gia đình.",
     "furigana": ""
   },
   {
     "question": "N + にあって",
-    "meaning": "Ý nghĩa: Vì ở trong hoàn cảnh.....nên mới....Mặc dù ở trong hoàn cảnh....nhưng vẫn....\n どんなに厳しい状況にあっても、彼は笑顔を絶(た)やさない。Dù trong hoàn cảnh khắc nghiệt thế nào đi nữa, anh ấy vẫn luôn tươi cười.異国の地にあって、仕事を探すこともままならない。Vì trong hoàn cảnh xứ lạ quê người nên việc tìm việc làm không thể theo ý mình được.",
+    "meaning": "Ý nghĩa: Vì ở trong hoàn cảnh.....nên mới....Mặc dù ở trong hoàn cảnh....nhưng vẫn....\n どんなに厳しい状況にあっても、彼は笑顔を絶(た)やさない。\nDù trong hoàn cảnh khắc nghiệt thế nào đi nữa, anh ấy vẫn luôn tươi cười.異国の地にあって、仕事を探すこともままならない。\nVì trong hoàn cảnh xứ lạ quê người nên việc tìm việc làm không thể theo ý mình được.",
     "furigana": ""
   },
   {
     "question": "N + を皮切りに(して) / を皮切りとして",
-    "meaning": "Ý nghĩa: Khởi điểm, Khởi đầu bằng việc gì đó sau đó trở nên phát triển, phát đạt lan rộng ra (Không dùng với nghĩa tiêu cực)\n 度イタリア出店（でみせ）を皮切りに彼はヨーロッパに進出しようとしている。Bắt đầu với việc mở cửa hàng tại Italy lần này, anh ta muốn tiến sang toàn thị trường châu Âu.",
+    "meaning": "Ý nghĩa: Khởi điểm, Khởi đầu bằng việc gì đó sau đó trở nên phát triển, phát đạt lan rộng ra (Không dùng với nghĩa tiêu cực)\n 度イタリア出店（でみせ）を皮切りに彼はヨーロッパに進出しようとしている。\nBắt đầu với việc mở cửa hàng tại Italy lần này, anh ta muốn tiến sang toàn thị trường châu Âu.",
     "furigana": ""
   },
   {
     "question": "N + に至るまで (にいたるまで) A から + Bに至るまで",
-    "meaning": "Ý nghĩa: Đến..., Đến mức....., Đến cả.....(Cách nói nhấn mạnh của まで, Cũng hay đi với combo A から + Bに至るまで)\nゆみさんは天気はもちろん、その日の朝、昼、晩の気温に至るまで日記に書き留めているそうだ。Nghe nói là chị Yumi ghi chú về thời tiết thì đã đành rồi, nhưng đến cả nhiệt độ buổi sáng, trưa và tối của ngày hôm đấy chị ấy cũng ghi hết cả vào trong nhật ký.日常おかずから高級料理の食材に至るまで、この店にないものはない。Từ những món ăn thường ngày cho đến cả nguyên liệu làm món ăn cao cấp, chẳng có thứ gì mà cửa hàng này lại không có.",
+    "meaning": "Ý nghĩa: Đến..., Đến mức....., Đến cả.....(Cách nói nhấn mạnh của まで, Cũng hay đi với combo A から + Bに至るまで)\nゆみさんは天気はもちろん、その日の朝、昼、晩の気温に至るまで日記に書き留めているそうだ。\nNghe nói là chị Yumi ghi chú về thời tiết thì đã đành rồi, nhưng đến cả nhiệt độ buổi sáng, trưa và tối của ngày hôm đấy chị ấy cũng ghi hết cả vào trong nhật ký.日常おかずから高級料理の食材に至るまで、この店にないものはない。\nTừ những món ăn thường ngày cho đến cả nguyên liệu làm món ăn cao cấp, chẳng có thứ gì mà cửa hàng này lại không có.",
     "furigana": ""
   },
   {
@@ -176,332 +186,332 @@
   },
   {
     "question": "N + をもって",
-    "meaning": "Ý nghĩa: Đến hết....(Thông báo thời gian kết thúc một sự kiện nào đó, thường là sự kiện trang trọng hay các nghi lễ, không dùng cho các sự việc xảy ra hàng ngày.)\n ２月２０日をもって、願書受け付けを締め切ります。Hết ngày 20 tháng 2 là hết hạn nộp đơn.",
+    "meaning": "Ý nghĩa: Đến hết....(Thông báo thời gian kết thúc một sự kiện nào đó, thường là sự kiện trang trọng hay các nghi lễ, không dùng cho các sự việc xảy ra hàng ngày.)\n ２月２０日をもって、願書受け付けを締め切ります。\nHết ngày 20 tháng 2 là hết hạn nộp đơn.",
     "furigana": ""
   },
   {
     "question": "N / Vる + といったところだ",
-    "meaning": "Ý nghĩa: Cùng lắm cũng chỉ đến mức.....(Đằng trước thường là các danh từ chỉ số lượng)\n 当地は夏もそれほど暑くありません。最高に暑い日でも26、7 度といったところだ。Vùng này mùa hè cũng không nóng lắm, Ngày nóng nhất thì cũng chỉ tầm 26, 27 độ là cùng.",
+    "meaning": "Ý nghĩa: Cùng lắm cũng chỉ đến mức.....(Đằng trước thường là các danh từ chỉ số lượng)\n 当地は夏もそれほど暑くありません。\n最高に暑い日でも26、7 度といったところだ。\nVùng này mùa hè cũng không nóng lắm, Ngày nóng nhất thì cũng chỉ tầm 26, 27 độ là cùng.",
     "furigana": ""
   },
   {
     "question": "N をおいてĐằng sau thường là ほか + いない / ない",
-    "meaning": "Ý nghĩa: Ngoài.....ra thì chẳng ai có thể(Ngoài người, vật ở vế trước ra chẳng ai có thể làm như thế nữa cả.)\n この力仕事を任せられる人は、山口さんをおいてほかにいない。Với công việc cần sức lực này thì ngoài anh Yamaguchi ra, không thể giao phó cho ai khác.",
+    "meaning": "Ý nghĩa: Ngoài.....ra thì chẳng ai có thể(Ngoài người, vật ở vế trước ra chẳng ai có thể làm như thế nữa cả.)\n この力仕事を任せられる人は、山口さんをおいてほかにいない。\nVới công việc cần sức lực này thì ngoài anh Yamaguchi ra, không thể giao phó cho ai khác.",
     "furigana": ""
   },
   {
     "question": "N + ならでは",
-    "meaning": "Ý nghĩa: Chỉ N mới có thể, Chỉ N mới có được\n こんな素晴らしい字は、林さんならではだ。Chữ đẹp như thế này thì chỉ có thể là của anh Hayashi.",
+    "meaning": "Ý nghĩa: Chỉ N mới có thể, Chỉ N mới có được\n こんな素晴らしい字は、林さんならではだ。\nChữ đẹp như thế này thì chỉ có thể là của anh Hayashi.",
     "furigana": ""
   },
   {
     "question": "N/ Vる + にととどまらず",
-    "meaning": "Ý nghĩa: Không chỉ dừng lại ở.....Mà còn....\n マスメディアによる情報というものは、今や一国にとどまらず、世界中に伝わる。Thông tin trên các phương tiện truyền thông đại chúng, giờ đây không chỉ được truyền tải trong một quốc gia mà còn có thể truyền ra toàn thế giới.",
+    "meaning": "Ý nghĩa: Không chỉ dừng lại ở.....Mà còn....\n マスメディアによる情報というものは、今や一国にとどまらず、世界中に伝わる。\nThông tin trên các phương tiện truyền thông đại chúng, giờ đây không chỉ được truyền tải trong một quốc gia mà còn có thể truyền ra toàn thế giới.",
     "furigana": ""
   },
   {
     "question": "A + はおろか + B",
-    "meaning": "Ý nghĩa: B còn chả được nói gì đến A\n 手間がかかる料理はおろか、日常の簡単な料理を作るのさえ面倒だ。Chưa nói đến các món ăn làm mất nhiều công sức, ngay cả đến việc nấu những món đơn giản hàng ngày tôi cũng thấy phiền phức rồi.",
+    "meaning": "Ý nghĩa: B còn chả được nói gì đến A\n 手間がかかる料理はおろか、日常の簡単な料理を作るのさえ面倒だ。\nChưa nói đến các món ăn làm mất nhiều công sức, ngay cả đến việc nấu những món đơn giản hàng ngày tôi cũng thấy phiền phức rồi.",
     "furigana": ""
   },
   {
     "question": "A + もさることながら + B",
-    "meaning": "Ý nghĩa: A là đương nhiên rồi ngoài ra còn B nữa\n この 料理は 味 もさることながら、見目もきれいだ。Món ăn này không chỉ ngon mà nhìn cũng rất hấp dẫn.",
+    "meaning": "Ý nghĩa: A là đương nhiên rồi ngoài ra còn B nữa\n この 料理は 味 もさることながら、見目もきれいだ。\nMón ăn này không chỉ ngon mà nhìn cũng rất hấp dẫn.",
     "furigana": ""
   },
   {
     "question": "A なり B なり",
-    "meaning": "Ý nghĩa: A cũng được mà B cũng được(A và B cùng một nhóm nghĩa (có liên quan đến nhau).Không dùng thì quá khứ trong mẫu câu này.)\n 電話なりメールなり知らせる方法はあるはずですよ。Gọi điện hay gửi email cũng được, kiểu gì chả có cách thông báo.",
+    "meaning": "Ý nghĩa: A cũng được mà B cũng được(A và B cùng một nhóm nghĩa (có liên quan đến nhau).Không dùng thì quá khứ trong mẫu câu này.)\n 電話なりメールなり知らせる方法はあるはずですよ。\nGọi điện hay gửi email cũng được, kiểu gì chả có cách thông báo.",
     "furigana": ""
   },
   {
     "question": "A であれ B であれA であろうと B であろうと",
-    "meaning": "Ý nghĩa: Dù là A hay là B thì kết quả cũng giống nhau\n 文学であれ音楽であれ、芸術(げいじゅつ) には才能が必要なのだ。Dù là văn học hay âm nhạc, đã là nghệ thuật thì năng khiếu là cần thiết.ビールであろうとワインであろうと、酒は酒だ。運転前に絶対飲んではいけない。Bia hay rượu, thì cũng là đồ uống có cồn. Không thể uống trước khi lái xe được.",
+    "meaning": "Ý nghĩa: Dù là A hay là B thì kết quả cũng giống nhau\n 文学であれ音楽であれ、芸術(げいじゅつ) には才能が必要なのだ。\nDù là văn học hay âm nhạc, đã là nghệ thuật thì năng khiếu là cần thiết.ビールであろうとワインであろうと、酒は酒だ。\n運転前に絶対飲んではいけない。\nBia hay rượu, thì cũng là đồ uống có cồn. Không thể uống trước khi lái xe được.",
     "furigana": ""
   },
   {
     "question": "A といい B といい",
-    "meaning": "Ý nghĩa: Cả A lẫn B, A hay B cũng...\n この虫は色といい形といい、木の葉にそっくりだ。Loài côn trùng này cả màu sắc lẫn hình dáng đều giống hệt lá cây.",
+    "meaning": "Ý nghĩa: Cả A lẫn B, A hay B cũng...\n この虫は色といい形といい、木の葉にそっくりだ。\nLoài côn trùng này cả màu sắc lẫn hình dáng đều giống hệt lá cây.",
     "furigana": ""
   },
   {
     "question": "A といわず B といわず",
-    "meaning": "Ý nghĩa: Bất kể là A hay là B\n 日本人は、子どもといわず、大人といわず、漫画をよく読みます。Người Nhật bất kể là trẻ con hay người lớn đều hay học truyện tranh.",
+    "meaning": "Ý nghĩa: Bất kể là A hay là B\n 日本人は、子どもといわず、大人といわず、漫画をよく読みます。\nNgười Nhật bất kể là trẻ con hay người lớn đều hay học truyện tranh.",
     "furigana": ""
   },
   {
     "question": "A + いかんだ/ いかんで (は)",
-    "meaning": "Ý nghĩa: Tùy thuộc vào A, Tùy vào A\n 父は、体調いかんでは、会社を辞めるかもしれない。Tùy vào tình hình sức khỏe có thể bố tôi sẽ phải nghỉ việc.",
+    "meaning": "Ý nghĩa: Tùy thuộc vào A, Tùy vào A\n 父は、体調いかんでは、会社を辞めるかもしれない。\nTùy vào tình hình sức khỏe có thể bố tôi sẽ phải nghỉ việc.",
     "furigana": ""
   },
   {
     "question": "Nの + いかんに関わらず / いかんによらず / いかんを問わず",
-    "meaning": "Ý nghĩa: Dù bất kể N nào thì cũng....\n 合格のいかんにかかわらず、受験生に連絡をします。 Chúng tôi sẽ liên lạc cho các thí sinh, dù kết quả có đậu hay không.理由のいかんを問わず、暴力はよくない。 Dù với bất cứ lý do gì thì hành vi bạo lực là không tốt.",
+    "meaning": "Ý nghĩa: Dù bất kể N nào thì cũng....\n 合格のいかんにかかわらず、受験生に連絡をします。\n Chúng tôi sẽ liên lạc cho các thí sinh, dù kết quả có đậu hay không.理由のいかんを問わず、暴力はよくない。\n Dù với bất cứ lý do gì thì hành vi bạo lực là không tốt.",
     "furigana": ""
   },
   {
     "question": "N + をものともせず",
-    "meaning": "Ý nghĩa: Bất chấp N, Mặc kệ N(Thể hiện sự bất chấp khó khăn, gian khổ. Thường để nói về người khác không nói về bản thân mình)\n 兄は事業の失敗をものともせずに、新しい仕事に取り組(く)んでいる。Vượt lên thất bại trong kinh doanh, anh trai tôi đang nỗ lực với công việc mới.",
+    "meaning": "Ý nghĩa: Bất chấp N, Mặc kệ N(Thể hiện sự bất chấp khó khăn, gian khổ. Thường để nói về người khác không nói về bản thân mình)\n 兄は事業の失敗をものともせずに、新しい仕事に取り組(く)んでいる。\nVượt lên thất bại trong kinh doanh, anh trai tôi đang nỗ lực với công việc mới.",
     "furigana": ""
   },
   {
     "question": "N + をよそに",
-    "meaning": "Ý nghĩa: Mặc kệ, Không quan tâm đến N(Thể hiện sự ngạc nhiên của người nói về vấn đề khác không dùng cho bản thân)\n 彼は周囲の反対をよそに、危険な仕事を続けた。Bất chấp sự phản đối của những người xung quanh, anh ta vẫn tiếp tục công việc nguy hiểm.",
+    "meaning": "Ý nghĩa: Mặc kệ, Không quan tâm đến N(Thể hiện sự ngạc nhiên của người nói về vấn đề khác không dùng cho bản thân)\n 彼は周囲の反対をよそに、危険な仕事を続けた。\nBất chấp sự phản đối của những người xung quanh, anh ta vẫn tiếp tục công việc nguy hiểm.",
     "furigana": ""
   },
   {
     "question": "Aなら + いざしらずBAは + いざしらずB",
-    "meaning": "Ý nghĩa: A thì không nói làm gì chứ B thì.....\n 5歳の子供ならいざしらず、大人がこんなことを知らないなんておかしい。Đứa trẻ 5 tuổi thì không nói nhưng người lớn mà không biết điều này thì lạ quá.",
+    "meaning": "Ý nghĩa: A thì không nói làm gì chứ B thì.....\n 5歳の子供ならいざしらず、大人がこんなことを知らないなんておかしい。\nĐứa trẻ 5 tuổi thì không nói nhưng người lớn mà không biết điều này thì lạ quá.",
     "furigana": ""
   },
   {
     "question": "N + たりとも ... ない",
-    "meaning": "Ý nghĩa: Dù chỉ...(Thường đi với các danh từ chỉ số lượng)\n 試験まであと一カ月しかない。一日たりとも無駄にはできない。Chỉ còn một tháng nữa là đến kì thi. Không thể lãng phí dù chỉ một ngày.",
+    "meaning": "Ý nghĩa: Dù chỉ...(Thường đi với các danh từ chỉ số lượng)\n 試験まであと一カ月しかない。\n一日たりとも無駄にはできない。\nChỉ còn một tháng nữa là đến kì thi. Không thể lãng phí dù chỉ một ngày.",
     "furigana": ""
   },
   {
     "question": "N + (で)すら",
-    "meaning": "Ý nghĩa: Thậm chí là, Ngay cả là N cũng....\n 腰が痛くて、起き上がることすら難しかった。Nhức lưng thậm chí ngồi dậy cũng khó khăn.",
+    "meaning": "Ý nghĩa: Thậm chí là, Ngay cả là N cũng....\n 腰が痛くて、起き上がることすら難しかった。\nNhức lưng thậm chí ngồi dậy cũng khó khăn.",
     "furigana": ""
   },
   {
     "question": "N/Vる + だに / だにしない",
-    "meaning": "Ý nghĩa: - A + だに: Chỉ cần A là sẽ.... (Bằng với だけでも)- A+ だにしない: Thậm chí đến A cũng không\n 子どものころ、死については考えるだに恐ろしかった。Khi còn nhỏ, thậm chí mới chỉ nghĩ về cái chết thôi là tôi đã sợ rồi.まさか宝くじが当たるなんて夢にだに思わなかった。Thậm chí đến trong mơ tôi cũng chưa bao giờ mơ mình sẽ trúng vé số.",
+    "meaning": "Ý nghĩa: - A + だに: Chỉ cần A là sẽ.... (Bằng với だけでも)- A+ だにしない: Thậm chí đến A cũng không\n 子どものころ、死については考えるだに恐ろしかった。\nKhi còn nhỏ, thậm chí mới chỉ nghĩ về cái chết thôi là tôi đã sợ rồi.まさか宝くじが当たるなんて夢にだに思わなかった。\nThậm chí đến trong mơ tôi cũng chưa bao giờ mơ mình sẽ trúng vé số.",
     "furigana": ""
   },
   {
     "question": "N + にして (はじめて)",
-    "meaning": "Ý nghĩa:- Chỉ trong (Khoảng thời gian) mà...., Chỉ mới (Tuổi) mà đã...\n 心痛(しんつう)のあまり、一晩(ひとばん)にして彼の髪は真っ白になってしまった。Vì quá đau lòng mà chỉ trong một đêm, tóc ông ta đã bạc trắng.- Phải mãi đến khi...., Dù đã....\n 彼女は45歳さいにして母親になった。Cô ấy mãi đến 45 tuổi mới làm mẹ.90歳にして彼はいまだに驚ろくほど元気である。Dù đã 90 tuổi rồi nhưng ông ấy vẫn còn khỏe mạnh đến ngạc nhiên.- Chỉ có....thì mới\n 親を失った人にしてはじめて親のありがたさが分かるのかもしれない。Có lẽ chỉ có những người đã mất ba mẹ rồi thì mới hiểu được sự may mắn khi có cha mẹ trong cuộc đời.- Ngay cả.... \n 天才の彼にして解けない問題のだから、凡才の私に解けるわけがない。Vì đây là một câu hỏi mà ngay cả một người thiên thài như anh ta cũng không giải được thì không lý nào một người bình thường như tôi có thể giải được.",
+    "meaning": "Ý nghĩa:- Chỉ trong (Khoảng thời gian) mà...., Chỉ mới (Tuổi) mà đã...\n 心痛(しんつう)のあまり、一晩(ひとばん)にして彼の髪は真っ白になってしまった。\nVì quá đau lòng mà chỉ trong một đêm, tóc ông ta đã bạc trắng.- Phải mãi đến khi...., Dù đã....\n 彼女は45歳さいにして母親になった。\nCô ấy mãi đến 45 tuổi mới làm mẹ.90歳にして彼はいまだに驚ろくほど元気である。\nDù đã 90 tuổi rồi nhưng ông ấy vẫn còn khỏe mạnh đến ngạc nhiên.- Chỉ có....thì mới\n 親を失った人にしてはじめて親のありがたさが分かるのかもしれない。\nCó lẽ chỉ có những người đã mất ba mẹ rồi thì mới hiểu được sự may mắn khi có cha mẹ trong cuộc đời.- Ngay cả.... \n 天才の彼にして解けない問題のだから、凡才の私に解けるわけがない。\nVì đây là một câu hỏi mà ngay cả một người thiên thài như anh ta cũng không giải được thì không lý nào một người bình thường như tôi có thể giải được.",
     "furigana": ""
   },
   {
     "question": "N ＋ あっての",
-    "meaning": "Ý nghĩa: Nhờ có N, Là vì n\n どんな小さな成功も努力あってのことだ。Thành công dù nhỏ đến mấy cũng chính là nhờ có sự nỗ lực.",
+    "meaning": "Ý nghĩa: Nhờ có N, Là vì n\n どんな小さな成功も努力あってのことだ。\nThành công dù nhỏ đến mấy cũng chính là nhờ có sự nỗ lực.",
     "furigana": ""
   },
   {
     "question": "N(Chỉ số lượng) + からある/からする/からの",
-    "meaning": "Ý nghĩa: Hơn, Nhiều hơn N- からある: Đi với trọng lượng, đo lường, kích thước, số- からする/からの: Đi với giá cả, chi phí\nそのデモには２０万人からの人が参加したそうだ。Người ta nói rằng đã có khoảng hơn 200.000 người đã tham gia cuộc biểu tình.",
+    "meaning": "Ý nghĩa: Hơn, Nhiều hơn N- からある: Đi với trọng lượng, đo lường, kích thước, số- からする/からの: Đi với giá cả, chi phí\nそのデモには２０万人からの人が参加したそうだ。\nNgười ta nói rằng đã có khoảng hơn 200.000 người đã tham gia cuộc biểu tình.",
     "furigana": ""
   },
   {
     "question": "までもない",
-    "meaning": "Ý nghĩa: Không cần phải/chưa tới mức phải...\n こんな計算は簡単すぎるよ。電卓でんたくを使うまでもないね。Phép tính đơn giản như thế này thì không cần phải sử dụng đến máy tính.",
+    "meaning": "Ý nghĩa: Không cần phải/chưa tới mức phải...\n こんな計算は簡単すぎるよ。\n電卓でんたくを使うまでもないね。\nPhép tính đơn giản như thế này thì không cần phải sử dụng đến máy tính.",
     "furigana": ""
   },
   {
     "question": "Vる + までだ / までのことだ",
-    "meaning": "Ý nghĩa: Cùng lắm thì....(Nếu sự việc vế trước không được cùng lắm thì làm như vế sau.\n 家族があくまで反対するなら、家を出るまでのことだ。Nếu gia đình tôi cứ phản đối, thì cùng lắm tôi sẽ đi khỏi nhà.",
+    "meaning": "Ý nghĩa: Cùng lắm thì....(Nếu sự việc vế trước không được cùng lắm thì làm như vế sau.\n 家族があくまで反対するなら、家を出るまでのことだ。\nNếu gia đình tôi cứ phản đối, thì cùng lắm tôi sẽ đi khỏi nhà.",
     "furigana": ""
   },
   {
     "question": "Vた + までだ / までのことだ",
-    "meaning": "Ý nghĩa: Chỉ....thôi mà\n 今度の失敗、あなたが不運だったまでですよ。Thất bại lần này, chỉ là cậu không may mắn thôi.",
+    "meaning": "Ý nghĩa: Chỉ....thôi mà\n 今度の失敗、あなたが不運だったまでですよ。\nThất bại lần này, chỉ là cậu không may mắn thôi.",
     "furigana": ""
   },
   {
     "question": "Vば + それまでだVたら + それまでだVなら + それまでだ",
-    "meaning": "Ý nghĩa: Thế là hết, Thế là coi như xong....\n 死んでしまえばそれまでだから、生きているうちに楽しんだ方がいい。Chết là hết, Vì vậy trong lúc còn sống nên tranh thủ vui chơi đi.",
+    "meaning": "Ý nghĩa: Thế là hết, Thế là coi như xong....\n 死んでしまえばそれまでだから、生きているうちに楽しんだ方がいい。\nChết là hết, Vì vậy trong lúc còn sống nên tranh thủ vui chơi đi.",
     "furigana": ""
   },
   {
     "question": "Vる / N ＋に (は) あたらないKanj: には当たらない",
-    "meaning": "Ý nghĩa: Không đáng phải...., Chẳng đáng phải.....\n その程度のことで怒るにはあたらない。Không đáng phải nổi giận với việc như vậy.",
+    "meaning": "Ý nghĩa: Không đáng phải...., Chẳng đáng phải.....\n その程度のことで怒るにはあたらない。\nKhông đáng phải nổi giận với việc như vậy.",
     "furigana": ""
   },
   {
     "question": "でなくてなんだろうでなくてなんであろう",
-    "meaning": "Ý nghĩa: Không phải là.... thì là gì, Không phải.... sao?(Thường đi với 1 số danh từ tạo thành câu hỏi mang tính tu từ như: 愛 (tình yêu), 運命 (vận mệnh)\n これが宿命でなくて何だろうか。Như vậy không phải là số mệnh thì là gì?こんな立派な絵が芸術でなくてなんだろう。Bức tranh tuyệt vời thế này không phải là nghệ thuật thì là gì ?",
+    "meaning": "Ý nghĩa: Không phải là.... thì là gì, Không phải.... sao?(Thường đi với 1 số danh từ tạo thành câu hỏi mang tính tu từ như: 愛 (tình yêu), 運命 (vận mệnh)\n これが宿命でなくて何だろうか。\nNhư vậy không phải là số mệnh thì là gì?こんな立派な絵が芸術でなくてなんだろう。\nBức tranh tuyệt vời thế này không phải là nghệ thuật thì là gì ?",
     "furigana": ""
   },
   {
     "question": "Vる / N + に足る (にたる)",
-    "meaning": "Ý nghĩa: Xứng đáng, Đáng để.....\n 彼の行動は尊敬に足る。Hành động của anh ấy thật xứng đáng được tôn vinh.彼は、その仕事を任せるに足る人です。Anh ấy là người xứng đáng để giao công việc đấy.",
+    "meaning": "Ý nghĩa: Xứng đáng, Đáng để.....\n 彼の行動は尊敬に足る。\nHành động của anh ấy thật xứng đáng được tôn vinh.彼は、その仕事を任せるに足る人です。\nAnh ấy là người xứng đáng để giao công việc đấy.",
     "furigana": ""
   },
   {
     "question": "Vる / N + に堪える / に堪えない(にたえる / にたえない)",
-    "meaning": "Ý nghĩa: Đáng để....., Có thể chịu đựng được....., Có thể đáp ứng được....(Không đáng để....., Không chịu được....., Không đáp ứng được)\n あの映画は子ども向けですが、大人の鑑賞にも十分堪えます。Bộ phim đó mặc dù dành cho trẻ em nhưng cũng rất đáng để người lớn xem.人の悪口は聞くに堪えない。Những lời nói xấu của người khác thì không đáng để nghe.彼は十分その職に堪(た)える。Anh ta hoàn toàn xứng đáng với chức vụ đó.私の家は地震に堪えるように設計されている。Nhà tôi được thiết kể để có thể chịu được động đất.",
+    "meaning": "Ý nghĩa: Đáng để....., Có thể chịu đựng được....., Có thể đáp ứng được....(Không đáng để....., Không chịu được....., Không đáp ứng được)\n あの映画は子ども向けですが、大人の鑑賞にも十分堪えます。\nBộ phim đó mặc dù dành cho trẻ em nhưng cũng rất đáng để người lớn xem.人の悪口は聞くに堪えない。\nNhững lời nói xấu của người khác thì không đáng để nghe.彼は十分その職に堪(た)える。\nAnh ta hoàn toàn xứng đáng với chức vụ đó.私の家は地震に堪えるように設計されている。\nNhà tôi được thiết kể để có thể chịu được động đất.",
     "furigana": ""
   },
   {
     "question": "A + といったらないA + といったらありはしないA + といったらありゃしないA + ったらない",
-    "meaning": "Ý nghĩa: A hết sức, A hết chỗ để nói\n つまらないといったらない。Nhàm chán hết sức.心細(こころぼそ)さといったらありはしない。Thật là cô đơn không kể xiết汚いといったらありゃしない。Bẩn hết chỗ nói恥ずかしいったらなかったよ。Xấu hổ hết sức",
+    "meaning": "Ý nghĩa: A hết sức, A hết chỗ để nói\n つまらないといったらない。\nNhàm chán hết sức.心細(こころぼそ)さといったらありはしない。\nThật là cô đơn không kể xiết汚いといったらありゃしない。\nBẩn hết chỗ nói恥ずかしいったらなかったよ。\nXấu hổ hết sức",
     "furigana": ""
   },
   {
     "question": "A + 限りだ",
-    "meaning": "Ý nghĩa: Cảm thấy rất A\n 年を取って、お金もなく、家族もいないとは心細い限りです。Khi tôi già đi, không có tiền, không có gia đình, tôi cảm thấy rất cô đơn.",
+    "meaning": "Ý nghĩa: Cảm thấy rất A\n 年を取って、お金もなく、家族もいないとは心細い限りです。\nKhi tôi già đi, không có tiền, không có gia đình, tôi cảm thấy rất cô đơn.",
     "furigana": ""
   },
   {
     "question": "A + 極まる／極まりない(きわまる／きわまりない)",
-    "meaning": "Ý nghĩa: Cực kì A, Rất A\n 危険極まる。Cực kỳ nguy hiểm.恥ずかしいこと極まりない。Rất xấu hổ",
+    "meaning": "Ý nghĩa: Cực kì A, Rất A\n 危険極まる。\nCực kỳ nguy hiểm.恥ずかしいこと極まりない。\nRất xấu hổ",
     "furigana": ""
   },
   {
     "question": "A とは B",
-    "meaning": "Ý nghĩa: A thật là đáng B.....(B là sự ngạc nhiên thán phục trước sự việc A)\n 一人で5種目も優勝とはまったく驚いた。Một người mà vô địch được cả ở 5 môn thì thật là đáng ngạc nhiên.*Chú ý: Có những trường hợp người ta lược bỏ B chỉ có vế A\n あの人がこんな嘘(うそ)をつくとは。Người ấy mà lại nói dối như thế này thì thật là...",
+    "meaning": "Ý nghĩa: A thật là đáng B.....(B là sự ngạc nhiên thán phục trước sự việc A)\n 一人で5種目も優勝とはまったく驚いた。\nMột người mà vô địch được cả ở 5 môn thì thật là đáng ngạc nhiên.*Chú ý: Có những trường hợp người ta lược bỏ B chỉ có vế A\n あの人がこんな嘘(うそ)をつくとは。\nNgười ấy mà lại nói dối như thế này thì thật là...",
     "furigana": ""
   },
   {
     "question": "Vて ＋ やまない",
-    "meaning": "Ý nghĩa: Vẫn luôn....., Cầu chúc cho...., Cầu mong cho.....\n 親は子供の将来を期待してやまないものだ。Cha mẹ vẫn luôn kỳ vọng vào tương lai của con trẻ.地震で全員無事救出されることを祈ってやまない。Tôi luôn cầu chúc cho tất cả mọi người đều được bình an trong trận động đất.",
+    "meaning": "Ý nghĩa: Vẫn luôn....., Cầu chúc cho...., Cầu mong cho.....\n 親は子供の将来を期待してやまないものだ。\nCha mẹ vẫn luôn kỳ vọng vào tương lai của con trẻ.地震で全員無事救出されることを祈ってやまない。\nTôi luôn cầu chúc cho tất cả mọi người đều được bình an trong trận động đất.",
     "furigana": ""
   },
   {
     "question": "Vない + ではすまないVない(Bỏ ない) + ずにはすまないしない → せずにはすまない",
-    "meaning": "Ý nghĩa: Không làm.....thì không được, Không thể không.....(Một việc gì đó bắt buộc phải làm)\n 彼はかなり怒っているよ。僕らが謝らないではすまないと思う。Ông ta khá giận đấy. Tôi nghĩ chúng ta không xin lỗi thì không xong đâu.検査の結果によっては、手術せずにはすまないだろう。Dựa theo kết quả khám thì có lẽ không phẫu thuật thì không được.",
+    "meaning": "Ý nghĩa: Không làm.....thì không được, Không thể không.....(Một việc gì đó bắt buộc phải làm)\n 彼はかなり怒っているよ。\n僕らが謝らないではすまないと思う。\nÔng ta khá giận đấy. Tôi nghĩ chúng ta không xin lỗi thì không xong đâu.検査の結果によっては、手術せずにはすまないだろう。\nDựa theo kết quả khám thì có lẽ không phẫu thuật thì không được.",
     "furigana": ""
   },
   {
     "question": "Vない + ではおかないVない(Bỏ ない) + ずにはおかないしない → せずにはおかない",
-    "meaning": "Ý nghĩa: Không thể không....., Nhất định sẽ.....\n 本当のことを言わせないではおかないぞ。Không thể không nói thật.この映画は評判が高く、見るものを感動させずにはおかないだろう。Bộ phim này được đánh giá cao, xem thôi cũng nhất định sẽ cảm động.",
+    "meaning": "Ý nghĩa: Không thể không....., Nhất định sẽ.....\n 本当のことを言わせないではおかないぞ。\nKhông thể không nói thật.この映画は評判が高く、見るものを感動させずにはおかないだろう。\nBộ phim này được đánh giá cao, xem thôi cũng nhất định sẽ cảm động.",
     "furigana": ""
   },
   {
     "question": "A を禁じ得ない",
-    "meaning": "Ý nghĩa: Không thể kìm được A, Không thể dừng được A, Không thể không A(Một cảm xúc nào đó không thể kìm nén được)\n 彼女の身の上話を聞いて、涙を禁じ得ない。Nghe chuyện về cô ấy mà tôi không cầm được nước mắt.",
+    "meaning": "Ý nghĩa: Không thể kìm được A, Không thể dừng được A, Không thể không A(Một cảm xúc nào đó không thể kìm nén được)\n 彼女の身の上話を聞いて、涙を禁じ得ない。\nNghe chuyện về cô ấy mà tôi không cầm được nước mắt.",
     "furigana": ""
   },
   {
     "question": "A + を余儀なくされるA + を余儀なくさせる(をよぎなくされる)",
-    "meaning": "Ý nghĩa: Đành phải A, Buộc Phải A\n 彼は病気で入院を余儀なくされた。Cậu ấy đã phải nhập viện vì bệnh.両親の離婚が私に転校を余儀なくさせた。Việc ba mẹ ly hôn đã khiến tôi phải chuyển trường.",
+    "meaning": "Ý nghĩa: Đành phải A, Buộc Phải A\n 彼は病気で入院を余儀なくされた。\nCậu ấy đã phải nhập viện vì bệnh.両親の離婚が私に転校を余儀なくさせた。\nViệc ba mẹ ly hôn đã khiến tôi phải chuyển trường.",
     "furigana": ""
   },
   {
     "question": "A + べくA là Vる*Đặc biệt: する＋べく → すべく・するべく",
-    "meaning": "Ý nghĩa: Để A, Để có thể A\n 彼はサッカー選手になるべく、毎日厳(きび)しい練習をしている。Anh ấy luyện tập chăm chỉ mỗi ngày để trở thành cầu thủ bóng đá.",
+    "meaning": "Ý nghĩa: Để A, Để có thể A\n 彼はサッカー選手になるべく、毎日厳(きび)しい練習をしている。\nAnh ấy luyện tập chăm chỉ mỗi ngày để trở thành cầu thủ bóng đá.",
     "furigana": ""
   },
   {
     "question": "A + んがため(に)A + んがための + BA là Vない bỏ ない",
-    "meaning": "Ý nghĩa: - Để A- B để A\n 子どもを救わんがため、命を落とした。Anh ấy đã bỏ mình để cứu lấy đứa trẻ.生きんがための仕事。Một công việc làm để sống.",
+    "meaning": "Ý nghĩa: - Để A- B để A\n 子どもを救わんがため、命を落とした。\nAnh ấy đã bỏ mình để cứu lấy đứa trẻ.生きんがための仕事。\nMột công việc làm để sống.",
     "furigana": ""
   },
   {
     "question": "A + をもって + B",
-    "meaning": "Ý nghĩa: Lấy A làm B, Làm B bằng A\n このレポートをもって、結果報告とする。Tôi sẽ lấy bản báo cáo này làm báo cáo kết quả.誠意をもって交渉に当たることにしましょう。Chúng ta hãy tiến hành đàm phán bằng thành ý.",
+    "meaning": "Ý nghĩa: Lấy A làm B, Làm B bằng A\n このレポートをもって、結果報告とする。\nTôi sẽ lấy bản báo cáo này làm báo cáo kết quả.誠意をもって交渉に当たることにしましょう。\nChúng ta hãy tiến hành đàm phán bằng thành ý.",
     "furigana": ""
   },
   {
     "question": "ばこそ",
-    "meaning": "Ý nghĩa: Chính vì.......(Mang nghĩa nhấn mạnh nguyên nhân)\n 収入が少なければこそ、楽しく暮らす努力をする。Chính vì thu nhập thấp nên tôi mới phải nỗ lực để sống vui vẻ.",
+    "meaning": "Ý nghĩa: Chính vì.......(Mang nghĩa nhấn mạnh nguyên nhân)\n 収入が少なければこそ、楽しく暮らす努力をする。\nChính vì thu nhập thấp nên tôi mới phải nỗ lực để sống vui vẻ.",
     "furigana": ""
   },
   {
     "question": "とあって",
-    "meaning": "Ý nghĩa: Bởi vì...., Vì.....\n 入学試験が近いとあって、みんな緊張している。Vì kỳ thi đại học sắp tới, nên ai cũng lo lắng.",
+    "meaning": "Ý nghĩa: Bởi vì...., Vì.....\n 入学試験が近いとあって、みんな緊張している。\nVì kỳ thi đại học sắp tới, nên ai cũng lo lắng.",
     "furigana": ""
   },
   {
     "question": "Vる + のではあるまいし / わけではあるまいしVた + のではあるまいし / わけではあるまいしN + ではあるまいし / じゃあるまいし / でもあるまいし",
-    "meaning": "Ý nghĩa: - Đâu phải là.....(nên).....- Không còn là.....(nên).....\n 犬や猫じゃあるまいし、上の人の言葉に従(したが)うだけなんてごめんだ。Cậu đâu phải là chó mèo, sao cứ phải răm rắp nghe theo lời sếp thế.子供ではあるまいし、眠かったり空腹だったりするだけでそんなに不機嫌な顔をするものではない。Cậu cũng không còn là trẻ con, đừng có mà xị cái mặt ra khi buồn ngủ hay đói bụng như thế.",
+    "meaning": "Ý nghĩa: - Đâu phải là.....(nên).....- Không còn là.....(nên).....\n 犬や猫じゃあるまいし、上の人の言葉に従(したが)うだけなんてごめんだ。\nCậu đâu phải là chó mèo, sao cứ phải răm rắp nghe theo lời sếp thế.子供ではあるまいし、眠かったり空腹だったりするだけでそんなに不機嫌な顔をするものではない。\nCậu cũng không còn là trẻ con, đừng có mà xị cái mặt ra khi buồn ngủ hay đói bụng như thế.",
     "furigana": ""
   },
   {
     "question": "A + 手前 (てまえ)",
-    "meaning": "Ý nghĩa: Trước mặt...A..., Chính vì...A...\n いつも手伝ってもらっている手前、今回はこちらから手伝いを申し出ないければ・Vì lúc nào anh cũng giúp đỡ tôi nên lần này hãy để tôi giúp anh.子供たちの手前、父親がこんな酔(よ)っ払(ぱら)った姿(すがた)で帰宅(きたく)しては体裁(ていさい)が悪い。Bố về nhà với bộ dạng say xỉn thì thật mất hình tượng trước mặt con cái.",
+    "meaning": "Ý nghĩa: Trước mặt...A..., Chính vì...A...\n いつも手伝ってもらっている手前、今回はこちらから手伝いを申し出ないければ・Vì lúc nào anh cũng giúp đỡ tôi nên lần này hãy để tôi giúp anh.子供たちの手前、父親がこんな酔(よ)っ払(ぱら)った姿(すがた)で帰宅(きたく)しては体裁(ていさい)が悪い。\nBố về nhà với bộ dạng say xỉn thì thật mất hình tượng trước mặt con cái.",
     "furigana": ""
   },
   {
     "question": "ゆえ(に)",
-    "meaning": "Ý nghĩa: Vì.....\n 慣れないことゆえ、数々(かずかず)の不手際(ふてぎわ)、どうぞお許してください。Vì chưa quen nên tôi còn lóng ngóng vụng về, xin vui lòng bỏ qua cho tôi.",
+    "meaning": "Ý nghĩa: Vì.....\n 慣れないことゆえ、数々(かずかず)の不手際(ふてぎわ)、どうぞお許してください。\nVì chưa quen nên tôi còn lóng ngóng vụng về, xin vui lòng bỏ qua cho tôi.",
     "furigana": ""
   },
   {
     "question": "A + にかたくない",
-    "meaning": "Ý nghĩa: Không khó để A (Tưởng tượng, Đoán, Hiểu)\n でき上がった作品を見れば、彼のこれまでの努力は想像にかたくない。Nhìn những tác phẩm đã hoàn thành thì không khó để hình dung ra anh ấy đã nỗ lực như thế nào cho đến giờ.",
+    "meaning": "Ý nghĩa: Không khó để A (Tưởng tượng, Đoán, Hiểu)\n でき上がった作品を見れば、彼のこれまでの努力は想像にかたくない。\nNhìn những tác phẩm đã hoàn thành thì không khó để hình dung ra anh ấy đã nỗ lực như thế nào cho đến giờ.",
     "furigana": ""
   },
   {
     "question": "Vるに + Vkhả năng ở dạng phủ địnhVよう + にも + Vkhả năng ở dạng phủ định",
-    "meaning": "Ý nghĩa: Muốn V mà không thể V\n 野菜をたくさんもらったが、食べきれない。捨てるに捨てられず. Được cho bao nhiêu là rau nên tôi không ăn hết. Muốn vứt đi mà không thể vứt được.何か言うに言えない事情があったのだろうか。Chắc là có điều gì đó muốn nói mà không thể nói ra chăng?",
+    "meaning": "Ý nghĩa: Muốn V mà không thể V\n 野菜をたくさんもらったが、食べきれない。\n捨てるに捨てられず. Được cho bao nhiêu là rau nên tôi không ăn hết. Muốn vứt đi mà không thể vứt được.何か言うに言えない事情があったのだろうか。\nChắc là có điều gì đó muốn nói mà không thể nói ra chăng?",
     "furigana": ""
   },
   {
     "question": "VてはいられないVではいられない",
-    "meaning": "Ý nghĩa: Không thể cứ....., Không thể cứ mãi......\n 遅い人もうこれ以上待ってはいられない。Không thể tiếp tục đợi những người đến muộn nữa.",
+    "meaning": "Ý nghĩa: Không thể cứ....., Không thể cứ mãi......\n 遅い人もうこれ以上待ってはいられない。\nKhông thể tiếp tục đợi những người đến muộn nữa.",
     "furigana": ""
   },
   {
     "question": "Vる ＋ べくもない",
-    "meaning": "Ý nghĩa: Không thể V được\n 優勝は望むべくもない。Không thể hi vọng vô địch được.",
+    "meaning": "Ý nghĩa: Không thể V được\n 優勝は望むべくもない。\nKhông thể hi vọng vô địch được.",
     "furigana": ""
   },
   {
     "question": "Vる ＋ べからずVる ＋ べからざる*Chú ý: する → すべからず",
-    "meaning": "Ý nghĩa: Cấm V , Không thể V , Không được V \n 芝生に立ち入るべからず。Không được phép đi vào bãi cỏ.微笑が第一に美人に欠くべからざる一要素だと思う。Tôi nghĩ rằng nụ cười là yếu tố đầu tiên không thể thiếu đối với một người đẹp.",
+    "meaning": "Ý nghĩa: Cấm V , Không thể V , Không được V \n 芝生に立ち入るべからず。\nKhông được phép đi vào bãi cỏ.微笑が第一に美人に欠くべからざる一要素だと思う。\nTôi nghĩ rằng nụ cười là yếu tố đầu tiên không thể thiếu đối với một người đẹp.",
     "furigana": ""
   },
   {
     "question": "Ｖる＋まじきNとしてあるまじき*Chú ý: する → するまじき / すまじき",
-    "meaning": "Ý nghĩa:- Thường chỉ bắt gặp ở 2 dạng あるまじき hoặc 許すまじき: Không thể chấp nhận được, Không thể tha thứ được - Nとしてあるまじき: Không thể chấp nhận được đối với N\n ほかの人の案を盗むなんて許すまじきことだ。Ăn cắp phương án của người khác là hành vi không chấp nhận được.彼の言動は政治家としてあるまじきもので、非難されて当然だ。Những lời nói và hành động của ông ta là không thể chấp nhận đối với một nhà chính trị, vì thế bị chỉ trích cũng là đường nhiên.",
+    "meaning": "Ý nghĩa:- Thường chỉ bắt gặp ở 2 dạng あるまじき hoặc 許すまじき: Không thể chấp nhận được, Không thể tha thứ được - Nとしてあるまじき: Không thể chấp nhận được đối với N\n ほかの人の案を盗むなんて許すまじきことだ。\nĂn cắp phương án của người khác là hành vi không chấp nhận được.彼の言動は政治家としてあるまじきもので、非難されて当然だ。\nNhững lời nói và hành động của ông ta là không thể chấp nhận đối với một nhà chính trị, vì thế bị chỉ trích cũng là đường nhiên.",
     "furigana": ""
   },
   {
     "question": "N + ときたら",
-    "meaning": "Ý nghĩa: N Ấy à..., N Ấy hả.... (Đưa ra 1 ví dụ để nói về sự tiêu cực)\n うちの息子ときたら、休みになると部屋にこもってテレビゲームばかりする。Thằng con nhà tôi ấy hả, cứ được nghỉ là nó lại rúc trong phòng chơi game.",
+    "meaning": "Ý nghĩa: N Ấy à..., N Ấy hả.... (Đưa ra 1 ví dụ để nói về sự tiêu cực)\n うちの息子ときたら、休みになると部屋にこもってテレビゲームばかりする。\nThằng con nhà tôi ấy hả, cứ được nghỉ là nó lại rúc trong phòng chơi game.",
     "furigana": ""
   },
   {
     "question": "A + ともなるとA + ともなれば",
-    "meaning": "Ý nghĩa: Cứ hễ A thì...., Một khi đã A thì....\n 日曜日ともなると昼頃まで寝ている。Cứ hễ đến chủ nhật lại là ngủ đến tận trưa.",
+    "meaning": "Ý nghĩa: Cứ hễ A thì...., Một khi đã A thì....\n 日曜日ともなると昼頃まで寝ている。\nCứ hễ đến chủ nhật lại là ngủ đến tận trưa.",
     "furigana": ""
   },
   {
     "question": "A + ともあろう者が(ともあろうものが)A + ともあろう人が(ともあろうひとが)",
-    "meaning": "Ý nghĩa: Đường đường là A nhưng lại (A là một vị trí cao như giám đốc lãnh đạo. Mang nghĩa chỉ trích\n 大学生ともあろう者が、その漢字を読めないのは恥ずかしい。Đường đường là sinh viên đại học mà lại không đọc được chữ Hán kia thật đáng xấu hổ.",
+    "meaning": "Ý nghĩa: Đường đường là A nhưng lại (A là một vị trí cao như giám đốc lãnh đạo. Mang nghĩa chỉ trích\n 大学生ともあろう者が、その漢字を読めないのは恥ずかしい。\nĐường đường là sinh viên đại học mà lại không đọc được chữ Hán kia thật đáng xấu hổ.",
     "furigana": ""
   },
   {
     "question": "A たる BA たる 者が",
-    "meaning": "Ý nghĩa:- A たる B: Đường đường là B với cương vị A thì phải....\n 国の代表たる機関で働くのだから誇りと覚悟を持ってください。Vì cậu làm việc ở cơ quan đại diện cho đất nước nên hãy tự hào và luôn sẵn sàng.- A たる 者が: Vì là người mang chức vụ A thì phải.....\n 学生たるもの、まじめに勉強すべきである。Là học sinh thì phải học tập chăm chỉ.",
+    "meaning": "Ý nghĩa:- A たる B: Đường đường là B với cương vị A thì phải....\n 国の代表たる機関で働くのだから誇りと覚悟を持ってください。\nVì cậu làm việc ở cơ quan đại diện cho đất nước nên hãy tự hào và luôn sẵn sàng.- A たる 者が: Vì là người mang chức vụ A thì phải.....\n 学生たるもの、まじめに勉強すべきである。\nLà học sinh thì phải học tập chăm chỉ.",
     "furigana": ""
   },
   {
     "question": "A + なりに / なりの",
-    "meaning": "Ý nghĩa:- Đứng ở lập trường của A, Làm gì đó theo cách của A\n 僕なりの考えはある。Tôi có ý kiến theo quan điểm của tôi .- Làm hết sức trong phạm vi A\n 私なりに努力はしてみましたが、力が及びませんでした。Tôi đã cố gắng hết sức mình, nhưng lực bất tòng tâm.",
+    "meaning": "Ý nghĩa:- Đứng ở lập trường của A, Làm gì đó theo cách của A\n 僕なりの考えはある。\nTôi có ý kiến theo quan điểm của tôi .- Làm hết sức trong phạm vi A\n 私なりに努力はしてみましたが、力が及びませんでした。\nTôi đã cố gắng hết sức mình, nhưng lực bất tòng tâm.",
     "furigana": ""
   },
   {
     "question": "A + にひきかえ",
-    "meaning": "Ý nghĩa: Trái lại với A, Ngược lại với A\n 昨日のひどい天気にひきかえ、当日は晴れている。Trái với thời tiết tồi tệ hôm qua thì hôm nay nắng đẹp.",
+    "meaning": "Ý nghĩa: Trái lại với A, Ngược lại với A\n 昨日のひどい天気にひきかえ、当日は晴れている。\nTrái với thời tiết tồi tệ hôm qua thì hôm nay nắng đẹp.",
     "furigana": ""
   },
   {
     "question": "A + にもましてNghi vấn từ＋にもまして(何／だれ／いつ)",
-    "meaning": "Ý nghĩa:- A + にもまして: Hơn cả A\n 今回のイベントは、前回にもまして好評だった。Sự kiện lần này được đánh giá cao hơn cả lần trước.Nghi vấn từ＋にもまして:  + 何にもまして - Hơn tất cả mọi thứ + だれにもまして - Hơn bất kỳ ai + いつにもまして - Hơn bất cứ lúc nào\n 大学に合格できたことが、なににもまして嬉しく思いました。Đỗ đại học làm tôi vui mừng hơn bất cứ chuyện gì.",
+    "meaning": "Ý nghĩa:- A + にもまして: Hơn cả A\n 今回のイベントは、前回にもまして好評だった。\nSự kiện lần này được đánh giá cao hơn cả lần trước.Nghi vấn từ＋にもまして:  + 何にもまして - Hơn tất cả mọi thứ + だれにもまして - Hơn bất kỳ ai + いつにもまして - Hơn bất cứ lúc nào\n 大学に合格できたことが、なににもまして嬉しく思いました。\nĐỗ đại học làm tôi vui mừng hơn bất cứ chuyện gì.",
     "furigana": ""
   },
   {
     "question": "Vないまでも",
-    "meaning": "Ý nghĩa: Dù không đến mức phải làm V, Dù không thể V thì ít nhất cũng......\n うちの両親は離婚とは行かないまでも、ずっと仲が悪い。Bố mẹ tôi dù không đến mức ly hôn nhưng mối quan hệ không lúc nào tốt đẹp.",
+    "meaning": "Ý nghĩa: Dù không đến mức phải làm V, Dù không thể V thì ít nhất cũng......\n うちの両親は離婚とは行かないまでも、ずっと仲が悪い。\nBố mẹ tôi dù không đến mức ly hôn nhưng mối quan hệ không lúc nào tốt đẹp.",
     "furigana": ""
   },
   {
     "question": "A + に至って(にいたって)",
-    "meaning": "Ý nghĩa: Cho đến khi A\n 犠牲者が出るに至って、問題の深刻さに気がつくのでは遅いのだ。Cho đến khi có nạn nhân xuất hiện thì việc nhận ra sự trầm trọng của vấn đề đã trễ.",
+    "meaning": "Ý nghĩa: Cho đến khi A\n 犠牲者が出るに至って、問題の深刻さに気がつくのでは遅いのだ。\nCho đến khi có nạn nhân xuất hiện thì việc nhận ra sự trầm trọng của vấn đề đã trễ.",
     "furigana": ""
   },
   {
     "question": "A + に至っても(にいたっても)",
-    "meaning": "Ý nghĩa: Cho dù đã đến mức A nhưng...\n 結婚するに至っても夫は浮気をやめなかった。Mặc dù sắp kết hôn nhưng chồng tôi vẫn không bỏ được thói lăng nhăng.",
+    "meaning": "Ý nghĩa: Cho dù đã đến mức A nhưng...\n 結婚するに至っても夫は浮気をやめなかった。\nMặc dù sắp kết hôn nhưng chồng tôi vẫn không bỏ được thói lăng nhăng.",
     "furigana": ""
   },
   {
     "question": "A + にいたっては",
-    "meaning": "Ý nghĩa: Đến như A cũng...., Còn như A thì......\n 父も母も私の転職に大反対し、姉に至っては、そんなことより早く結婚しろと言い出す始末だった。Cả cha lẫn mẹ tôi đều phản đối rất dữ việc tôi thay đổi việc làm, đến như chị tôi còn thốt ra rằng: thôi tốt hơn em hãy sớm lập gia đình.この国では都市部の年収を100とすると、農村部では60、山間部に至ってはわずか35だそうだ。Ở quốc gia này nghe nói nếu lấy thu nhập ở khu vực đô thị là 100 thì ở khu vực nông thôn là 60, còn như khu vực miền núi thì chỉ vỏn vẹn 35 mà thôi.",
+    "meaning": "Ý nghĩa: Đến như A cũng...., Còn như A thì......\n 父も母も私の転職に大反対し、姉に至っては、そんなことより早く結婚しろと言い出す始末だった。\nCả cha lẫn mẹ tôi đều phản đối rất dữ việc tôi thay đổi việc làm, đến như chị tôi còn thốt ra rằng: thôi tốt hơn em hãy sớm lập gia đình.この国では都市部の年収を100とすると、農村部では60、山間部に至ってはわずか35だそうだ。\nỞ quốc gia này nghe nói nếu lấy thu nhập ở khu vực đô thị là 100 thì ở khu vực nông thôn là 60, còn như khu vực miền núi thì chỉ vỏn vẹn 35 mà thôi.",
     "furigana": ""
   },
   {
     "question": "始末だ(しまつだ)",
-    "meaning": "Ý nghĩa: Rút cục thì, Cuối cùng thì....(Dùng để biểu thị một kết cục xấu)\n うちの娘は、ダイエットのしすぎで病気になり、入院する始末だ。Con gái nhà tôi, giảm nhiều cân quá thành bệnh kết cục là phải nhập viện.",
+    "meaning": "Ý nghĩa: Rút cục thì, Cuối cùng thì....(Dùng để biểu thị một kết cục xấu)\n うちの娘は、ダイエットのしすぎで病気になり、入院する始末だ。\nCon gái nhà tôi, giảm nhiều cân quá thành bệnh kết cục là phải nhập viện.",
     "furigana": ""
   },
   {
     "question": "Vます(Bỏ ます) + っぱなしだ",
-    "meaning": "Ý nghĩa: Mẫu câu diễn tả một hành động hay tình trạng nào đó xảy ra và cứ giữ nguyên/ tiếp diễn như vậy không thay đổi.\n 新幹線で東京から名古屋まで立ちっぱなしだった。Tôi đã phải đứng suốt trên tàu shinkansen từ Tokyo đến Nagoya.",
+    "meaning": "Ý nghĩa: Mẫu câu diễn tả một hành động hay tình trạng nào đó xảy ra và cứ giữ nguyên/ tiếp diễn như vậy không thay đổi.\n 新幹線で東京から名古屋まで立ちっぱなしだった。\nTôi đã phải đứng suốt trên tàu shinkansen từ Tokyo đến Nagoya.",
     "furigana": ""
   }
 ]
