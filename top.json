@@ -363,8 +363,16 @@
             "backAlign": "left",
             "content": [
                 {
-                    "fileName": "Tổng hợp ngữ pháp Dũng mori",
-                    "fileId": "grammar_n1_summary/dungmori.json"
+                    "fileName": "Tổng hợp ngữ pháp Dũng mori①",
+                    "fileId": "grammar_n1_summary/dungmori_1.json"
+                },
+                {
+                    "fileName": "Tổng hợp ngữ pháp Dũng mori②",
+                    "fileId": "grammar_n1_summary/dungmori_2.json"
+                },
+                {
+                    "fileName": "Tổng hợp ngữ pháp Dũng mori③",
+                    "fileId": "grammar_n1_summary/dungmori_3.json"
                 },
                 {
                     "fileName": "Tổng hợp ngữ pháp Shinkanzen",
