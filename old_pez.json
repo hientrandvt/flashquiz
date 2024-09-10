@@ -1,0 +1,62 @@
+[
+    {
+        "title": "MIXペッツ",
+        "image": "pez_mix.png",
+        "price": 3000
+    },
+    {
+        "title": "パンダペッツ",
+        "image": "panda.jpg",
+        "price": 1000
+    },
+    {
+        "title": "Animalペッツ",
+        "image": "anima_set.jpg",
+        "price": 10000
+    },
+    {
+        "title": "XMASペッツ",
+        "image": "xmas_set.jpg",
+        "price": 2000
+    },
+    {
+        "title": "Fishペッツ",
+        "image": "fish.jpg",
+        "price": 30000
+    },
+    {
+        "title": "Ghostペッツ",
+        "image": "ghost_set.jpg",
+        "price": 4000
+    },
+    {
+        "title": "Cartoonペッツ",
+        "image": "cartoon.jpg",
+        "price": 500
+    },
+    {
+        "title": "Kittyペッツ",
+        "image": "kitty.jpg",
+        "price": 6000
+    },
+    {
+        "title": "Elsaペッツ",
+        "image": "elsa.jpg",
+        "price": 2000
+    },
+    {
+        "title": "Duckペッツ",
+        "image": "duck.jpg",
+        "price": 50000
+    },
+    {
+        "title": "Mickyペッツ",
+        "image": "micky.jpg",
+        "price": 3000
+    },
+    {
+        "title": "Cuteペッツ",
+        "image": "cute.jpg",
+        "price": 3000
+    }
+]
